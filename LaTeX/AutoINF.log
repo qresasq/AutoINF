@@ -1,0 +1,990 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.10)  14 OCT 2018 14:42
+entering extended mode
+**./AutoINF.tex
+(AutoINF.tex
+LaTeX2e <2018-04-01> patch level 5
+("D:\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("D:\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("D:\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2018/04/06 v1.3b Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+("D:\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+)) ("D:\MiKTeX 2.9\tex\latex\ucs\ucs.sty"
+Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
+ ("D:\MiKTeX 2.9\tex\latex\ucs\uni-global.def"
+File: uni-global.def 2013/05/13 UCS: Unicode global data
+)
+\uc@secondtry=\count88
+\uc@combtoks=\toks16
+\uc@combtoksb=\toks17
+\uc@temptokena=\toks18
+)
+("D:\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+("D:\MiKTeX 2.9\tex\latex\lithuanian\l7xenc.def"
+File: l7xenc.def 2017/12/06 v2.0 LaTeX-LT file
+)
+("D:\MiKTeX 2.9\tex\latex\cyrillic\t2aenc.def"
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+)
+LaTeX Font Info:    Try loading font information for T2A+lmr on input line 105.
+
+LaTeX Font Info:    No file T2Almr.fd. on input line 105.
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 105.
+
+
+("D:\MiKTeX 2.9\tex\latex\cyrillic\t2acmr.fd"
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+
+LaTeX Font Warning: Font shape `T2A/lmr/m/n' undefined
+(Font)              using `T2A/cmr/m/n' instead on input line 105.
+
+) ("D:\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2018/10/03 3.25 The Babel package
+
+("D:\MiKTeX 2.9\tex\generic\babel\switch.def"
+File: switch.def 2018/10/03 3.25 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+("D:\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("D:\MiKTeX 2.9\tex\latex\lithuanian\lithuanian.ldf"
+Language: lithuanian 2017/12/06 v1.0 Lithuanian support from the babel system
+
+("D:\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2018/10/03 3.25 Babel common definitions
+\babel@savecnt=\count89
+\U@D=\dimen103
+
+("D:\MiKTeX 2.9\tex\generic\babel\txtbabel.def")
+\bbl@dirlevel=\count90
+)))
+("D:\MiKTeX 2.9\tex\latex\vwcol\vwcol.sty"
+Package: vwcol 2008/06/24 v0.1 Variable-width multicolumn text
+
+("D:\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count91
+\calc@Bcount=\count92
+\calc@Adimen=\dimen104
+\calc@Bdimen=\dimen105
+\calc@Askip=\skip43
+\calc@Bskip=\skip44
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count93
+\calc@Cskip=\skip45
+)
+("D:\MiKTeX 2.9\tex\latex\environ\environ.sty"
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+("D:\MiKTeX 2.9\tex\latex\trimspaces\trimspaces.sty"
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+)
+\@envbody=\toks19
+)
+("D:\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks20
+)
+("D:\MiKTeX 2.9\tex\latex\ms\ragged2e.sty"
+Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
+
+("D:\MiKTeX 2.9\tex\latex\ms\everysel.sty"
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\CenteringLeftskip=\skip46
+\RaggedLeftLeftskip=\skip47
+\RaggedRightLeftskip=\skip48
+\CenteringRightskip=\skip49
+\RaggedLeftRightskip=\skip50
+\RaggedRightRightskip=\skip51
+\CenteringParfillskip=\skip52
+\RaggedLeftParfillskip=\skip53
+\RaggedRightParfillskip=\skip54
+\JustifyingParfillskip=\skip55
+\CenteringParindent=\skip56
+\RaggedLeftParindent=\skip57
+\RaggedRightParindent=\skip58
+\JustifyingParindent=\skip59
+)
+\vwcol@sep=\skip60
+\vwcol@rule=\skip61
+\vwcol@totalwidth=\skip62
+\vwcol@averagewidth=\skip63
+\vwcol@parindent=\skip64
+\vwcol@last=\count94
+\vwcol@Ncols=\count95
+\vwcol@Nlines=\count96
+\vwcol@maxrecursion=\count97
+\vwcol@box=\box26
+\vwcol@plainbox=\box27
+\vwcol@outputbox=\box28
+)
+("D:\MiKTeX 2.9\tex\latex\sectsty\sectsty.sty"
+Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
+les
+)
+("D:\MiKTeX 2.9\tex\latex\setspace\setspace.sty"
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+("D:\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
+Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip65
+\f@nch@O@elh=\skip66
+\f@nch@O@erh=\skip67
+\f@nch@O@olh=\skip68
+\f@nch@O@orh=\skip69
+\f@nch@O@elf=\skip70
+\f@nch@O@erf=\skip71
+\f@nch@O@olf=\skip72
+\f@nch@O@orf=\skip73
+)
+("D:\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("D:\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("D:\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("D:\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("D:\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen106
+\Gin@req@width=\dimen107
+)
+("D:\MiKTeX 2.9\tex\latex\titlesec\titlesec.sty"
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box29
+\beforetitleunit=\skip74
+\aftertitleunit=\skip75
+\ttl@plus=\dimen108
+\ttl@minus=\dimen109
+\ttl@toksa=\toks21
+\titlewidth=\dimen110
+\titlewidthlast=\dimen111
+\titlewidthfirst=\dimen112
+)
+("D:\MiKTeX 2.9\tex\latex\graphics\epsfig.sty"
+Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
+\epsfxsize=\dimen113
+\epsfysize=\dimen114
+)
+("D:\MiKTeX 2.9\tex\latex\tools\indentfirst.sty"
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+("D:\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+("D:\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+("D:\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("D:\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count98
+\Gm@cntv=\count99
+\c@Gm@tempcnt=\count100
+\Gm@bindingoffset=\dimen115
+\Gm@wd@mp=\dimen116
+\Gm@odd@mp=\dimen117
+\Gm@even@mp=\dimen118
+\Gm@layoutwidth=\dimen119
+\Gm@layoutheight=\dimen120
+\Gm@layouthoffset=\dimen121
+\Gm@layoutvoffset=\dimen122
+\Gm@dimlist=\toks22
+
+("D:\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("D:\MiKTeX 2.9\tex\latex\svg\svg.sty"
+Package: svg 2018/09/08 v2.02 (include SVG pictures)
+
+("D:\MiKTeX 2.9\tex\latex\koma-script\scrbase.sty"
+Package: scrbase 2018/03/30 v3.25 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+("D:\MiKTeX 2.9\tex\latex\koma-script\scrlfile.sty"
+Package: scrlfile 2018/03/30 v3.25 KOMA-Script package (loading files)
+))
+("D:\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+("D:\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("D:\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("D:\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("D:\MiKTeX 2.9\tex\latex\tools\shellesc.sty"
+Package: shellesc 2016/06/07 v0.02a unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 69.
+)
+\svg@box=\box30
+\c@svg@param@lastpage=\count101
+\c@svg@param@currpage=\count102
+)
+("D:\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("D:\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("D:\MiKTeX 2.9\tex\latex\oberdiek\transparent.sty"
+Package: transparent 2016/05/16 v1.1 Transparency via pdfTeX's color stack (HO)
+
+
+("D:\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)) (AutoINF.aux)
+\openout1 = `AutoINF.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for L7x/lmr/m/n on input line 46.
+LaTeX Font Info:    Try loading font information for L7x+lmr on input line 46.
+
+("D:\MiKTeX 2.9\tex\latex\lm\l7xlmr.fd"
+File: l7xlmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+
+("D:\MiKTeX 2.9\tex\latex\ucs\ucsencs.def"
+File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
+)
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 46.
+
+("D:\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count103
+\scratchdimen=\dimen123
+\scratchbox=\box31
+\nofMPsegments=\count104
+\nofMParguments=\count105
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count106
+\MPscratchDim=\dimen124
+\MPnumerator=\count107
+\makeMPintoPDFobject=\count108
+\everyMPtoPDFconversion=\toks24
+) ("D:\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("D:\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("D:\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+("D:\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("D:\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("D:\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 486.25761pt, 42.67912pt)
+* v-part:(T,H,B)=(56.9055pt, 681.15898pt, 56.9055pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=486.25761pt
+* \textheight=681.15898pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+("D:\MiKTeX 2.9\tex\latex\ucs\uni-1.def"
+File: uni-1.def 2013/05/13 UCS: Unicode data U+0100..U+01FF
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 48.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 48.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 68.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 68.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 68.
+ [1
+
+
+{C:/Users/stong/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] ("D:\MiKTeX
+ 2.9\tex\latex\ucs\uni-32.def"
+File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
+)
+Overfull \hbox (19.37085pt too wide) in paragraph at lines 100--102
+[][]\T2A/cmr/m/n/12 Siame pro-jek-ti-nia-me dar-be pri-sta-to-mas automobili[] 
+skelbim[] prog-ram
+el
+es ½Au-toInf []gyvendinimas.
+ []
+
+
+Overfull \hbox (6.46906pt too wide) in paragraph at lines 100--102
+\T2A/cmr/m/n/12 lie-siems []renginiams, su-tei-kia galimyb[] var-to-to-jui leg-
+viau ras-ti j[] do-mi-nanci[] trans-por-to priemon[],
+ []
+
+[2] (AutoINF.toc)
+\tf@toc=\write3
+\openout3 = `AutoINF.toc'.
+
+ [3]
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--119
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
+
+ []
+
+[4]
+Package epstopdf Info: Source file: <Tikslai.eps>
+(epstopdf)                    date: 2018-10-12 08:32:25
+(epstopdf)                    size: 47698 bytes
+(epstopdf)             Output file: <Tikslai-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-10-14 14:36:18
+(epstopdf)                    size: 14380 bytes
+(epstopdf)             Command: <epstopdf --outfile=Tikslai-eps-converted-to.pd
+f Tikslai.eps>
+(epstopdf)             \includegraphics on input line 146.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./Tikslai-eps-converted-to.pdf): PDF inclusion: 
+found PDF version <1.7>, but at most version <1.5> allowed
+<Tikslai-eps-converted-to.pdf, id=19, 557.08125pt x 251.94125pt>
+File: Tikslai-eps-converted-to.pdf Graphic file (type pdf)
+<use Tikslai-eps-converted-to.pdf>
+Package pdftex.def Info: Tikslai-eps-converted-to.pdf  used on input line 146.
+(pdftex.def)             Requested size: 486.25761pt x 219.91753pt.
+[5 <./Tikslai-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <TikslaiVartotojas.eps>
+(epstopdf)                    date: 2018-10-12 09:10:07
+(epstopdf)                    size: 43890 bytes
+(epstopdf)             Output file: <TikslaiVartotojas-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-10-14 14:36:20
+(epstopdf)                    size: 11753 bytes
+(epstopdf)             Command: <epstopdf --outfile=TikslaiVartotojas-eps-conve
+rted-to.pdf TikslaiVartotojas.eps>
+(epstopdf)             \includegraphics on input line 156.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./TikslaiVartotojas-eps-converted-to.pdf): PDF i
+nclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<TikslaiVartotojas-eps-converted-to.pdf, id=58, 557.08125pt x 422.57875pt>
+File: TikslaiVartotojas-eps-converted-to.pdf Graphic file (type pdf)
+<use TikslaiVartotojas-eps-converted-to.pdf>
+Package pdftex.def Info: TikslaiVartotojas-eps-converted-to.pdf  used on input 
+line 156.
+(pdftex.def)             Requested size: 340.37885pt x 258.20467pt.
+[6 <./TikslaiVartotojas-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <TikslaiAdministratorius.eps>
+(epstopdf)                    date: 2018-10-12 09:10:51
+(epstopdf)                    size: 41232 bytes
+(epstopdf)             Output file: <TikslaiAdministratorius-eps-converted-to.p
+df>
+(epstopdf)                    date: 2018-10-14 14:36:22
+(epstopdf)                    size: 10177 bytes
+(epstopdf)             Command: <epstopdf --outfile=TikslaiAdministratorius-eps
+-converted-to.pdf TikslaiAdministratorius.eps>
+(epstopdf)             \includegraphics on input line 166.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./TikslaiAdministratorius-eps-converted-to.pdf):
+ PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<TikslaiAdministratorius-eps-converted-to.pdf, id=89, 557.08125pt x 272.01625pt
+>
+File: TikslaiAdministratorius-eps-converted-to.pdf Graphic file (type pdf)
+<use TikslaiAdministratorius-eps-converted-to.pdf>
+Package pdftex.def Info: TikslaiAdministratorius-eps-converted-to.pdf  used on 
+input line 166.
+(pdftex.def)             Requested size: 340.37885pt x 166.20775pt.
+[7 <./TikslaiAdministratorius-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <Prisiregistruoti.eps>
+(epstopdf)                    date: 2018-10-12 08:35:40
+(epstopdf)                    size: 49665 bytes
+(epstopdf)             Output file: <Prisiregistruoti-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-10-14 14:36:23
+(epstopdf)                    size: 13580 bytes
+(epstopdf)             Command: <epstopdf --outfile=Prisiregistruoti-eps-conver
+ted-to.pdf Prisiregistruoti.eps>
+(epstopdf)             \includegraphics on input line 178.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./Prisiregistruoti-eps-converted-to.pdf): PDF in
+clusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Prisiregistruoti-eps-converted-to.pdf, id=115, 557.08125pt x 290.08376pt>
+File: Prisiregistruoti-eps-converted-to.pdf Graphic file (type pdf)
+<use Prisiregistruoti-eps-converted-to.pdf>
+Package pdftex.def Info: Prisiregistruoti-eps-converted-to.pdf  used on input l
+ine 178.
+(pdftex.def)             Requested size: 486.25761pt x 253.21182pt.
+[8 <./Prisiregistruoti-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <Prisijungti.eps>
+(epstopdf)                    date: 2018-10-12 08:36:15
+(epstopdf)                    size: 49003 bytes
+(epstopdf)             Output file: <Prisijungti-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-10-14 14:36:25
+(epstopdf)                    size: 13309 bytes
+(epstopdf)             Command: <epstopdf --outfile=Prisijungti-eps-converted-t
+o.pdf Prisijungti.eps>
+(epstopdf)             \includegraphics on input line 190.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./Prisijungti-eps-converted-to.pdf): PDF inclusi
+on: found PDF version <1.7>, but at most version <1.5> allowed
+<Prisijungti-eps-converted-to.pdf, id=145, 557.08125pt x 282.05376pt>
+File: Prisijungti-eps-converted-to.pdf Graphic file (type pdf)
+<use Prisijungti-eps-converted-to.pdf>
+Package pdftex.def Info: Prisijungti-eps-converted-to.pdf  used on input line 1
+90.
+(pdftex.def)             Requested size: 486.25761pt x 246.2025pt.
+[9 <./Prisijungti-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <RastiSkelbima.eps>
+(epstopdf)                    date: 2018-10-12 08:37:11
+(epstopdf)                    size: 49742 bytes
+(epstopdf)             Output file: <RastiSkelbima-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-10-14 14:36:27
+(epstopdf)                    size: 13413 bytes
+(epstopdf)             Command: <epstopdf --outfile=RastiSkelbima-eps-converted
+-to.pdf RastiSkelbima.eps>
+(epstopdf)             \includegraphics on input line 202.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./RastiSkelbima-eps-converted-to.pdf): PDF inclu
+sion: found PDF version <1.7>, but at most version <1.5> allowed
+<RastiSkelbima-eps-converted-to.pdf, id=175, 557.08125pt x 306.14375pt>
+File: RastiSkelbima-eps-converted-to.pdf Graphic file (type pdf)
+<use RastiSkelbima-eps-converted-to.pdf>
+Package pdftex.def Info: RastiSkelbima-eps-converted-to.pdf  used on input line
+ 202.
+(pdftex.def)             Requested size: 486.25761pt x 267.23045pt.
+[10 <./RastiSkelbima-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <IssaugotiMegstamiausia.eps>
+(epstopdf)                    date: 2018-10-12 08:39:39
+(epstopdf)                    size: 53082 bytes
+(epstopdf)             Output file: <IssaugotiMegstamiausia-eps-converted-to.pd
+f>
+(epstopdf)                    date: 2018-10-14 14:36:28
+(epstopdf)                    size: 14545 bytes
+(epstopdf)             Command: <epstopdf --outfile=IssaugotiMegstamiausia-eps-
+converted-to.pdf IssaugotiMegstamiausia.eps>
+(epstopdf)             \includegraphics on input line 214.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./IssaugotiMegstamiausia-eps-converted-to.pdf): 
+PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<IssaugotiMegstamiausia-eps-converted-to.pdf, id=205, 557.08125pt x 330.23375pt
+>
+File: IssaugotiMegstamiausia-eps-converted-to.pdf Graphic file (type pdf)
+<use IssaugotiMegstamiausia-eps-converted-to.pdf>
+Package pdftex.def Info: IssaugotiMegstamiausia-eps-converted-to.pdf  used on i
+nput line 214.
+(pdftex.def)             Requested size: 486.25761pt x 288.25842pt.
+[11 <./IssaugotiMegstamiausia-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <PasalintiMegstamiausia.eps>
+(epstopdf)                    date: 2018-10-12 08:40:54
+(epstopdf)                    size: 48848 bytes
+(epstopdf)             Output file: <PasalintiMegstamiausia-eps-converted-to.pd
+f>
+(epstopdf)                    date: 2018-10-14 14:36:30
+(epstopdf)                    size: 12863 bytes
+(epstopdf)             Command: <epstopdf --outfile=PasalintiMegstamiausia-eps-
+converted-to.pdf PasalintiMegstamiausia.eps>
+(epstopdf)             \includegraphics on input line 226.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./PasalintiMegstamiausia-eps-converted-to.pdf): 
+PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<PasalintiMegstamiausia-eps-converted-to.pdf, id=239, 557.08125pt x 294.09875pt
+>
+File: PasalintiMegstamiausia-eps-converted-to.pdf Graphic file (type pdf)
+<use PasalintiMegstamiausia-eps-converted-to.pdf>
+Package pdftex.def Info: PasalintiMegstamiausia-eps-converted-to.pdf  used on i
+nput line 226.
+(pdftex.def)             Requested size: 486.25761pt x 256.71648pt.
+[12 <./PasalintiMegstamiausia-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <PerziuretiMegstamiausius.eps>
+(epstopdf)                    date: 2018-10-12 09:28:32
+(epstopdf)                    size: 48823 bytes
+(epstopdf)             Output file: <PerziuretiMegstamiausius-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2018-10-14 14:36:31
+(epstopdf)                    size: 13052 bytes
+(epstopdf)             Command: <epstopdf --outfile=PerziuretiMegstamiausius-ep
+s-converted-to.pdf PerziuretiMegstamiausius.eps>
+(epstopdf)             \includegraphics on input line 238.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./PerziuretiMegstamiausius-eps-converted-to.pdf)
+: PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<PerziuretiMegstamiausius-eps-converted-to.pdf, id=269, 557.08125pt x 286.06876
+pt>
+File: PerziuretiMegstamiausius-eps-converted-to.pdf Graphic file (type pdf)
+<use PerziuretiMegstamiausius-eps-converted-to.pdf>
+Package pdftex.def Info: PerziuretiMegstamiausius-eps-converted-to.pdf  used on
+ input line 238.
+(pdftex.def)             Requested size: 486.25761pt x 249.70717pt.
+[13 <./PerziuretiMegstamiausius-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <TvarkytiSkelbimuSaltinius.eps>
+(epstopdf)                    date: 2018-10-12 08:44:03
+(epstopdf)                    size: 55394 bytes
+(epstopdf)             Output file: <TvarkytiSkelbimuSaltinius-eps-converted-to
+.pdf>
+(epstopdf)                    date: 2018-10-14 14:36:34
+(epstopdf)                    size: 15003 bytes
+(epstopdf)             Command: <epstopdf --outfile=TvarkytiSkelbimuSaltinius-e
+ps-converted-to.pdf TvarkytiSkelbimuSaltinius.eps>
+(epstopdf)             \includegraphics on input line 250.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./TvarkytiSkelbimuSaltinius-eps-converted-to.pdf
+): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<TvarkytiSkelbimuSaltinius-eps-converted-to.pdf, id=300, 557.08125pt x 567.1187
+4pt>
+File: TvarkytiSkelbimuSaltinius-eps-converted-to.pdf Graphic file (type pdf)
+<use TvarkytiSkelbimuSaltinius-eps-converted-to.pdf>
+Package pdftex.def Info: TvarkytiSkelbimuSaltinius-eps-converted-to.pdf  used o
+n input line 250.
+(pdftex.def)             Requested size: 389.00757pt x 396.02852pt.
+[14 <./TvarkytiSkelbimuSaltinius-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <KlasiuDiagrama.eps>
+(epstopdf)                    date: 2018-10-12 08:45:32
+(epstopdf)                    size: 42560 bytes
+(epstopdf)             Output file: <KlasiuDiagrama-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-10-14 14:36:36
+(epstopdf)                    size: 9737 bytes
+(epstopdf)             Command: <epstopdf --outfile=KlasiuDiagrama-eps-converte
+d-to.pdf KlasiuDiagrama.eps>
+(epstopdf)             \includegraphics on input line 265.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./KlasiuDiagrama-eps-converted-to.pdf): PDF incl
+usion: found PDF version <1.7>, but at most version <1.5> allowed
+<KlasiuDiagrama-eps-converted-to.pdf, id=330, 557.08125pt x 179.67125pt>
+File: KlasiuDiagrama-eps-converted-to.pdf Graphic file (type pdf)
+<use KlasiuDiagrama-eps-converted-to.pdf>
+Package pdftex.def Info: KlasiuDiagrama-eps-converted-to.pdf  used on input lin
+e 265.
+(pdftex.def)             Requested size: 486.25761pt x 156.8336pt.
+[15 <./KlasiuDiagrama-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <ObjektuDiagrama.eps>
+(epstopdf)                    date: 2018-10-12 08:46:01
+(epstopdf)                    size: 49532 bytes
+(epstopdf)             Output file: <ObjektuDiagrama-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-10-14 14:36:37
+(epstopdf)                    size: 13466 bytes
+(epstopdf)             Command: <epstopdf --outfile=ObjektuDiagrama-eps-convert
+ed-to.pdf ObjektuDiagrama.eps>
+(epstopdf)             \includegraphics on input line 279.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./ObjektuDiagrama-eps-converted-to.pdf): PDF inc
+lusion: found PDF version <1.7>, but at most version <1.5> allowed
+<ObjektuDiagrama-eps-converted-to.pdf, id=356, 557.08125pt x 280.04625pt>
+File: ObjektuDiagrama-eps-converted-to.pdf Graphic file (type pdf)
+<use ObjektuDiagrama-eps-converted-to.pdf>
+Package pdftex.def Info: ObjektuDiagrama-eps-converted-to.pdf  used on input li
+ne 279.
+(pdftex.def)             Requested size: 486.25761pt x 244.45015pt.
+[16 <./ObjektuDiagrama-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <Komponentai1.eps>
+(epstopdf)                    date: 2018-10-12 08:46:09
+(epstopdf)                    size: 42166 bytes
+(epstopdf)             Output file: <Komponentai1-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-10-14 14:36:39
+(epstopdf)                    size: 10239 bytes
+(epstopdf)             Command: <epstopdf --outfile=Komponentai1-eps-converted-
+to.pdf Komponentai1.eps>
+(epstopdf)             \includegraphics on input line 295.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./Komponentai1-eps-converted-to.pdf): PDF inclus
+ion: found PDF version <1.7>, but at most version <1.5> allowed
+<Komponentai1-eps-converted-to.pdf, id=394, 557.08125pt x 300.12125pt>
+File: Komponentai1-eps-converted-to.pdf Graphic file (type pdf)
+<use Komponentai1-eps-converted-to.pdf>
+Package pdftex.def Info: Komponentai1-eps-converted-to.pdf  used on input line 
+295.
+(pdftex.def)             Requested size: 486.25761pt x 261.97348pt.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 303.
+
+("D:\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 303.
+ [17 <./Komponentai1-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <Komponentai2.eps>
+(epstopdf)                    date: 2018-10-12 08:46:50
+(epstopdf)                    size: 46576 bytes
+(epstopdf)             Output file: <Komponentai2-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-10-14 14:36:41
+(epstopdf)                    size: 11895 bytes
+(epstopdf)             Command: <epstopdf --outfile=Komponentai2-eps-converted-
+to.pdf Komponentai2.eps>
+(epstopdf)             \includegraphics on input line 314.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./Komponentai2-eps-converted-to.pdf): PDF inclus
+ion: found PDF version <1.7>, but at most version <1.5> allowed
+<Komponentai2-eps-converted-to.pdf, id=420, 557.08125pt x 410.53375pt>
+File: Komponentai2-eps-converted-to.pdf Graphic file (type pdf)
+<use Komponentai2-eps-converted-to.pdf>
+Package pdftex.def Info: Komponentai2-eps-converted-to.pdf  used on input line 
+314.
+(pdftex.def)             Requested size: 486.25761pt x 358.35168pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 319--320
+
+ []
+
+
+Overfull \hbox (17.32048pt too wide) in paragraph at lines 321--322
+[]\T2A/cmr/bx/n/12 Vartotojo narsykl
+e \T2A/cmr/m/n/12 - kom-po-nen-tas, su-ku-rian-tis var-to-to-jo interfeis[] bei
+ vyk-dan-tis komunikacij[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--322
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 324--325
+
+ []
+
+[18 <./Komponentai2-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <Komponentai3.eps>
+(epstopdf)                    date: 2018-10-12 08:47:01
+(epstopdf)                    size: 50055 bytes
+(epstopdf)             Output file: <Komponentai3-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-10-14 14:36:44
+(epstopdf)                    size: 13706 bytes
+(epstopdf)             Command: <epstopdf --outfile=Komponentai3-eps-converted-
+to.pdf Komponentai3.eps>
+(epstopdf)             \includegraphics on input line 334.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./Komponentai3-eps-converted-to.pdf): PDF inclus
+ion: found PDF version <1.7>, but at most version <1.5> allowed
+<Komponentai3-eps-converted-to.pdf, id=453, 557.08125pt x 251.94125pt>
+File: Komponentai3-eps-converted-to.pdf Graphic file (type pdf)
+<use Komponentai3-eps-converted-to.pdf>
+Package pdftex.def Info: Komponentai3-eps-converted-to.pdf  used on input line 
+334.
+(pdftex.def)             Requested size: 486.25761pt x 219.91753pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 339--340
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 341--342
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--344
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 345--346
+
+ []
+
+[19 <./Komponentai3-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <RegistracijosVeikla.eps>
+(epstopdf)                    date: 2018-10-12 08:48:31
+(epstopdf)                    size: 47919 bytes
+(epstopdf)             Output file: <RegistracijosVeikla-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-10-14 14:36:45
+(epstopdf)                    size: 14627 bytes
+(epstopdf)             Command: <epstopdf --outfile=RegistracijosVeikla-eps-con
+verted-to.pdf RegistracijosVeikla.eps>
+(epstopdf)             \includegraphics on input line 355.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./RegistracijosVeikla-eps-converted-to.pdf): PDF
+ inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<RegistracijosVeikla-eps-converted-to.pdf, id=493, 557.08125pt x 446.66875pt>
+File: RegistracijosVeikla-eps-converted-to.pdf Graphic file (type pdf)
+<use RegistracijosVeikla-eps-converted-to.pdf>
+Package pdftex.def Info: RegistracijosVeikla-eps-converted-to.pdf  used on inpu
+t line 355.
+(pdftex.def)             Requested size: 486.25761pt x 389.89363pt.
+[20 <./RegistracijosVeikla-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <PaieskosVeikla.eps>
+(epstopdf)                    date: 2018-10-12 08:49:50
+(epstopdf)                    size: 48163 bytes
+(epstopdf)             Output file: <PaieskosVeikla-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-10-14 14:36:48
+(epstopdf)                    size: 14915 bytes
+(epstopdf)             Command: <epstopdf --outfile=PaieskosVeikla-eps-converte
+d-to.pdf PaieskosVeikla.eps>
+(epstopdf)             \includegraphics on input line 365.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./PaieskosVeikla-eps-converted-to.pdf): PDF incl
+usion: found PDF version <1.7>, but at most version <1.5> allowed
+<PaieskosVeikla-eps-converted-to.pdf, id=535, 557.08125pt x 294.09875pt>
+File: PaieskosVeikla-eps-converted-to.pdf Graphic file (type pdf)
+<use PaieskosVeikla-eps-converted-to.pdf>
+Package pdftex.def Info: PaieskosVeikla-eps-converted-to.pdf  used on input lin
+e 365.
+(pdftex.def)             Requested size: 486.25761pt x 256.71648pt.
+[21 <./PaieskosVeikla-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <MegstamiausiuVeikla.eps>
+(epstopdf)                    date: 2018-10-12 08:50:20
+(epstopdf)                    size: 45435 bytes
+(epstopdf)             Output file: <MegstamiausiuVeikla-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-10-14 14:36:50
+(epstopdf)                    size: 13337 bytes
+(epstopdf)             Command: <epstopdf --outfile=MegstamiausiuVeikla-eps-con
+verted-to.pdf MegstamiausiuVeikla.eps>
+(epstopdf)             \includegraphics on input line 375.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./MegstamiausiuVeikla-eps-converted-to.pdf): PDF
+ inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<MegstamiausiuVeikla-eps-converted-to.pdf, id=577, 557.08125pt x 352.31625pt>
+File: MegstamiausiuVeikla-eps-converted-to.pdf Graphic file (type pdf)
+<use MegstamiausiuVeikla-eps-converted-to.pdf>
+Package pdftex.def Info: MegstamiausiuVeikla-eps-converted-to.pdf  used on inpu
+t line 375.
+(pdftex.def)             Requested size: 486.25761pt x 307.53407pt.
+
+Overfull \hbox (10.78044pt too wide) in paragraph at lines 380--382
+[]\T2A/cmr/m/n/12 18[] dia-gra-mo-je pa-ro-dy-ti pro-ce-sai vyks-tan-tys var-to
+-to-jui no-rint []traukti skelbim[] [] m
+egstamiausi[]
+ []
+
+[22 <./MegstamiausiuVeikla-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <ArtifaktaiKomponentai.eps>
+(epstopdf)                    date: 2018-10-12 08:52:17
+(epstopdf)                    size: 52717 bytes
+(epstopdf)             Output file: <ArtifaktaiKomponentai-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2018-10-14 14:36:51
+(epstopdf)                    size: 13946 bytes
+(epstopdf)             Command: <epstopdf --outfile=ArtifaktaiKomponentai-eps-c
+onverted-to.pdf ArtifaktaiKomponentai.eps>
+(epstopdf)             \includegraphics on input line 390.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./ArtifaktaiKomponentai-eps-converted-to.pdf): P
+DF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<ArtifaktaiKomponentai-eps-converted-to.pdf, id=613, 557.08125pt x 442.65375pt>
+
+File: ArtifaktaiKomponentai-eps-converted-to.pdf Graphic file (type pdf)
+<use ArtifaktaiKomponentai-eps-converted-to.pdf>
+Package pdftex.def Info: ArtifaktaiKomponentai-eps-converted-to.pdf  used on in
+put line 390.
+(pdftex.def)             Requested size: 389.00757pt x 309.11252pt.
+
+Overfull \hbox (22.2665pt too wide) in paragraph at lines 395--397
+[]\T2A/cmr/m/n/12 Sistema su-si-da-ro is triej[] pagrindini[] dali[] - ap-li-k
+a-ci-jos, skelbim[] rin-ki-mo ir pa-ieskos komponent[]
+ []
+
+[23 <./ArtifaktaiKomponentai-eps-converted-to.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 400--401
+
+ []
+
+Package epstopdf Info: Source file: <Mazgai.eps>
+(epstopdf)                    date: 2018-10-12 08:52:29
+(epstopdf)                    size: 46173 bytes
+(epstopdf)             Output file: <Mazgai-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-10-14 14:36:53
+(epstopdf)                    size: 12110 bytes
+(epstopdf)             Command: <epstopdf --outfile=Mazgai-eps-converted-to.pdf
+ Mazgai.eps>
+(epstopdf)             \includegraphics on input line 404.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./Mazgai-eps-converted-to.pdf): PDF inclusion: f
+ound PDF version <1.7>, but at most version <1.5> allowed
+<Mazgai-eps-converted-to.pdf, id=654, 557.08125pt x 259.97125pt>
+File: Mazgai-eps-converted-to.pdf Graphic file (type pdf)
+<use Mazgai-eps-converted-to.pdf>
+Package pdftex.def Info: Mazgai-eps-converted-to.pdf  used on input line 404.
+(pdftex.def)             Requested size: 437.62888pt x 204.23257pt.
+[24 <./Mazgai-eps-converted-to.pdf>] [25]
+Underfull \hbox (badness 10000) in paragraph at lines 420--421
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 422--423
+
+ []
+
+[26] [27] (AutoINF.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 6360 strings out of 492970
+ 90699 string characters out of 3142028
+ 196468 words of memory out of 3000000
+ 10067 multiletter control sequences out of 15000+200000
+ 13764 words of font info for 34 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 48i,11n,43p,956b,595s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\stong\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\la
+bx1200.pk> <C:\Users\stong\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\d
+pi600\larm1200.pk> <C:\Users\stong\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\
+lh-t2a\dpi600\labx1440.pk> <C:\Users\stong\AppData\Local\MiKTeX\2.9\fonts\pk\lj
+four\lh\lh-t2a\dpi600\labx1728.pk> <C:\Users\stong\AppData\Local\MiKTeX\2.9\fon
+ts\pk\ljfour\lh\lh-t2a\dpi600\larm2074.pk><D:/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmsy10.pfb>
+Output written on AutoINF.pdf (27 pages, 343269 bytes).
+PDF statistics:
+ 926 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 101 words of extra memory for PDF output out of 10000 (max. 10000000)
+
