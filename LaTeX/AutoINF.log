@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.10)  14 OCT 2018 14:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.10)  18 OCT 2018 14:51
 entering extended mode
 **./AutoINF.tex
 (AutoINF.tex
@@ -295,33 +295,33 @@ Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )) (AutoINF.aux)
 \openout1 = `AutoINF.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for L7x/lmr/m/n on input line 46.
-LaTeX Font Info:    Try loading font information for L7x+lmr on input line 46.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for L7x/lmr/m/n on input line 42.
+LaTeX Font Info:    Try loading font information for L7x+lmr on input line 42.
 
 ("D:\MiKTeX 2.9\tex\latex\lm\l7xlmr.fd"
 File: l7xlmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
 
 ("D:\MiKTeX 2.9\tex\latex\ucs\ucsencs.def"
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 46.
+LaTeX Info: Redefining \selectfont on input line 42.
 
 ("D:\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -403,15 +403,15 @@ G,.JBIG2,.JB2,.eps]
 File: uni-1.def 2013/05/13 UCS: Unicode data U+0100..U+01FF
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 48.
+(Font)              <14.4> on input line 44.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 48.
+(Font)              <7> on input line 44.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 68.
+(Font)              <12> on input line 64.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 68.
+(Font)              <8> on input line 64.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 68.
+(Font)              <6> on input line 64.
  [1
 
 
@@ -419,53 +419,40 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  2.9\tex\latex\ucs\uni-32.def"
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 )
-Overfull \hbox (19.37085pt too wide) in paragraph at lines 100--102
-[][]\T2A/cmr/m/n/12 Siame pro-jek-ti-nia-me dar-be pri-sta-to-mas automobili[] 
-skelbim[] prog-ram
-el
-es ½Au-toInf []gyvendinimas.
- []
-
-
-Overfull \hbox (6.46906pt too wide) in paragraph at lines 100--102
-\T2A/cmr/m/n/12 lie-siems []renginiams, su-tei-kia galimyb[] var-to-to-jui leg-
-viau ras-ti j[] do-mi-nanci[] trans-por-to priemon[],
- []
-
 [2] (AutoINF.toc)
 \tf@toc=\write3
 \openout3 = `AutoINF.toc'.
 
  [3]
-Underfull \hbox (badness 10000) in paragraph at lines 112--113
+Underfull \hbox (badness 10000) in paragraph at lines 110--111
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--119
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 124--125
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--131
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
 
  []
 
 [4]
 Package epstopdf Info: Source file: <Tikslai.eps>
-(epstopdf)                    date: 2018-10-12 08:32:25
+(epstopdf)                    date: 2018-10-14 15:01:35
 (epstopdf)                    size: 47698 bytes
 (epstopdf)             Output file: <Tikslai-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-10-14 14:36:18
+(epstopdf)                    date: 2018-10-14 15:01:35
 (epstopdf)                    size: 14380 bytes
 (epstopdf)             Command: <epstopdf --outfile=Tikslai-eps-converted-to.pd
 f Tikslai.eps>
-(epstopdf)             \includegraphics on input line 146.
+(epstopdf)             \includegraphics on input line 144.
 Package epstopdf Info: Output file is already uptodate.
 
 
@@ -474,18 +461,18 @@ found PDF version <1.7>, but at most version <1.5> allowed
 <Tikslai-eps-converted-to.pdf, id=19, 557.08125pt x 251.94125pt>
 File: Tikslai-eps-converted-to.pdf Graphic file (type pdf)
 <use Tikslai-eps-converted-to.pdf>
-Package pdftex.def Info: Tikslai-eps-converted-to.pdf  used on input line 146.
+Package pdftex.def Info: Tikslai-eps-converted-to.pdf  used on input line 144.
 (pdftex.def)             Requested size: 486.25761pt x 219.91753pt.
 [5 <./Tikslai-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <TikslaiVartotojas.eps>
-(epstopdf)                    date: 2018-10-12 09:10:07
+(epstopdf)                    date: 2018-10-14 15:01:35
 (epstopdf)                    size: 43890 bytes
 (epstopdf)             Output file: <TikslaiVartotojas-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-10-14 14:36:20
+(epstopdf)                    date: 2018-10-14 15:01:35
 (epstopdf)                    size: 11753 bytes
 (epstopdf)             Command: <epstopdf --outfile=TikslaiVartotojas-eps-conve
 rted-to.pdf TikslaiVartotojas.eps>
-(epstopdf)             \includegraphics on input line 156.
+(epstopdf)             \includegraphics on input line 154.
 Package epstopdf Info: Output file is already uptodate.
 
 
@@ -495,19 +482,19 @@ nclusion: found PDF version <1.7>, but at most version <1.5> allowed
 File: TikslaiVartotojas-eps-converted-to.pdf Graphic file (type pdf)
 <use TikslaiVartotojas-eps-converted-to.pdf>
 Package pdftex.def Info: TikslaiVartotojas-eps-converted-to.pdf  used on input 
-line 156.
+line 154.
 (pdftex.def)             Requested size: 340.37885pt x 258.20467pt.
 [6 <./TikslaiVartotojas-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <TikslaiAdministratorius.eps>
-(epstopdf)                    date: 2018-10-12 09:10:51
+(epstopdf)                    date: 2018-10-14 15:01:35
 (epstopdf)                    size: 41232 bytes
 (epstopdf)             Output file: <TikslaiAdministratorius-eps-converted-to.p
 df>
-(epstopdf)                    date: 2018-10-14 14:36:22
+(epstopdf)                    date: 2018-10-14 15:01:35
 (epstopdf)                    size: 10177 bytes
 (epstopdf)             Command: <epstopdf --outfile=TikslaiAdministratorius-eps
 -converted-to.pdf TikslaiAdministratorius.eps>
-(epstopdf)             \includegraphics on input line 166.
+(epstopdf)             \includegraphics on input line 164.
 Package epstopdf Info: Output file is already uptodate.
 
 
@@ -518,18 +505,18 @@ pdfTeX warning: pdflatex (file ./TikslaiAdministratorius-eps-converted-to.pdf):
 File: TikslaiAdministratorius-eps-converted-to.pdf Graphic file (type pdf)
 <use TikslaiAdministratorius-eps-converted-to.pdf>
 Package pdftex.def Info: TikslaiAdministratorius-eps-converted-to.pdf  used on 
-input line 166.
+input line 164.
 (pdftex.def)             Requested size: 340.37885pt x 166.20775pt.
 [7 <./TikslaiAdministratorius-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Prisiregistruoti.eps>
-(epstopdf)                    date: 2018-10-12 08:35:40
+(epstopdf)                    date: 2018-10-14 15:01:35
 (epstopdf)                    size: 49665 bytes
 (epstopdf)             Output file: <Prisiregistruoti-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-10-14 14:36:23
+(epstopdf)                    date: 2018-10-14 15:01:35
 (epstopdf)                    size: 13580 bytes
 (epstopdf)             Command: <epstopdf --outfile=Prisiregistruoti-eps-conver
 ted-to.pdf Prisiregistruoti.eps>
-(epstopdf)             \includegraphics on input line 178.
+(epstopdf)             \includegraphics on input line 176.
 Package epstopdf Info: Output file is already uptodate.
 
 
@@ -539,18 +526,18 @@ clusion: found PDF version <1.7>, but at most version <1.5> allowed
 File: Prisiregistruoti-eps-converted-to.pdf Graphic file (type pdf)
 <use Prisiregistruoti-eps-converted-to.pdf>
 Package pdftex.def Info: Prisiregistruoti-eps-converted-to.pdf  used on input l
-ine 178.
+ine 176.
 (pdftex.def)             Requested size: 486.25761pt x 253.21182pt.
 [8 <./Prisiregistruoti-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Prisijungti.eps>
-(epstopdf)                    date: 2018-10-12 08:36:15
+(epstopdf)                    date: 2018-10-14 15:01:35
 (epstopdf)                    size: 49003 bytes
 (epstopdf)             Output file: <Prisijungti-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-10-14 14:36:25
+(epstopdf)                    date: 2018-10-14 15:01:35
 (epstopdf)                    size: 13309 bytes
 (epstopdf)             Command: <epstopdf --outfile=Prisijungti-eps-converted-t
 o.pdf Prisijungti.eps>
-(epstopdf)             \includegraphics on input line 190.
+(epstopdf)             \includegraphics on input line 188.
 Package epstopdf Info: Output file is already uptodate.
 
 
@@ -560,18 +547,18 @@ on: found PDF version <1.7>, but at most version <1.5> allowed
 File: Prisijungti-eps-converted-to.pdf Graphic file (type pdf)
 <use Prisijungti-eps-converted-to.pdf>
 Package pdftex.def Info: Prisijungti-eps-converted-to.pdf  used on input line 1
-90.
+88.
 (pdftex.def)             Requested size: 486.25761pt x 246.2025pt.
 [9 <./Prisijungti-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <RastiSkelbima.eps>
-(epstopdf)                    date: 2018-10-12 08:37:11
+(epstopdf)                    date: 2018-10-14 15:01:35
 (epstopdf)                    size: 49742 bytes
 (epstopdf)             Output file: <RastiSkelbima-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-10-14 14:36:27
+(epstopdf)                    date: 2018-10-14 15:01:35
 (epstopdf)                    size: 13413 bytes
 (epstopdf)             Command: <epstopdf --outfile=RastiSkelbima-eps-converted
 -to.pdf RastiSkelbima.eps>
-(epstopdf)             \includegraphics on input line 202.
+(epstopdf)             \includegraphics on input line 200.
 Package epstopdf Info: Output file is already uptodate.
 
 
@@ -581,19 +568,19 @@ sion: found PDF version <1.7>, but at most version <1.5> allowed
 File: RastiSkelbima-eps-converted-to.pdf Graphic file (type pdf)
 <use RastiSkelbima-eps-converted-to.pdf>
 Package pdftex.def Info: RastiSkelbima-eps-converted-to.pdf  used on input line
- 202.
+ 200.
 (pdftex.def)             Requested size: 486.25761pt x 267.23045pt.
 [10 <./RastiSkelbima-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <IssaugotiMegstamiausia.eps>
-(epstopdf)                    date: 2018-10-12 08:39:39
+(epstopdf)                    date: 2018-10-14 15:01:35
 (epstopdf)                    size: 53082 bytes
 (epstopdf)             Output file: <IssaugotiMegstamiausia-eps-converted-to.pd
 f>
-(epstopdf)                    date: 2018-10-14 14:36:28
+(epstopdf)                    date: 2018-10-14 15:01:35
 (epstopdf)                    size: 14545 bytes
 (epstopdf)             Command: <epstopdf --outfile=IssaugotiMegstamiausia-eps-
 converted-to.pdf IssaugotiMegstamiausia.eps>
-(epstopdf)             \includegraphics on input line 214.
+(epstopdf)             \includegraphics on input line 212.
 Package epstopdf Info: Output file is already uptodate.
 
 
@@ -604,19 +591,19 @@ PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 File: IssaugotiMegstamiausia-eps-converted-to.pdf Graphic file (type pdf)
 <use IssaugotiMegstamiausia-eps-converted-to.pdf>
 Package pdftex.def Info: IssaugotiMegstamiausia-eps-converted-to.pdf  used on i
-nput line 214.
+nput line 212.
 (pdftex.def)             Requested size: 486.25761pt x 288.25842pt.
 [11 <./IssaugotiMegstamiausia-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <PasalintiMegstamiausia.eps>
-(epstopdf)                    date: 2018-10-12 08:40:54
+(epstopdf)                    date: 2018-10-14 15:01:35
 (epstopdf)                    size: 48848 bytes
 (epstopdf)             Output file: <PasalintiMegstamiausia-eps-converted-to.pd
 f>
-(epstopdf)                    date: 2018-10-14 14:36:30
+(epstopdf)                    date: 2018-10-14 15:01:35
 (epstopdf)                    size: 12863 bytes
 (epstopdf)             Command: <epstopdf --outfile=PasalintiMegstamiausia-eps-
 converted-to.pdf PasalintiMegstamiausia.eps>
-(epstopdf)             \includegraphics on input line 226.
+(epstopdf)             \includegraphics on input line 224.
 Package epstopdf Info: Output file is already uptodate.
 
 
@@ -627,19 +614,19 @@ PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 File: PasalintiMegstamiausia-eps-converted-to.pdf Graphic file (type pdf)
 <use PasalintiMegstamiausia-eps-converted-to.pdf>
 Package pdftex.def Info: PasalintiMegstamiausia-eps-converted-to.pdf  used on i
-nput line 226.
+nput line 224.
 (pdftex.def)             Requested size: 486.25761pt x 256.71648pt.
 [12 <./PasalintiMegstamiausia-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <PerziuretiMegstamiausius.eps>
-(epstopdf)                    date: 2018-10-12 09:28:32
+(epstopdf)                    date: 2018-10-14 15:01:35
 (epstopdf)                    size: 48823 bytes
 (epstopdf)             Output file: <PerziuretiMegstamiausius-eps-converted-to.
 pdf>
-(epstopdf)                    date: 2018-10-14 14:36:31
+(epstopdf)                    date: 2018-10-14 15:01:35
 (epstopdf)                    size: 13052 bytes
 (epstopdf)             Command: <epstopdf --outfile=PerziuretiMegstamiausius-ep
 s-converted-to.pdf PerziuretiMegstamiausius.eps>
-(epstopdf)             \includegraphics on input line 238.
+(epstopdf)             \includegraphics on input line 236.
 Package epstopdf Info: Output file is already uptodate.
 
 
@@ -650,19 +637,19 @@ pt>
 File: PerziuretiMegstamiausius-eps-converted-to.pdf Graphic file (type pdf)
 <use PerziuretiMegstamiausius-eps-converted-to.pdf>
 Package pdftex.def Info: PerziuretiMegstamiausius-eps-converted-to.pdf  used on
- input line 238.
+ input line 236.
 (pdftex.def)             Requested size: 486.25761pt x 249.70717pt.
 [13 <./PerziuretiMegstamiausius-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <TvarkytiSkelbimuSaltinius.eps>
-(epstopdf)                    date: 2018-10-12 08:44:03
+(epstopdf)                    date: 2018-10-14 15:01:35
 (epstopdf)                    size: 55394 bytes
 (epstopdf)             Output file: <TvarkytiSkelbimuSaltinius-eps-converted-to
 .pdf>
-(epstopdf)                    date: 2018-10-14 14:36:34
+(epstopdf)                    date: 2018-10-14 15:01:35
 (epstopdf)                    size: 15003 bytes
 (epstopdf)             Command: <epstopdf --outfile=TvarkytiSkelbimuSaltinius-e
 ps-converted-to.pdf TvarkytiSkelbimuSaltinius.eps>
-(epstopdf)             \includegraphics on input line 250.
+(epstopdf)             \includegraphics on input line 248.
 Package epstopdf Info: Output file is already uptodate.
 
 
@@ -673,18 +660,18 @@ pdfTeX warning: pdflatex (file ./TvarkytiSkelbimuSaltinius-eps-converted-to.pdf
 File: TvarkytiSkelbimuSaltinius-eps-converted-to.pdf Graphic file (type pdf)
 <use TvarkytiSkelbimuSaltinius-eps-converted-to.pdf>
 Package pdftex.def Info: TvarkytiSkelbimuSaltinius-eps-converted-to.pdf  used o
-n input line 250.
+n input line 248.
 (pdftex.def)             Requested size: 389.00757pt x 396.02852pt.
 [14 <./TvarkytiSkelbimuSaltinius-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <KlasiuDiagrama.eps>
-(epstopdf)                    date: 2018-10-12 08:45:32
+(epstopdf)                    date: 2018-10-14 15:01:35
 (epstopdf)                    size: 42560 bytes
 (epstopdf)             Output file: <KlasiuDiagrama-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-10-14 14:36:36
+(epstopdf)                    date: 2018-10-14 15:01:35
 (epstopdf)                    size: 9737 bytes
 (epstopdf)             Command: <epstopdf --outfile=KlasiuDiagrama-eps-converte
 d-to.pdf KlasiuDiagrama.eps>
-(epstopdf)             \includegraphics on input line 265.
+(epstopdf)             \includegraphics on input line 263.
 Package epstopdf Info: Output file is already uptodate.
 
 
@@ -694,18 +681,18 @@ usion: found PDF version <1.7>, but at most version <1.5> allowed
 File: KlasiuDiagrama-eps-converted-to.pdf Graphic file (type pdf)
 <use KlasiuDiagrama-eps-converted-to.pdf>
 Package pdftex.def Info: KlasiuDiagrama-eps-converted-to.pdf  used on input lin
-e 265.
+e 263.
 (pdftex.def)             Requested size: 486.25761pt x 156.8336pt.
 [15 <./KlasiuDiagrama-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <ObjektuDiagrama.eps>
-(epstopdf)                    date: 2018-10-12 08:46:01
+(epstopdf)                    date: 2018-10-14 15:01:35
 (epstopdf)                    size: 49532 bytes
 (epstopdf)             Output file: <ObjektuDiagrama-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-10-14 14:36:37
+(epstopdf)                    date: 2018-10-14 15:01:35
 (epstopdf)                    size: 13466 bytes
 (epstopdf)             Command: <epstopdf --outfile=ObjektuDiagrama-eps-convert
 ed-to.pdf ObjektuDiagrama.eps>
-(epstopdf)             \includegraphics on input line 279.
+(epstopdf)             \includegraphics on input line 277.
 Package epstopdf Info: Output file is already uptodate.
 
 
@@ -715,18 +702,18 @@ lusion: found PDF version <1.7>, but at most version <1.5> allowed
 File: ObjektuDiagrama-eps-converted-to.pdf Graphic file (type pdf)
 <use ObjektuDiagrama-eps-converted-to.pdf>
 Package pdftex.def Info: ObjektuDiagrama-eps-converted-to.pdf  used on input li
-ne 279.
+ne 277.
 (pdftex.def)             Requested size: 486.25761pt x 244.45015pt.
 [16 <./ObjektuDiagrama-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Komponentai1.eps>
-(epstopdf)                    date: 2018-10-12 08:46:09
+(epstopdf)                    date: 2018-10-14 15:01:35
 (epstopdf)                    size: 42166 bytes
 (epstopdf)             Output file: <Komponentai1-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-10-14 14:36:39
+(epstopdf)                    date: 2018-10-14 15:01:35
 (epstopdf)                    size: 10239 bytes
 (epstopdf)             Command: <epstopdf --outfile=Komponentai1-eps-converted-
 to.pdf Komponentai1.eps>
-(epstopdf)             \includegraphics on input line 295.
+(epstopdf)             \includegraphics on input line 293.
 Package epstopdf Info: Output file is already uptodate.
 
 
@@ -736,25 +723,25 @@ ion: found PDF version <1.7>, but at most version <1.5> allowed
 File: Komponentai1-eps-converted-to.pdf Graphic file (type pdf)
 <use Komponentai1-eps-converted-to.pdf>
 Package pdftex.def Info: Komponentai1-eps-converted-to.pdf  used on input line 
-295.
+293.
 (pdftex.def)             Requested size: 486.25761pt x 261.97348pt.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 303.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 301.
 
 ("D:\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 303.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 301.
  [17 <./Komponentai1-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Komponentai2.eps>
-(epstopdf)                    date: 2018-10-12 08:46:50
+(epstopdf)                    date: 2018-10-14 15:01:35
 (epstopdf)                    size: 46576 bytes
 (epstopdf)             Output file: <Komponentai2-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-10-14 14:36:41
+(epstopdf)                    date: 2018-10-14 15:01:35
 (epstopdf)                    size: 11895 bytes
 (epstopdf)             Command: <epstopdf --outfile=Komponentai2-eps-converted-
 to.pdf Komponentai2.eps>
-(epstopdf)             \includegraphics on input line 314.
+(epstopdf)             \includegraphics on input line 312.
 Package epstopdf Info: Output file is already uptodate.
 
 
@@ -764,40 +751,40 @@ ion: found PDF version <1.7>, but at most version <1.5> allowed
 File: Komponentai2-eps-converted-to.pdf Graphic file (type pdf)
 <use Komponentai2-eps-converted-to.pdf>
 Package pdftex.def Info: Komponentai2-eps-converted-to.pdf  used on input line 
-314.
+312.
 (pdftex.def)             Requested size: 486.25761pt x 358.35168pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 319--320
+Underfull \hbox (badness 10000) in paragraph at lines 317--318
 
  []
 
 
-Overfull \hbox (17.32048pt too wide) in paragraph at lines 321--322
+Overfull \hbox (28.1484pt too wide) in paragraph at lines 319--320
 []\T2A/cmr/bx/n/12 Vartotojo narsykl
 e \T2A/cmr/m/n/12 - kom-po-nen-tas, su-ku-rian-tis var-to-to-jo interfeis[] bei
  vyk-dan-tis komunikacij[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 321--322
+Underfull \hbox (badness 10000) in paragraph at lines 319--320
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 324--325
+Underfull \hbox (badness 10000) in paragraph at lines 322--323
 
  []
 
 [18 <./Komponentai2-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Komponentai3.eps>
-(epstopdf)                    date: 2018-10-12 08:47:01
+(epstopdf)                    date: 2018-10-14 15:01:35
 (epstopdf)                    size: 50055 bytes
 (epstopdf)             Output file: <Komponentai3-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-10-14 14:36:44
+(epstopdf)                    date: 2018-10-14 15:01:35
 (epstopdf)                    size: 13706 bytes
 (epstopdf)             Command: <epstopdf --outfile=Komponentai3-eps-converted-
 to.pdf Komponentai3.eps>
-(epstopdf)             \includegraphics on input line 334.
+(epstopdf)             \includegraphics on input line 332.
 Package epstopdf Info: Output file is already uptodate.
 
 
@@ -807,8 +794,13 @@ ion: found PDF version <1.7>, but at most version <1.5> allowed
 File: Komponentai3-eps-converted-to.pdf Graphic file (type pdf)
 <use Komponentai3-eps-converted-to.pdf>
 Package pdftex.def Info: Komponentai3-eps-converted-to.pdf  used on input line 
-334.
+332.
 (pdftex.def)             Requested size: 486.25761pt x 219.91753pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 337--338
+
+ []
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 339--340
 
@@ -824,21 +816,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 343--344
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 345--346
-
- []
-
 [19 <./Komponentai3-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <RegistracijosVeikla.eps>
-(epstopdf)                    date: 2018-10-12 08:48:31
+(epstopdf)                    date: 2018-10-14 15:01:35
 (epstopdf)                    size: 47919 bytes
 (epstopdf)             Output file: <RegistracijosVeikla-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-10-14 14:36:45
+(epstopdf)                    date: 2018-10-14 15:01:35
 (epstopdf)                    size: 14627 bytes
 (epstopdf)             Command: <epstopdf --outfile=RegistracijosVeikla-eps-con
 verted-to.pdf RegistracijosVeikla.eps>
-(epstopdf)             \includegraphics on input line 355.
+(epstopdf)             \includegraphics on input line 353.
 Package epstopdf Info: Output file is already uptodate.
 
 
@@ -848,18 +835,18 @@ pdfTeX warning: pdflatex (file ./RegistracijosVeikla-eps-converted-to.pdf): PDF
 File: RegistracijosVeikla-eps-converted-to.pdf Graphic file (type pdf)
 <use RegistracijosVeikla-eps-converted-to.pdf>
 Package pdftex.def Info: RegistracijosVeikla-eps-converted-to.pdf  used on inpu
-t line 355.
+t line 353.
 (pdftex.def)             Requested size: 486.25761pt x 389.89363pt.
 [20 <./RegistracijosVeikla-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <PaieskosVeikla.eps>
-(epstopdf)                    date: 2018-10-12 08:49:50
+(epstopdf)                    date: 2018-10-14 15:01:35
 (epstopdf)                    size: 48163 bytes
 (epstopdf)             Output file: <PaieskosVeikla-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-10-14 14:36:48
+(epstopdf)                    date: 2018-10-14 15:01:35
 (epstopdf)                    size: 14915 bytes
 (epstopdf)             Command: <epstopdf --outfile=PaieskosVeikla-eps-converte
 d-to.pdf PaieskosVeikla.eps>
-(epstopdf)             \includegraphics on input line 365.
+(epstopdf)             \includegraphics on input line 363.
 Package epstopdf Info: Output file is already uptodate.
 
 
@@ -869,18 +856,18 @@ usion: found PDF version <1.7>, but at most version <1.5> allowed
 File: PaieskosVeikla-eps-converted-to.pdf Graphic file (type pdf)
 <use PaieskosVeikla-eps-converted-to.pdf>
 Package pdftex.def Info: PaieskosVeikla-eps-converted-to.pdf  used on input lin
-e 365.
+e 363.
 (pdftex.def)             Requested size: 486.25761pt x 256.71648pt.
 [21 <./PaieskosVeikla-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <MegstamiausiuVeikla.eps>
-(epstopdf)                    date: 2018-10-12 08:50:20
+(epstopdf)                    date: 2018-10-14 15:01:35
 (epstopdf)                    size: 45435 bytes
 (epstopdf)             Output file: <MegstamiausiuVeikla-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-10-14 14:36:50
+(epstopdf)                    date: 2018-10-14 15:01:35
 (epstopdf)                    size: 13337 bytes
 (epstopdf)             Command: <epstopdf --outfile=MegstamiausiuVeikla-eps-con
 verted-to.pdf MegstamiausiuVeikla.eps>
-(epstopdf)             \includegraphics on input line 375.
+(epstopdf)             \includegraphics on input line 373.
 Package epstopdf Info: Output file is already uptodate.
 
 
@@ -890,10 +877,10 @@ pdfTeX warning: pdflatex (file ./MegstamiausiuVeikla-eps-converted-to.pdf): PDF
 File: MegstamiausiuVeikla-eps-converted-to.pdf Graphic file (type pdf)
 <use MegstamiausiuVeikla-eps-converted-to.pdf>
 Package pdftex.def Info: MegstamiausiuVeikla-eps-converted-to.pdf  used on inpu
-t line 375.
+t line 373.
 (pdftex.def)             Requested size: 486.25761pt x 307.53407pt.
 
-Overfull \hbox (10.78044pt too wide) in paragraph at lines 380--382
+Overfull \hbox (21.60837pt too wide) in paragraph at lines 378--380
 []\T2A/cmr/m/n/12 18[] dia-gra-mo-je pa-ro-dy-ti pro-ce-sai vyks-tan-tys var-to
 -to-jui no-rint []traukti skelbim[] [] m
 egstamiausi[]
@@ -901,15 +888,15 @@ egstamiausi[]
 
 [22 <./MegstamiausiuVeikla-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <ArtifaktaiKomponentai.eps>
-(epstopdf)                    date: 2018-10-12 08:52:17
+(epstopdf)                    date: 2018-10-14 15:01:35
 (epstopdf)                    size: 52717 bytes
 (epstopdf)             Output file: <ArtifaktaiKomponentai-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2018-10-14 14:36:51
+(epstopdf)                    date: 2018-10-14 15:01:35
 (epstopdf)                    size: 13946 bytes
 (epstopdf)             Command: <epstopdf --outfile=ArtifaktaiKomponentai-eps-c
 onverted-to.pdf ArtifaktaiKomponentai.eps>
-(epstopdf)             \includegraphics on input line 390.
+(epstopdf)             \includegraphics on input line 388.
 Package epstopdf Info: Output file is already uptodate.
 
 
@@ -920,28 +907,22 @@ DF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 File: ArtifaktaiKomponentai-eps-converted-to.pdf Graphic file (type pdf)
 <use ArtifaktaiKomponentai-eps-converted-to.pdf>
 Package pdftex.def Info: ArtifaktaiKomponentai-eps-converted-to.pdf  used on in
-put line 390.
+put line 388.
 (pdftex.def)             Requested size: 389.00757pt x 309.11252pt.
-
-Overfull \hbox (22.2665pt too wide) in paragraph at lines 395--397
-[]\T2A/cmr/m/n/12 Sistema su-si-da-ro is triej[] pagrindini[] dali[] - ap-li-k
-a-ci-jos, skelbim[] rin-ki-mo ir pa-ieskos komponent[]
- []
-
 [23 <./ArtifaktaiKomponentai-eps-converted-to.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 400--401
+Underfull \hbox (badness 10000) in paragraph at lines 398--399
 
  []
 
 Package epstopdf Info: Source file: <Mazgai.eps>
-(epstopdf)                    date: 2018-10-12 08:52:29
+(epstopdf)                    date: 2018-10-14 15:01:35
 (epstopdf)                    size: 46173 bytes
 (epstopdf)             Output file: <Mazgai-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-10-14 14:36:53
+(epstopdf)                    date: 2018-10-14 15:01:35
 (epstopdf)                    size: 12110 bytes
 (epstopdf)             Command: <epstopdf --outfile=Mazgai-eps-converted-to.pdf
  Mazgai.eps>
-(epstopdf)             \includegraphics on input line 404.
+(epstopdf)             \includegraphics on input line 402.
 Package epstopdf Info: Output file is already uptodate.
 
 
@@ -950,7 +931,7 @@ ound PDF version <1.7>, but at most version <1.5> allowed
 <Mazgai-eps-converted-to.pdf, id=654, 557.08125pt x 259.97125pt>
 File: Mazgai-eps-converted-to.pdf Graphic file (type pdf)
 <use Mazgai-eps-converted-to.pdf>
-Package pdftex.def Info: Mazgai-eps-converted-to.pdf  used on input line 404.
+Package pdftex.def Info: Mazgai-eps-converted-to.pdf  used on input line 402.
 (pdftex.def)             Requested size: 437.62888pt x 204.23257pt.
 [24 <./Mazgai-eps-converted-to.pdf>] [25]
 Underfull \hbox (badness 10000) in paragraph at lines 420--421
@@ -968,10 +949,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 6360 strings out of 492970
- 90699 string characters out of 3142028
+ 6361 strings out of 492970
+ 90666 string characters out of 3142028
  196468 words of memory out of 3000000
- 10067 multiletter control sequences out of 15000+200000
+ 10068 multiletter control sequences out of 15000+200000
  13764 words of font info for 34 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  48i,11n,43p,956b,595s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -982,9 +963,9 @@ lh-t2a\dpi600\labx1440.pk> <C:\Users\stong\AppData\Local\MiKTeX\2.9\fonts\pk\lj
 four\lh\lh-t2a\dpi600\labx1728.pk> <C:\Users\stong\AppData\Local\MiKTeX\2.9\fon
 ts\pk\ljfour\lh\lh-t2a\dpi600\larm2074.pk><D:/MiKTeX 2.9/fonts/type1/public/ams
 fonts/cm/cmsy10.pfb>
-Output written on AutoINF.pdf (27 pages, 343269 bytes).
+Output written on AutoINF.pdf (27 pages, 341354 bytes).
 PDF statistics:
- 926 PDF objects out of 1000 (max. 8388607)
+ 922 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  101 words of extra memory for PDF output out of 10000 (max. 10000000)
 
