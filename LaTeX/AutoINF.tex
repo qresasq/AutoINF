@@ -93,7 +93,7 @@ PROGRAMŲ SISTEMŲ KATEDRA}
 	\section*{Anotacija}
 	\addcontentsline{toc}{section}{Anotacija}
 	\begin{indent}
-	Šiame projektiniame darbe pristatomas automobilių skelbimų programėlės „AutoInf“ įgyvendinimas. Projektas „AutoInf“ skirtas  palengvinti automobilių paieškas internete. Programėlė, skirta mobiliesiems įrenginiams, suteikia galimybę vartotojui legviau rasti jį dominančią transporto priemonę, sujungdama visus skelbimus, esančius Europos automobilių pardavimo skelbimų puslapiuose. Programų sistemos architektūra apibrėžiama naudojantis 4+1 architektūros pjūvių modelį. Toliau pristatomi programos reikalavimai, bei pateikiama dalykinės srities analizė.
+	Dokumentas parengtas kaip programų sistemos inžinerijos dalyko laboratorinis darbas\\Nr. 1, kuriame pateikiamas suprojektuotos sistemos aprašymas. Programų sistemos architektūra apibrėžiama naudojantis 4+1 architektūros pjūvių modelį. Toliau pristatomi programos reikalavimai, bei pateikiama dalykinės srities analizė.
 	\end{indent}
 	\pagebreak
 
@@ -104,38 +104,43 @@ PROGRAMŲ SISTEMŲ KATEDRA}
 	\addcontentsline{toc}{section}{Įvadas}
 	
 	\begin{flushleft}
-		\bigbreak\textbf{Programų sistemos pavadinimas}
-	\end{flushleft}
+	Šiame projektiniame darbe pristatomas automobilių skelbimų programėlės „AutoInf“ įgyvendinimas. Projektas „AutoInf“ skirtas  palengvinti automobilių paieškas internete. Programėlė, skirta mobiliesiems įrenginiams, suteikia galimybę vartotojui legviau rasti jį dominančią transporto priemonę, sujungdama visus skelbimus, esančius Europos automobilių pardavimo skelbimų puslapiuose.
+	\end{flushleft}		
 	
-	Pilnas programų sistemos pavadinimas – automobilių skelbimų aplikacija „AutoInf“ \\
+%	\begin{flushleft}
+%		\bigbreak\textbf{Programų sistemos pavadinimas}
+%	\end{flushleft}
 	
-	\begin{flushleft}
-		\textbf{Dalykinė sritis}
-	\end{flushleft}	
+%	Pilnas programų sistemos pavadinimas – automobilių skelbimų aplikacija „AutoInf“ \\
 	
-	Automobilių skelbimų iš visos Europos pateiktis vartotojams  \\
+%	\begin{flushleft}
+%		\textbf{Dalykinė sritis}
+%	\end{flushleft}	
 	
-	\begin{flushleft}
-		\textbf{Probleminė sritis}
-	\end{flushleft}
+%	Automobilių skelbimų iš visos Europos pateiktis vartotojams  \\
 	
-	Užsienyje galima rasti pigesnių automobilių \\
+%	\begin{flushleft}
+%		\textbf{Probleminė sritis}
+%	\end{flushleft}
 	
-	\begin{flushleft}
-		\textbf{Naudotojai} 
-	\end{flushleft}
+%	Užsienyje galima rasti pigesnių automobilių \\
 	
-	Žmonės, ieškantys automobilių \\
+%	\begin{flushleft}
+%		\textbf{Naudotojai} 
+%	\end{flushleft}
 	
-	\begin{flushleft}
-		\textbf{Darbo pagrindas}
-	\end{flushleft}
+%	Žmonės, ieškantys automobilių \\
 	
-	Dokumentas parengtas kaip programų sistemos inžinerijos dalyko laboratorinis darbas\\Nr. 1, kuriame pateikiamas suprojektuotos sistemos aprašymas.
+%	\begin{flushleft}
+%		\textbf{Darbo pagrindas}
+%	\end{flushleft}
+	
+%	Dokumentas parengtas kaip programų sistemos inžinerijos dalyko laboratorinis darbas\\Nr. 1, kuriame pateikiamas suprojektuotos sistemos aprašymas.
 	\pagebreak
 
 	\section{Projektavimas}
 	\subsection{Užduotys ir jų vykdymo scenarijai}
+	Šiame skyriuje yra pavaizduotos sistemos vartotojų užduotys ir jų vykdimo scenarijai.
 	\subsubsection{Sistemos vykdomos užduotys}
 	Žemiau esančiame paveikslėlyje pavaizduoti tikslai, kurių siekia sistema besinaudojantys agentai - automobilių ieškantys vartotojai bei sistemos administratoriai. Į sistemą žiūrima kaip į vieną visumą, neatskleidžiant jos implementacijos detalių.
 	
@@ -149,6 +154,8 @@ PROGRAMŲ SISTEMŲ KATEDRA}
 	\ref{UseCase} paveikslėlyje yra pavaizduoti tikslai, kurių siekia sistema besinaudojantys agentai - vartotojas ir administratorius
 	\pagebreak
 
+	\ref{UseCaseUser} paveikslėlyje pateiktos vartotojui prieinamos „AutoINF“ funkcijos: registracija, prisijungimas, peržiūrėti mėgstamiausius, pašalinti mėgstamiausius, išsaugoti mėgstamiausius, rasti skelbimą. Plačiau apie šias funkcijas rašoma tolimesnėse sekų diagramose.
+	
 	\begin{figure}[h]
 		\begin{center}
 			\includegraphics[width=0.7\textwidth]{TikslaiVartotojas.eps}
@@ -156,8 +163,10 @@ PROGRAMŲ SISTEMŲ KATEDRA}
 		\end{center}
 	\end{figure}
 	
-	\ref{UseCaseUser} paveikslėlyje pateiktos vartotojui prieinamos „AutoINF“ funkcijos: registracija, prisijungimas, peržiūrėti mėgstamiausius, pašalinti mėgstamiausius, išsaugoti mėgstamiausius, rasti skelbimą. Plačiau apie šias funkcijas rašoma tolimesnėse sekų diagramose.
+%	\ref{UseCaseUser} paveikslėlyje pateiktos vartotojui prieinamos „AutoINF“ funkcijos: registracija, prisijungimas, peržiūrėti mėgstamiausius, pašalinti mėgstamiausius, išsaugoti mėgstamiausius, rasti skelbimą. Plačiau apie šias funkcijas rašoma tolimesnėse sekų diagramose.
 	\pagebreak	
+	
+	\ref{UseCaseAdmin} paveikslėlyje pateiktos administratoriui prieinamos „AutoINF“ funkcijos: pridėti skelbimų šaltinį, pašalinti skelbimų šaltinį, pašalinti vartotojo paskyrą. Plačiau apie šias funkcijas rašoma tolimesnėse sekų diagramose. Administratorius prisijungia taip pat kaip ir vartotojas, tik jam suteiktos administratoriaus teisės.	
 	
 	\begin{figure}[h]
 		\begin{center}
@@ -166,10 +175,11 @@ PROGRAMŲ SISTEMŲ KATEDRA}
 		\end{center}
 	\end{figure}	
 	
-	\ref{UseCaseAdmin} paveikslėlyje pateiktos administratoriui prieinamos „AutoINF“ funkcijos: pridėti skelbimų šaltinį, pašalinti skelbimų šaltinį, pašalinti vartotojo paskyrą. Plačiau apie šias funkcijas rašoma tolimesnėse sekų diagramose. Administratorius prisijungia taip pat kaip ir vartotojas, tik jam suteiktos administratoriaus teisės.
 	\pagebreak
 	
 	\subsubsection{Užduoties „Prisiregistruoti“ įgyvendinimas}
+	
+	\ref{RegisterSeq} paveikslėlyje pavaizduotas vartotojo registracijos sistemoje užduoties vykdymas. Vartotojas, atidaręs registracijos langą, turi suvesti prisiregistravimo duomenis. Paspaudus registracijos mygtuką, aplikacija patikrina, ar duomenys suvesti reikiamu formatu. Jei formatas teisingas, tai duomenys išsaugomi duomenų bazėje. Tada vartotojas yra infomuojamas apie sėkmingą registraciją ir yra prijungiamas prie sistemos.	
 	
 	\begin{figure}[h]
 		\begin{center}
@@ -178,11 +188,10 @@ PROGRAMŲ SISTEMŲ KATEDRA}
 		\end{center}
 	\end{figure}
 	
-	\ref{RegisterSeq} paveikslėlyje pavaizduotas vartotojo registracijos sistemoje užduoties vykdymas. Vartotojas, atidaręs registracijos langą, turi suvesti prisiregistravimo duomenis. Paspaudus registracijos mygtuką, aplikacija patikrina, ar duomenys suvesti reikiamu formatu. Jei formatas teisingas, tai duomenys išsaugomi duomenų bazėje. Tada vartotojas yra infomuojamas apie sėkmingą registraciją ir yra prijungiamas prie sistemos.
 	\pagebreak
 	
 	\subsubsection{Užduoties „Prisijungti“ įgyvendinimas}
-	
+	\ref{LogInSeq} paveikslėlyje pavaizduotas vartotojo prisijungimo sistemoje užduoties vykdymas. Vartotojas, atidaręs prisijungimo langą, turi suvesti prisijungimo duomenis ir tada paspaudus prisijungimo mygtuką, duomenų bazėje yra patikrinama, ar toks vartotojas egzistuoja. Vartotojui prisijungus atsidaro pagrindinis langas, kuriame atsiranda funkcijos, prieinamos tik registruotiems vartotojams.
 	\begin{figure}[h]
 		\begin{center}
 			\includegraphics[width=\textwidth]{Prisijungti.eps}
@@ -190,11 +199,11 @@ PROGRAMŲ SISTEMŲ KATEDRA}
 		\end{center}
 	\end{figure}
 	
-	\ref{LogInSeq} paveikslėlyje pavaizduotas vartotojo prisijungimo sistemoje užduoties vykdymas. Vartotojas, atidaręs prisijungimo langą, turi suvesti prisijungimo duomenis ir tada paspaudus prisijungimo mygtuką, duomenų bazėje yra patikrinama, ar toks vartotojas egzistuoja. Vartotojui prisijungus atsidaro pagrindinis langas, kuriame atsiranda funkcijos, prieinamos tik registruotiems vartotojams.
+
 	\pagebreak
 	
 	\subsubsection{Užduoties „Rasti skelbimą“ įgyvendinimas}
-	
+	\ref{FindAdvertSeq} paveikslėlyje pavaizduotas skelbimų ieškojimo sistemoje užduoties vykdymas. Vartotojas nebūtinai turi būti prisijungęs, norint naudotis šia sistemos funkcija. Pirmiausia vartotojas turi pagrindiniame lange įvesti paieškos kriterijus (kai kurie filtrai yra privalomi). Paspaudus paieškos mygtuką, sistema suranda filtrą atitinkančius skelbimus ir parodo juos. Vartotojui paspaudus ant skelbimo atsidaro skelbimo langas.
 	\begin{figure}[h]
 		\begin{center}
 			\includegraphics[width=\textwidth]{RastiSkelbima.eps}
@@ -202,11 +211,11 @@ PROGRAMŲ SISTEMŲ KATEDRA}
 		\end{center}
 	\end{figure}
 	
-	\ref{FindAdvertSeq} paveikslėlyje pavaizduotas skelbimų ieškojimo sistemoje užduoties vykdymas. Vartotojas nebūtinai turi būti prisijungęs, norint naudotis šia sistemos funkcija. Pirmiausia vartotojas turi pagrindiniame lange įvesti paieškos kriterijus (kai kurie filtrai yra privalomi). Paspaudus paieškos mygtuką, sistema suranda filtrą atitinkančius skelbimus ir parodo juos. Vartotojui paspaudus ant skelbimo atsidaro skelbimo langas.
+	
 	\pagebreak
 	
 	\subsubsection{Užduoties „Išsaugoti mėgstamiausią“ įgyvendinimas}
-	
+	\ref{SaveFavSeq} paveikslėlyje pavaizduotas mėgstamiausio skelbimo išsaugojimo užduoties vykdymas. Ši funkcija yra pasiekiama tada ir tik tada, kai vartotojas yra prisijungęs prie sistemos. Norint išsaugotį skelbimą, vartotojas pirmiausia turi susirasti skelbimą ir tada  paspausti šio skelbimo išsaugojimo mygtuką. Apie sėkmingą skelbimo išsaugojimą vartotojas yra informuojamas.
 	\begin{figure}[h]
 		\begin{center}
 			\includegraphics[width=\textwidth]{IssaugotiMegstamiausia.eps}
@@ -214,11 +223,11 @@ PROGRAMŲ SISTEMŲ KATEDRA}
 		\end{center}
 	\end{figure}
 	
-	\ref{SaveFavSeq} paveikslėlyje pavaizduotas mėgstamiausio skelbimo išsaugojimo užduoties vykdymas. Ši funkcija yra pasiekiama tada ir tik tada, kai vartotojas yra prisijungęs prie sistemos. Norint išsaugotį skelbimą, vartotojas pirmiausia turi susirasti skelbimą ir tada  paspausti šio skelbimo išsaugojimo mygtuką. Apie sėkmingą skelbimo išsaugojimą vartotojas yra informuojamas.
+	
 	\pagebreak
 	
 	\subsubsection{Užduoties „Pašalinti mėgstamiausią“ įgyvendinimas}
-	
+	\ref{DelFavSeq} paveikslėlyje pavaizduotas mėgstamiausio skelbimo pašalinimo užduoties vykdymas. Ši funkcija yra pasiekiama tada ir tik tada, kai vartotojas yra prisijungęs prie sistemos. Pirmiausiai vartotojas atsidaro mėgstamiausių skelbimų sąrašą. Tada pasirenką, kurį skelbimą jis nori pašalinti ir paspaudžia pašalinimo mygtuką. Sėkmingai pašalinus skelbimą iš sąrašo, šis sąrašas yra atnaujinamas.
 	\begin{figure}[h]
 		\begin{center}
 			\includegraphics[width=\textwidth]{PasalintiMegstamiausia.eps}
@@ -226,11 +235,10 @@ PROGRAMŲ SISTEMŲ KATEDRA}
 		\end{center}
 	\end{figure}
 	
-	\ref{DelFavSeq} paveikslėlyje pavaizduotas mėgstamiausio skelbimo pašalinimo užduoties vykdymas. Ši funkcija yra pasiekiama tada ir tik tada, kai vartotojas yra prisijungęs prie sistemos. Pirmiausiai vartotojas atsidaro mėgstamiausių skelbimų sąrašą. Tada pasirenką, kurį skelbimą jis nori pašalinti ir paspaudžia pašalinimo mygtuką. Sėkmingai pašalinus skelbimą iš sąrašo, šis sąrašas yra atnaujinamas.
 	\pagebreak
 	
 	\subsubsection{Užduoties „Peržiūrėti mėgstamiausius“ įgyvendinimas}
-	
+	\ref{ViewFavSeq} paveikslėlyje pavaizduotas „Peržiūrėti mėgstamiausius“ skelbimus užduoties vykdymas. Ši funkcijas pasiekiama tada ir tik tada, kai vartotojas yra prisijungęs prie sistemos. Vartotojui pasirinkus mėgstamiausių skelbimų langą, sistema parodo šio vartotojo mėgstamiausių skelbimų sarašą.
 	\begin{figure}[h]
 		\begin{center}
 			\includegraphics[width=\textwidth]{PerziuretiMegstamiausius.eps}
@@ -238,22 +246,21 @@ PROGRAMŲ SISTEMŲ KATEDRA}
 		\end{center}
 	\end{figure}
 	
-	\ref{ViewFavSeq} paveikslėlyje pavaizduotas „Peržiūrėti mėgstamiausius“ skelbimus užduoties vykdymas. Ši funkcijas pasiekiama tada ir tik tada, kai vartotojas yra prisijungęs prie sistemos. Vartotojui pasirinkus mėgstamiausių skelbimų langą, sistema parodo šio vartotojo mėgstamiausių skelbimų sarašą.
 	\pagebreak
 	
 	\subsubsection{Užduoties „Tvarkyti skelbimų šaltinius“ įgyvendinimas}
-	
+	\ref{ManSouSeq} paveikslėlyje yra pavaizduotas skelbimų šaltinių tvarkymo užduoties vykdymas. Šia funkcija gali pasinaudoti tik administratorius. Administratorius atsidaręs skalbimų šaltinių langą gali pasirinkti, ką jis nori su šaltiniais daryti: pridėti naują skelbimų šaltinį arba pašalinti šaltinį. Norint pridėti šaltinį, administratorius spaudžia mygtuką skirtą naujam šaltiniui pridėti, o norint pašalinti skelbimą, administratorius turi pasirinkti šaltinį iš šaltinių sąrašo ir pasirinkti šaltinio pašalinimą. Tiek po šaltinio pridėjimo, tiek po šaltinio pašalinimo skelbimų šaltinių sąrašas yra atnaujinamas.
 	\begin{figure}[h]
 		\begin{center}
 			\includegraphics[width=0.8\textwidth]{TvarkytiSkelbimuSaltinius.eps}
 			\caption{Užduoties „Tvarkyti skelbimų šaltinius“ sekų diagrama\label{ManSouSeq}}
 		\end{center}
 	\end{figure}
-	
-	\ref{ManSouSeq} paveikslėlyje yra pavaizduotas skelbimų šaltinių tvarkymo užduoties vykdymas. Šia funkcija gali pasinaudoti tik administratorius. Administratorius atsidaręs skalbimų šaltinių langą gali pasirinkti, ką jis nori su šaltiniais daryti: pridėti naują skelbimų šaltinį arba pašalinti šaltinį. Norint pridėti šaltinį, administratorius spaudžia mygtuką skirtą naujam šaltiniui pridėti, o norint pašalinti skelbimą, administratorius turi pasirinkti šaltinį iš šaltinių sąrašo ir pasirinkti šaltinio pašalinimą. Tiek po šaltinio pridėjimo, tiek po šaltinio pašalinimo skelbimų šaltinių sąrašas yra atnaujinamas.
+
 	\pagebreak
 	
 	\subsection{Struktūrinis programų sistemos modelis}
+	Šiame skyriuje yra pateikta sistemos klasių diagrama ir parodytas sistemos naudojimo pavyzdys.
 	\subsubsection{Klasių diagrama}
 	
 	Žemiau pateiktame paveikslėlyje yra išskirtos pagrindinės esybės, kurios yra naudojamos sistemoje. Klases siejantys ryšiai pasižymi kardinalumu. Kitaip sakant, nustatytas konkretus ryšių skaičius ar skaičių aibė, kurios turės klasės egzempliorius su tam tikros kitos klasės egzemplioriais.
@@ -284,10 +291,10 @@ PROGRAMŲ SISTEMŲ KATEDRA}
 	
 	\subsection{Programų sistemos komponentai}
 	
-	Sistemos komponentų dekompozicija įgyvendinta "top-down" būdu.	
+	Šiame skyriuje yra pavaizduoti sistemos komponentai. Sistemos komponentų dekompozicija įgyvendinta "top-down" būdu.	
 	
 	\subsubsection{Konteksto diagrama}
-	
+	\ref{Components1} paveikslėlyje prodomas abstrakčiausias (aukščiausias) komponentų struktūros lygis.
 	\begin{figure}[h]
 		\begin{center}
 			\includegraphics[width=\textwidth]{Komponentai1.eps}
@@ -295,7 +302,7 @@ PROGRAMŲ SISTEMŲ KATEDRA}
 		\end{center}
 	\end{figure}
 	
-	\ref{Components1} paveikslėlyje prodomas abstrakčiausias (aukščiausias) komponentų struktūros lygis. Visa sistema laikoma kaip vienas darinys, ir parodoma sąsaja su išore:
+	 Visa sistema laikoma kaip vienas darinys, ir parodoma sąsaja su išore:
 	
 	\begin{itemize}	
 		\item Interfeisai, kuriais išoriniai vartotojai naudojasi visa sistema
@@ -306,15 +313,13 @@ PROGRAMŲ SISTEMŲ KATEDRA}
 	\pagebreak
 
 	\subsubsection{Skelbimų rinkimo sistemos dekompozicija}
-
+\ref{Components2} paveikslėlyje detalizuojamas \ref{Components1} paveikslėlyje esantis „Skelbimų rinkimo sistema“ komponentas.
 	\begin{figure}[h]
 		\begin{center}
 			\includegraphics[width=\textwidth]{Komponentai2.eps}
 			\caption{Skelbimų rinkimo sistemos komponento dekompozicija\label{Components2}}
 		\end{center}
 	\end{figure}
-	
-	\ref{Components2} paveikslėlyje detalizuojamas \ref{Components1} paveikslėlyje esantis „Skelbimų rinkimo sistema“ komponentas.\\
 
 	\textbf{Vartotojo naršyklė} - komponentas, sukuriantis vartotojo interfeisą bei vykdantis komunikaciją tarp vartotojo ir sistemos branduolio.\\
 
@@ -326,7 +331,7 @@ PROGRAMŲ SISTEMŲ KATEDRA}
 	\pagebreak
 
 	\subsubsection{Sistemos branduolio dekompozicija}
-	
+	\ref{Components3} paveikslėlyje smulkinamas \ref{Components2} paveikslėlyje esantis „Sistemos branduolio“ komponentas.
 	\begin{figure}[h]
 		\begin{center}
 			\includegraphics[width=\textwidth]{Komponentai3.eps}
@@ -334,7 +339,7 @@ PROGRAMŲ SISTEMŲ KATEDRA}
 		\end{center}
 	\end{figure}
 
-	\ref{Components3} paveikslėlyje smulkinamas \ref{Components2} paveikslėlyje esantis „Sistemos branduolio“ komponentas. Jį sudarantys komponentai:\\
+	 Jį sudarantys komponentai:\\
 	
 	\textbf{Vartotojo autentifikavimo modulis} - šis komponentas vykdo vartotojų autetifikaciją. Jo funkcijos: vartotojų registravimas, prisijungimas.\\
 	
@@ -346,7 +351,9 @@ PROGRAMŲ SISTEMŲ KATEDRA}
 	\pagebreak
 
 	\subsection{Dinaminis programų sistemos modelis}
+	Šiame skyriuje parodota, kaip vyksta šios sistemos veiksmai.
 	\subsubsection{Veiklos diagrama}
+	Šiame poskyrije yra aprašyti galimos vartotojų užduotys kartu su jas vaizduojančiomis veiklos diagramomis. 
 	
 	\begin{figure}[h]
 		\begin{center}
@@ -358,6 +365,7 @@ PROGRAMŲ SISTEMŲ KATEDRA}
 	\ref{RegisterActivity} paveikslėlyje parodyti procesai, vykstantys registracijos metu. Registravimas vyksta tada, kai vartotojas įsijungia aplikaciją ir pasirenka „Registruotis“. Tada, vartotojui suvedus reikiamus duomenis sistema patikrina, ar viskas užpildyta teisingai. Jei ne, vartotojas gali bandyti vesti informaciją iš naujo arba išeitį iš registravimosi lango. Jei informacija užpildyta teisingai, vartotojas gali toliau naudotis aplikacija arba išeiti iš jos.
 	\pagebreak
 	
+	\ref{SearchActivity} paveikslėlyje parodyti procesai, vykstantys skelbimo ieškojimo metu. Pagrindiniame lange vartotojas turi įvesti filtrus, pagal kuriuos bus ieškomi skelbimai. Sistema patikrina, ar įvesti kriterijai yra teisingai suvesti. Jei įvesta klaidingai, vartotojai gali bandyti iš naujo suvesti paieškos kriterijus arba išeiti iš programos. Jei paieškos kriterijai įvesti teisingai, sistema ieško skelbimų. Jei rezultatų nėra, galima pasirinkti kitokius filtrus arba išeiti iš programos. Suradus rezultatų, vartotojas gali pasirinkti skelbimą. Jei jo negalima atidaryti, galima bandyti paiešką atlikti iš naujo. Jei galima atidaryti, vartotojas gali atidaryti skelbimą ir po to grįžti į aplikaciją.
 	\begin{figure}[h]
 		\begin{center}
 			\includegraphics[width=\textwidth]{PaieskosVeikla.eps}
@@ -365,9 +373,9 @@ PROGRAMŲ SISTEMŲ KATEDRA}
 		\end{center}
 	\end{figure}
 	
-	\ref{SearchActivity} paveikslėlyje parodyti procesai, vykstantys skelbimo ieškojimo metu. Pagrindiniame lange vartotojas turi įvesti filtrus, pagal kuriuos bus ieškomi skelbimai. Sistema patikrina, ar įvesti kriterijai yra teisingai suvesti. Jei įvesta klaidingai, vartotojai gali bandyti iš naujo suvesti paieškos kriterijus arba išeiti iš programos. Jei paieškos kriterijai įvesti teisingai, sistema ieško skelbimų. Jei rezultatų nėra, galima pasirinkti kitokius filtrus arba išeiti iš programos. Suradus rezultatų, vartotojas gali pasirinkti skelbimą. Jei jo negalima atidaryti, galima bandyti paiešką atlikti iš naujo. Jei galima atidaryti, vartotojas gali atidaryti skelbimą ir po to grįžti į aplikaciją.
 	\pagebreak
-
+	
+	\ref{FavActivity} diagramoje parodyti procesai, vykstantys vartotojui norint įtraukti skelbimą į mėgstamiausių sąrašą. Pirmiausia vartotojas turi prisijungti, jei to padaryti nepavyksta, jis gali bandyti iš naujo arba išeiti iš programos. Prisijungęs prie sistemos vartotojas ieško jam patinkančio skelbimo ir jį suradęs galį įtraukti į mėgstamiausiųjų sąrašą, o po to ieškoti naujo skelbimo arba išeiti iš šito lango. Jei patinkančio skelbimo vartotojas neranda, tai gali bandyti ieškoti iš naujo arba išeiti iš šito lango.
 	\begin{figure}[h]
 		\begin{center}
 			\includegraphics[width=\textwidth]{MegstamiausiuVeikla.eps}
@@ -375,10 +383,10 @@ PROGRAMŲ SISTEMŲ KATEDRA}
 		\end{center}
 	\end{figure}
 	
-	\ref{FavActivity} diagramoje parodyti procesai, vykstantys vartotojui norint įtraukti skelbimą į mėgstamiausių sąrašą. Pirmiausia vartotojas turi prisijungti, jei to padaryti nepavyksta, jis gali bandyti iš naujo arba išeiti iš programos. Prisijungęs prie sistemos vartotojas ieško jam patinkančio skelbimo ir jį suradęs galį įtraukti į mėgstamiausiųjų sąrašą, o po to ieškoti naujo skelbimo arba išeiti iš šito lango. Jei patinkančio skelbimo vartotojas neranda, tai gali bandyti ieškoti iš naujo arba išeiti iš šito lango.
 	\pagebreak
 	
 	\subsection{Komponentų išskirstymas tinkle}
+	Šiame skyriuje parodytas sistemos išdėstymas tinkle.
 	\subsubsection{Komponentų ryšių su artifaktais diagrama}
 	
 	\ref{ArtComp} pateiktame komponentų ryšių su artifaktais paveikslėlyje su artifaktais yra išskirti pagrindiniai sistemos artifaktai. Artifaktus ir komponentus tarpusavyje sieja manifestacijos ryšys. Tai reiškia, kad artifakto sudaromoji dalis yra konkretus komponentas.
