@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.10)  18 OCT 2018 14:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.10)  18 OCT 2018 15:08
 entering extended mode
 **./AutoINF.tex
 (AutoINF.tex
@@ -507,6 +507,14 @@ File: TikslaiAdministratorius-eps-converted-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: TikslaiAdministratorius-eps-converted-to.pdf  used on 
 input line 164.
 (pdftex.def)             Requested size: 340.37885pt x 166.20775pt.
+
+Overfull \hbox (2.831pt too wide) in paragraph at lines 169--171
+[]\T2A/cmr/m/n/12 3[] pa-veiksl
+elyje pa-teik-tos ad-mi-nist-ra-to-riui pri-ei-na-mos ½Au-toINF funk-ci-jos: p
+rid
+eti skelbim[]
+ []
+
 [7 <./TikslaiAdministratorius-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Prisiregistruoti.eps>
 (epstopdf)                    date: 2018-10-14 15:01:35
@@ -880,9 +888,9 @@ Package pdftex.def Info: MegstamiausiuVeikla-eps-converted-to.pdf  used on inpu
 t line 373.
 (pdftex.def)             Requested size: 486.25761pt x 307.53407pt.
 
-Overfull \hbox (21.60837pt too wide) in paragraph at lines 378--380
-[]\T2A/cmr/m/n/12 18[] dia-gra-mo-je pa-ro-dy-ti pro-ce-sai vyks-tan-tys var-to
--to-jui no-rint []traukti skelbim[] [] m
+Overfull \hbox (25.13249pt too wide) in paragraph at lines 378--380
+[]\T2A/cmr/m/n/12 18[] dia-gra-mo-je pa-ro-dy-ti pro-ce-sai, vyks-tan-tys var-t
+o-to-jui no-rint []traukti skelbim[] [] m
 egstamiausi[]
  []
 
@@ -955,7 +963,7 @@ Here is how much of TeX's memory you used:
  10068 multiletter control sequences out of 15000+200000
  13764 words of font info for 34 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 48i,11n,43p,956b,595s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 48i,11n,43p,955b,595s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\stong\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\la
 bx1200.pk> <C:\Users\stong\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\d
 pi600\larm1200.pk> <C:\Users\stong\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\
@@ -963,7 +971,7 @@ lh-t2a\dpi600\labx1440.pk> <C:\Users\stong\AppData\Local\MiKTeX\2.9\fonts\pk\lj
 four\lh\lh-t2a\dpi600\labx1728.pk> <C:\Users\stong\AppData\Local\MiKTeX\2.9\fon
 ts\pk\ljfour\lh\lh-t2a\dpi600\larm2074.pk><D:/MiKTeX 2.9/fonts/type1/public/ams
 fonts/cm/cmsy10.pfb>
-Output written on AutoINF.pdf (27 pages, 341354 bytes).
+Output written on AutoINF.pdf (27 pages, 341591 bytes).
 PDF statistics:
  922 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
