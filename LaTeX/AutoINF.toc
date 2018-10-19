@@ -1,28 +1,30 @@
 \babel@toc {lithuanian}{}
 \contentsline {section}{Anotacija}{2}
 \contentsline {section}{\IeC {\k I}vadas}{4}
-\contentsline {section}{\numberline {1}Projektavimas}{5}
-\contentsline {subsection}{\numberline {1.1}U\IeC {\v z}duotys ir j\IeC {\k u} vykdymo scenarijai}{5}
-\contentsline {subsubsection}{\numberline {1.1.1}Sistemos vykdomos u\IeC {\v z}duotys}{5}
-\contentsline {subsubsection}{\numberline {1.1.2}U\IeC {\v z}duoties \IeC {\quotedblbase }Prisiregistruoti\IeC {\textquotedblleft } \IeC {\k i}gyvendinimas}{8}
-\contentsline {subsubsection}{\numberline {1.1.3}U\IeC {\v z}duoties \IeC {\quotedblbase }Prisijungti\IeC {\textquotedblleft } \IeC {\k i}gyvendinimas}{9}
-\contentsline {subsubsection}{\numberline {1.1.4}U\IeC {\v z}duoties \IeC {\quotedblbase }Rasti skelbim\IeC {\k a}\IeC {\textquotedblleft } \IeC {\k i}gyvendinimas}{10}
-\contentsline {subsubsection}{\numberline {1.1.5}U\IeC {\v z}duoties \IeC {\quotedblbase }I\IeC {\v s}saugoti m\IeC {\.e}gstamiausi\IeC {\k a}\IeC {\textquotedblleft } \IeC {\k i}gyvendinimas}{11}
-\contentsline {subsubsection}{\numberline {1.1.6}U\IeC {\v z}duoties \IeC {\quotedblbase }Pa\IeC {\v s}alinti m\IeC {\.e}gstamiausi\IeC {\k a}\IeC {\textquotedblleft } \IeC {\k i}gyvendinimas}{12}
-\contentsline {subsubsection}{\numberline {1.1.7}U\IeC {\v z}duoties \IeC {\quotedblbase }Per\IeC {\v z}i\IeC {\=u}r\IeC {\.e}ti m\IeC {\.e}gstamiausius\IeC {\textquotedblleft } \IeC {\k i}gyvendinimas}{13}
-\contentsline {subsubsection}{\numberline {1.1.8}U\IeC {\v z}duoties \IeC {\quotedblbase }Tvarkyti skelbim\IeC {\k u} \IeC {\v s}altinius\IeC {\textquotedblleft } \IeC {\k i}gyvendinimas}{14}
-\contentsline {subsection}{\numberline {1.2}Strukt\IeC {\=u}rinis program\IeC {\k u} sistemos modelis}{15}
-\contentsline {subsubsection}{\numberline {1.2.1}Klasi\IeC {\k u} diagrama}{15}
-\contentsline {subsubsection}{\numberline {1.2.2}Objekt\IeC {\k u} diagrama}{16}
-\contentsline {subsection}{\numberline {1.3}Program\IeC {\k u} sistemos komponentai}{17}
-\contentsline {subsubsection}{\numberline {1.3.1}Konteksto diagrama}{17}
-\contentsline {subsubsection}{\numberline {1.3.2}Skelbim\IeC {\k u} rinkimo sistemos dekompozicija}{18}
-\contentsline {subsubsection}{\numberline {1.3.3}Sistemos branduolio dekompozicija}{19}
-\contentsline {subsection}{\numberline {1.4}Dinaminis program\IeC {\k u} sistemos modelis}{20}
-\contentsline {subsubsection}{\numberline {1.4.1}Veiklos diagrama}{20}
-\contentsline {subsection}{\numberline {1.5}Komponent\IeC {\k u} i\IeC {\v s}skirstymas tinkle}{23}
-\contentsline {subsubsection}{\numberline {1.5.1}Komponent\IeC {\k u} ry\IeC {\v s}i\IeC {\k u} su artifaktais diagrama}{23}
-\contentsline {subsubsection}{\numberline {1.5.2}Mazg\IeC {\k u} diagrama}{24}
-\contentsline {section}{I\IeC {\v s}vada}{25}
-\contentsline {section}{Termin\IeC {\k u} \IeC {\v z}odynas}{26}
-\contentsline {section}{Literat\IeC {\=u}ros s\IeC {\k a}ra\IeC {\v s}as}{27}
+\contentsline {section}{\numberline {1}U\IeC {\v z}duotys ir j\IeC {\k u} vykdymo scenarijai}{5}
+\contentsline {subsection}{\numberline {1.1}Sistemos vykdomos u\IeC {\v z}duotys}{5}
+\contentsline {subsection}{\numberline {1.2}U\IeC {\v z}duoties \IeC {\quotedblbase }Prisiregistruoti\IeC {\textquotedblleft } \IeC {\k i}gyvendinimas}{8}
+\contentsline {subsection}{\numberline {1.3}U\IeC {\v z}duoties \IeC {\quotedblbase }Prisijungti\IeC {\textquotedblleft } \IeC {\k i}gyvendinimas}{9}
+\contentsline {subsection}{\numberline {1.4}U\IeC {\v z}duoties \IeC {\quotedblbase }Rasti skelbim\IeC {\k a}\IeC {\textquotedblleft } \IeC {\k i}gyvendinimas}{10}
+\contentsline {subsection}{\numberline {1.5}U\IeC {\v z}duoties \IeC {\quotedblbase }I\IeC {\v s}saugoti m\IeC {\.e}gstamiausi\IeC {\k a}\IeC {\textquotedblleft } \IeC {\k i}gyvendinimas}{11}
+\contentsline {subsection}{\numberline {1.6}U\IeC {\v z}duoties \IeC {\quotedblbase }Pa\IeC {\v s}alinti m\IeC {\.e}gstamiausi\IeC {\k a}\IeC {\textquotedblleft } \IeC {\k i}gyvendinimas}{12}
+\contentsline {subsection}{\numberline {1.7}U\IeC {\v z}duoties \IeC {\quotedblbase }Per\IeC {\v z}i\IeC {\=u}r\IeC {\.e}ti m\IeC {\.e}gstamiausius\IeC {\textquotedblleft } \IeC {\k i}gyvendinimas}{13}
+\contentsline {subsection}{\numberline {1.8}U\IeC {\v z}duoties \IeC {\quotedblbase }Tvarkyti skelbim\IeC {\k u} \IeC {\v s}altinius\IeC {\textquotedblleft } \IeC {\k i}gyvendinimas}{14}
+\contentsline {section}{\numberline {2}Strukt\IeC {\=u}rinis program\IeC {\k u} sistemos modelis}{15}
+\contentsline {subsection}{\numberline {2.1}Klasi\IeC {\k u} diagrama}{15}
+\contentsline {subsection}{\numberline {2.2}Objekt\IeC {\k u} diagrama}{16}
+\contentsline {section}{\numberline {3}Program\IeC {\k u} sistemos komponentai}{17}
+\contentsline {subsection}{\numberline {3.1}Konteksto diagrama}{17}
+\contentsline {subsection}{\numberline {3.2}Skelbim\IeC {\k u} rinkimo sistemos dekompozicija}{18}
+\contentsline {subsection}{\numberline {3.3}Sistemos branduolio dekompozicija}{19}
+\contentsline {section}{\numberline {4}Dinaminis program\IeC {\k u} sistemos modelis}{20}
+\contentsline {subsection}{\numberline {4.1}Vartotojo registracijos veiklos diagrama}{20}
+\contentsline {subsection}{\numberline {4.2}Skelbim\IeC {\k u} paie\IeC {\v s}kos veiklos diagrama}{21}
+\contentsline {subsection}{\numberline {4.3}Naujo m\IeC {\.e}gstamo skelbimo veiklos diagrama}{22}
+\contentsline {section}{\numberline {5}Komponent\IeC {\k u} i\IeC {\v s}skirstymas tinkle}{23}
+\contentsline {subsection}{\numberline {5.1}Komponent\IeC {\k u} ry\IeC {\v s}i\IeC {\k u} su artifaktais diagrama}{23}
+\contentsline {subsection}{\numberline {5.2}Diegimo diagrama}{24}
+\contentsline {section}{Rezultatai}{25}
+\contentsline {section}{I\IeC {\v s}vados}{26}
+\contentsline {section}{Termin\IeC {\k u} \IeC {\v z}odynas}{27}
+\contentsline {section}{Literat\IeC {\=u}ros s\IeC {\k a}ra\IeC {\v s}as}{28}
