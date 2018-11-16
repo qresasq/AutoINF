@@ -121,7 +121,7 @@ PROGRAMŲ SISTEMŲ KATEDRA}
 	\section*{Įvadas}	
 	\addcontentsline{toc}{section}{Įvadas}	
 	
-	Šiame projektiniame darbe pristatomas automobilių skelbimų programėlės „AutoINF“ įgyvendinimas. Šio projekto vizija yra sukurti mobiliesiems įrenginiams skirtą programėlę, kuri leistų pasiekti automobilių skelbimus iš visos Europos. Idėja kilo iš to, kad dabar įvairių automobilių skelbimai yra daugybėje skirtingų puslapių (šaltinių) ir norint susirasti sau naudingiausią pasiūlymą dažniausiai reikia pereiti per daugiau nei vieną puslapį. „AutoINF“ projekto tikslas yra sukurti programėlę, kuri supaprastintų automobilių ieškojimo procesą ir padėtų vartotojui sutaupyti laiko tą darant, surinkdama visus skelbimus iš populiariausių Europos automobilių skelbimų puslapių pagal vartotojo nurodytus kriterijus. Taip pat norima, kad programėle būtų paprasta naudotis ir kad šita programėlė sugebėtų pateikti kuo daugiau vartotojui aktualios informacijos apie tai, ko jis ieško.
+	Šiame projektiniame darbe pristatomas transporto priemonių skelbimų programėlės „AutoINF“ įgyvendinimas. Mūsų vizija yra pasaulis, kuriame kiekvienas žmogus gali greitai, paprastai ir be vargo rasti reikiamą transporto priemonę, nesvarbu, kokiame Europos krašte ji bebūtų. Siekdami to mes užsibrėžiame tikslą sukurti mobiliesiems įrenginiams skirtą programėlę, kuri leistų pasiekti transporto priemonių skelbimus iš visos Europos. Idėja kilo todėl, kad dabar įvairių transporto priemonių skelbimai yra daugybėje skirtingų puslapių (šaltinių) ir norint susirasti naudingiausią pasiūlymą dažniausiai reikia pereiti per daugiau nei vieną puslapį. „AutoINF“ projekto tikslas yra sukurti programėlę, kuri supaprastintų transporto priemonių ieškojimo procesą ir padėtų vartotojui sutaupyti laiko tą darant, surinkdama visus skelbimus iš populiariausių Europos transporto priemonių skelbimų puslapių pagal vartotojo nurodytus kriterijus. Taip pat norima, kad programėle būtų paprasta naudotis ir kad ši programėlė sugebėtų pateikti kuo daugiau vartotojui aktualios informacijos apie tai, ko jis ieško.
 	\pagebreak
 	
 	\section*{Funkciniai reikalavimai}
@@ -336,7 +336,7 @@ PROGRAMŲ SISTEMŲ KATEDRA}
 	
 	\subsubsection{Vartotojo mėgstamiausių skelbimų peržiūros reikalavimai}
 	\begin{enumerate}[labelindent=10pt,leftmargin=2.2cm]
-		\item Sėkmingo mėgstamiausių skelbimų peržiūrėjimo atveju sistema vykdo \ref{UserViewFavScen} lentelėje nurodytą veiksmų seką.
+		\item Sėkmingos mėgstamiausių skelbimų peržiūros atveju sistema vykdo \ref{UserViewFavScen} lentelėje nurodytą veiksmų seką.
 	\end{enumerate}
 		
 		\begin{center}
@@ -366,7 +366,7 @@ PROGRAMŲ SISTEMŲ KATEDRA}
 	\end{enumerate}
 		
 		\begin{center}
-		\captionof{table}{Vartotojo mėgstamiausio skelbimo išsaugojimo scenarijus\label{UserSaveAdScen}}		
+		\captionof{table}{Vartotojo mėgstamiausio skelbimo išsaugojimo pagrindinis scenarijus\label{UserSaveAdScen}}		
 		\begin{tabular}{ | c | c | c | }
 			\hline
 			Žingsnis & Aktorius         & Veiklos apibūdinimas \\ \hline
@@ -466,7 +466,7 @@ PROGRAMŲ SISTEMŲ KATEDRA}
 		\bigskip
 		
 	\begin{enumerate}[resume,labelindent=10pt,leftmargin=2.2cm]
-		\item Po sėkmingo administratoriaus prisijungimo sistema vykdo \ref{AdminViewSourcesScen} lentelėje pavaizduotą skelbimų šaltinių peržiūros funkciją.
+		\item Po sėkmingo administratoriaus prisijungimo sistema visada vykdo \ref{AdminViewSourcesScen} lentelėje pavaizduotą skelbimų šaltinių peržiūros funkciją.
 	\end{enumerate}
 
 		\begin{center}
@@ -507,6 +507,7 @@ PROGRAMŲ SISTEMŲ KATEDRA}
 		\captionof{table}{Administratoriaus skelbimų šaltinio pridėjimo pagrindinis scenarijus\label{AdminAddSourceScen}}		
 		\begin{tabular}{ | c | c | c | }
 			\hline
+			Žingsnis & Aktorius         & Veiklos apibūdinimas \\ \hline
 			1        & Administratorius & \makecell{Suveda naujo skelbimų šaltinio duomenis ir \\ spaudžia mygtuką „Pridėti šaltinį“ } \\ \hline
 			2        & Aplikacija       & Siunčia užklausą į serverį \\ \hline
 			3        & Serveris         & Siunčia užklausą į duomenų bazę \\ \hline
@@ -662,13 +663,14 @@ PROGRAMŲ SISTEMŲ KATEDRA}
 			\item Kaina.
 		\end{enumerate}
 		
-		\item Paieškos lange turi būti leidžiama pasirinkti skelbimo pagrindinių dalių (transporto priemonės tipo, markės, modelio) paieškos filtrus, tačiau galima ir detalesnė paieška.
+		\item Paieškos lange turi būti leidžiama pasirinkti skelbimo pagrindinių dalių (transporto priemonės markės ir modelio) paieškos filtrus, tačiau galima ir detalesnė paieška.
 		\item Detalesnei paieškai turi būti atskiras langas su platesne pasirinkimų specifikacija.
-		\item Laukas „Kaina“ ir „Metai“ turi būti leidžiami pasirinkti tipu „Nuo-Iki“, tačiau veikimas privalomas tiek neužpildžius nė vieno iš šių laukų, tiek detalizavus tik „Nuo“, tiek detalizavus tik „Iki“, tiek detalizavus abu.
+		\item Privalomi laukai turi būti pažymėti „ * “ simboliu
+		\item Laukai „Kaina“ ir „Metai“ turi būti leidžiami pasirinkti tipu „Nuo-Iki“, tačiau veikimas privalomas tiek neužpildžius nė vieno iš šių laukų, tiek detalizavus tik „Nuo“, tiek detalizavus tik „Iki“, tiek detalizavus abu.
 		\item Paieškos tipai (mažiausiai 3, pvz., automobiliai, motociklai, elektromobiliai) turi būti lengvai keičiami skirtukais („Tabs“) pagrindiniame paieškos lange.
-		\item Viename paieškos rezultatų lange gali būti ne daugiau kaip 20 skelbimų.
+		\item Viename paieškos rezultatų lange gali būti ne daugiau kaip 20 skelbimų. Likę (jei jų yra) perkeliami į kitus puslapius.
 		\item Po 10 skelbimų (jei tiek nėra - sąrašo pabaigoje) turi būti išskirta vieta reklamai. Dydis pasirenkamas programuotojo nuožiūra, tačiau nedidesnis nei skelbimo dydis.
-		\item Paieškos rezultatų lango viršuje turi būti rodoma paieškos informacija.
+		\item Paieškos rezultatų lango viršuje turi būti rodomi vartotojo įvesti paieškos kriterijai.
 		\item Sistemoje turi būti įdiegta galimybė bet kuriame jos etape grįžti į pagrindinį paieškos langą ir, jei vartotojas yra prisijungęs, į mėgstamiausių skelbimų sąrašo langą (jei vartotojas nėra prisijungęs - į prisijungimo langą). Siūlomas sprendimas - įrankių juosta virš visų langų.
 		\item Įrankių juostos mygtukai „Mėgstamiausių sąrašas“, „Prisijungimas“ ir „Registracija“ turi būtinai būti matomi. Kiti, papildomi mygtukai (pvz., „Nustatymai“) gali būti pasislėpę po perpildančiu („Overflow“) sąrašu.
 		\item Visi skelbimai turi turėti aiškų mygtuką, kuris leidžia skelbimą pridėti prie mėgstamiausių sąrašo.
