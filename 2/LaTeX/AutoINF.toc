@@ -1,23 +1,27 @@
 \babel@toc {lithuanian}{}
-\contentsline {section}{Funkciniai reikalavimai}{3}{Doc-Start}
-\contentsline {subsection}{\numberline {FR1}Bendri reikalavimai}{3}{subsection.0.1}
-\contentsline {subsection}{\numberline {FR2}U\IeC {\v z}sakovo reikalavimai}{3}{subsection.0.2}
-\contentsline {subsection}{\numberline {FR3}Vartotojo reikalavimai}{4}{subsection.0.3}
-\contentsline {subsubsection}{\numberline {FR3.1}Pagrindinio meniu reikalavimai}{5}{subsubsection.0.3.1}
-\contentsline {subsubsection}{\numberline {FR3.2}Vartotojo prisiregistravimo reikalavimai}{6}{subsubsection.0.3.2}
-\contentsline {subsubsection}{\numberline {FR3.3}Vartotojo prisijungimo reikalavimai}{8}{subsubsection.0.3.3}
-\contentsline {subsubsection}{\numberline {FR3.4}Vartotojo skelbim\IeC {\k u} ie\IeC {\v s}kojimo reikalavimai}{10}{subsubsection.0.3.4}
-\contentsline {subsubsection}{\numberline {FR3.5}Vartotojo m\IeC {\.e}gstamiausi\IeC {\k u} skelbim\IeC {\k u} per\IeC {\v z}i\IeC {\=u}r\IeC {\.e}jimo reikalavimai}{11}{subsubsection.0.3.5}
-\contentsline {subsubsection}{\numberline {FR3.6}Vartotojo m\IeC {\.e}gstamiausio skelbimo pa\IeC {\v s}alinimo reikalavimai}{12}{subsubsection.0.3.6}
-\contentsline {subsubsection}{\numberline {FR3.7}Vartotojo m\IeC {\.e}gstamiausio skelbimo i\IeC {\v s}saugojimo reikalavimai}{13}{subsubsection.0.3.7}
-\contentsline {subsection}{\numberline {FR4}Administratoriaus reikalavimai}{14}{subsection.0.4}
-\contentsline {subsubsection}{\numberline {FR4.1}Administratoriaus prisijungimo reikalavimai}{15}{subsubsection.0.4.1}
-\contentsline {subsubsection}{\numberline {FR4.2}Administratoriaus skelbim\IeC {\k u} \IeC {\v s}altinio prid\IeC {\.e}jimo reikalavimai}{16}{subsubsection.0.4.2}
-\contentsline {subsubsection}{\numberline {FR4.3}Administratoriaus skelbim\IeC {\k u} \IeC {\v s}altinio pa\IeC {\v s}alinimo reikalavimai}{17}{subsubsection.0.4.3}
-\contentsline {section}{Nefunkciniai reikalavimai}{18}{table.19}
-\contentsline {subsection}{\numberline {NFR1}Vidini\IeC {\k u} interfeis\IeC {\k u} reikalavimai}{18}{subsection.0.1}
-\contentsline {subsection}{\numberline {NFR2}Tikslumo reikalavimai}{18}{subsection.0.2}
-\contentsline {subsection}{\numberline {NFR3}Patikimumo reikalavimai}{18}{subsection.0.3}
-\contentsline {subsection}{\numberline {NFR4}Robasti\IeC {\v s}kumo reikalavimai}{19}{subsection.0.4}
-\contentsline {subsection}{\numberline {NFR5}Na\IeC {\v s}umo reikalavimai}{19}{subsection.0.5}
-\contentsline {section}{Interfeiso reikalavimai}{20}{Item.48}
+\contentsline {section}{\IeC {\k I}vadas}{3}{Doc-Start}
+\contentsline {section}{Funkciniai reikalavimai}{4}{Doc-Start}
+\contentsline {subsection}{\numberline {FR1}Bendri reikalavimai}{4}{subsection.1}
+\contentsline {subsection}{\numberline {FR2}Vartotojo u\IeC {\v z}duo\IeC {\v c}i\IeC {\k u} reikalavimai}{5}{subsection.9}
+\contentsline {subsubsection}{\numberline {FR2.1}Pagrindinio meniu reikalavimai}{6}{subsubsection.11}
+\contentsline {subsubsection}{\numberline {FR2.2}Vartotojo registracijos reikalavimai}{7}{subsubsection.16}
+\contentsline {subsubsection}{\numberline {FR2.3}Vartotojo prisijungimo reikalavimai}{9}{subsubsection.28}
+\contentsline {subsubsection}{\numberline {FR2.4}Vartotojo skelbim\IeC {\k u} paie\IeC {\v s}kos reikalavimai}{11}{subsubsection.35}
+\contentsline {subsubsection}{\numberline {FR2.5}Vartotojo m\IeC {\.e}gstamiausi\IeC {\k u} skelbim\IeC {\k u} per\IeC {\v z}i\IeC {\=u}ros reikalavimai}{13}{subsubsection.44}
+\contentsline {subsubsection}{\numberline {FR2.6}Vartotojo m\IeC {\.e}gstamiausio skelbimo i\IeC {\v s}saugojimo reikalavimai}{14}{subsubsection.49}
+\contentsline {subsubsection}{\numberline {FR2.7}Vartotojo m\IeC {\.e}gstamiausio skelbimo pa\IeC {\v s}alinimo reikalavimai}{15}{subsubsection.55}
+\contentsline {subsection}{\numberline {FR3}Administratoriaus u\IeC {\v z}duo\IeC {\v c}i\IeC {\k u} reikalavimai}{17}{subsection.63}
+\contentsline {subsubsection}{\numberline {FR3.1}Administratoriaus prisijungimo reikalavimai}{18}{subsubsection.65}
+\contentsline {subsubsection}{\numberline {FR3.2}Administratoriaus skelbim\IeC {\k u} \IeC {\v s}altinio prid\IeC {\.e}jimo reikalavimai}{20}{subsubsection.73}
+\contentsline {subsubsection}{\numberline {FR3.3}Administratoriaus skelbim\IeC {\k u} \IeC {\v s}altinio pa\IeC {\v s}alinimo reikalavimai}{21}{subsubsection.83}
+\contentsline {section}{Nefunkciniai reikalavimai}{22}{Item.89}
+\contentsline {subsection}{\numberline {NFR1}Vidini\IeC {\k u} interfeis\IeC {\k u} reikalavimai}{22}{subsection.90}
+\contentsline {subsection}{\numberline {NFR2}Tikslumo reikalavimai}{22}{subsection.96}
+\contentsline {subsection}{\numberline {NFR3}Patikimumo reikalavimai}{22}{subsection.99}
+\contentsline {subsection}{\numberline {NFR4}Robasti\IeC {\v s}kumo reikalavimai}{23}{subsection.104}
+\contentsline {subsection}{\numberline {NFR5}Na\IeC {\v s}umo reikalavimai}{23}{subsection.110}
+\contentsline {section}{Interfeiso reikalavimai}{24}{Item.114}
+\contentsline {subsection}{\numberline {IR1}Bendri reikalavimai}{24}{subsection.115}
+\contentsline {subsection}{\numberline {IR2}Ergonominiai reikalavimai}{25}{subsection.141}
+\contentsline {section}{Rezultatai}{27}{Item.144}
+\contentsline {section}{I\IeC {\v s}vados}{28}{Item.144}

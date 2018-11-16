@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.10)  14 NOV 2018 23:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.10)  16 NOV 2018 09:17
 entering extended mode
 **./AutoINF.tex
 (AutoINF.tex
@@ -430,6 +430,7 @@ File: pd1enc.def 2018/09/30 v6.88a Hyperref: PDFDocEncoding definition (HO)
 ("D:\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
+Package hyperref Info: Option `hypertexnames' set `false' on input line 4409.
 Package hyperref Info: Hyper figures OFF on input line 4535.
 Package hyperref Info: Link nesting OFF on input line 4540.
 Package hyperref Info: Hyper index ON on input line 4543.
@@ -541,11 +542,7 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 ("D:\MiKTeX 2.9\tex\latex\oberdiek\transparent.sty"
 Package: transparent 2016/05/16 v1.1 Transparency via pdfTeX's color stack (HO)
 
-) (AutoINF.aux
-
-LaTeX Warning: Label `UserNotLoggedIn' multiply defined.
-
-)
+) (AutoINF.aux)
 \openout1 = `AutoINF.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
@@ -562,7 +559,8 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 64.
 LaTeX Font Info:    ... okay on input line 64.
 LaTeX Font Info:    Checking defaults for L7x/lmr/m/n on input line 64.
 LaTeX Font Info:    Try loading font information for L7x+lmr on input line 64.
- ("D:\MiKTeX 2.9\tex\latex\lm\l7xlmr.fd"
+
+("D:\MiKTeX 2.9\tex\latex\lm\l7xlmr.fd"
 File: l7xlmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    ... okay on input line 64.
@@ -688,11 +686,11 @@ text indent by \l@... (toc, 1):  17.6207pt
 number indent by parent (toc, 1):  0.0pt
 text indent calculated (toc, 1): 17.6207pt
 number indent calculated (toc, 1): 0.0pt
-number indent by \l@... (toc, 2):  17.6207pt
-text indent by \l@... (toc, 2):  27.01843pt
-number indent by parent (toc, 2):  17.6207pt
-text indent calculated (toc, 2): 36.86458pt
-number indent calculated (toc, 2): 17.6207pt
+number indent by \l@... (toc, 1):  0.0pt
+text indent by \l@... (toc, 1):  17.6207pt
+number indent by parent (toc, 1):  0.0pt
+text indent calculated (toc, 1): 17.6207pt
+number indent calculated (toc, 1): 0.0pt
 number indent by \l@... (toc, 2):  17.6207pt
 text indent by \l@... (toc, 2):  27.01843pt
 number indent by parent (toc, 2):  17.6207pt
@@ -788,6 +786,26 @@ text indent by \l@... (toc, 2):  27.01843pt
 number indent by parent (toc, 2):  17.6207pt
 text indent calculated (toc, 2): 36.86458pt
 number indent calculated (toc, 2): 17.6207pt
+number indent by \l@... (toc, 1):  0.0pt
+text indent by \l@... (toc, 1):  17.6207pt
+number indent by parent (toc, 1):  0.0pt
+text indent calculated (toc, 1): 17.6207pt
+number indent calculated (toc, 1): 0.0pt
+number indent by \l@... (toc, 2):  17.6207pt
+text indent by \l@... (toc, 2):  27.01843pt
+number indent by parent (toc, 2):  17.6207pt
+text indent calculated (toc, 2): 36.86458pt
+number indent calculated (toc, 2): 17.6207pt
+number indent by \l@... (toc, 2):  17.6207pt
+text indent by \l@... (toc, 2):  27.01843pt
+number indent by parent (toc, 2):  17.6207pt
+text indent calculated (toc, 2): 36.86458pt
+number indent calculated (toc, 2): 17.6207pt
+number indent by \l@... (toc, 1):  0.0pt
+text indent by \l@... (toc, 1):  17.6207pt
+number indent by parent (toc, 1):  0.0pt
+text indent calculated (toc, 1): 17.6207pt
+number indent calculated (toc, 1): 0.0pt
 number indent by \l@... (toc, 1):  0.0pt
 text indent by \l@... (toc, 1):  17.6207pt
 number indent by parent (toc, 1):  0.0pt
@@ -797,9 +815,14 @@ number indent calculated (toc, 1): 0.0pt
 \tf@toc=\write4
 \openout4 = `AutoINF.toc'.
 
- [2] [3] ("D:\MiKTeX 2.9\tex\latex\ucs\uni-32.def"
+ [2] ("D:\MiKTeX 2.9\tex\latex\ucs\uni-32.def"
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
-)
+) [3] [4]
+
+Package hyperref Warning: Composite letter `\textasciicaron+c'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textasciicaron' on input line 147.
+
 Package epstopdf Info: Source file: <TikslaiVartotojas.eps>
 (epstopdf)                    date: 2018-11-14 21:51:02
 (epstopdf)                    size: 47378 bytes
@@ -808,131 +831,132 @@ Package epstopdf Info: Source file: <TikslaiVartotojas.eps>
 (epstopdf)                    size: 10608 bytes
 (epstopdf)             Command: <epstopdf --outfile=TikslaiVartotojas-eps-conve
 rted-to.pdf TikslaiVartotojas.eps>
-(epstopdf)             \includegraphics on input line 150.
+(epstopdf)             \includegraphics on input line 152.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./TikslaiVartotojas-eps-converted-to.pdf): PDF i
 nclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<TikslaiVartotojas-eps-converted-to.pdf, id=159, 319.1925pt x 242.9075pt>
+<TikslaiVartotojas-eps-converted-to.pdf, id=185, 319.1925pt x 242.9075pt>
 File: TikslaiVartotojas-eps-converted-to.pdf Graphic file (type pdf)
 <use TikslaiVartotojas-eps-converted-to.pdf>
 Package pdftex.def Info: TikslaiVartotojas-eps-converted-to.pdf  used on input 
-line 150.
+line 152.
 (pdftex.def)             Requested size: 328.82707pt x 250.24197pt.
-[4 <./TikslaiVartotojas-eps-converted-to.pdf>]
+[5 <./TikslaiVartotojas-eps-converted-to.pdf>]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 162.
+(caption)                particular \caption on input line 164.
 See the caption package documentation for explanation.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 178.
-See the caption package documentation for explanation.
-
-[5]
-
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 200.
+(caption)                particular \caption on input line 180.
 See the caption package documentation for explanation.
 
 [6]
-Overfull \hbox (52.92368pt too wide) in paragraph at lines 220--221
-\T2A/cmr/m/n/12 var-dais. Pa-tik-ri-ni-mui pa-si-bai-gus pa-ro-do-mas pra-nesi
-mas apie re-gist-ra-ci-jos (ne)s
-ekmingum[]. 
- []
-
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 224.
-See the caption package documentation for explanation.
-
-[7]
-
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 241.
+(caption)                particular \caption on input line 197.
 See the caption package documentation for explanation.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 263.
+(caption)                particular \caption on input line 218.
 See the caption package documentation for explanation.
 
 
-Overfull \hbox (3.5632pt too wide) in paragraph at lines 264--270
+Overfull \hbox (14.81859pt too wide) in paragraph at lines 219--225
  [] 
  []
 
-[8] [9]
+[7] [8]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 279.
+(caption)                particular \caption on input line 249.
 See the caption package documentation for explanation.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 294.
+(caption)                particular \caption on input line 270.
 See the caption package documentation for explanation.
 
 
-Package hyperref Warning: Composite letter `\textdotaccent+e'
-(hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotaccent' on input line 304.
+Overfull \hbox (22.06268pt too wide) in paragraph at lines 271--277
+ [] 
+ []
 
-
-Package hyperref Warning: Composite letter `\textasciimacron+u'
-(hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciimacron' on input line 304.
-
-
-Package hyperref Warning: Composite letter `\textdotaccent+e'
-(hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotaccent' on input line 304.
-
-
-Overfull \hbox (31.10045pt too wide) in paragraph at lines 306--307
-[]\T2A/cmr/m/n/12 Vartotojui pa-spau-dus �Perzi	ur
-eti m
-egstamiausius mygtuk[] pa-ro-do-mas m
-egstamiausi[]
+[9]
+Overfull \hbox (4.7733pt too wide) in paragraph at lines 282--283
+[]\T2A/cmr/m/n/12 Slaptazodis ly-gi-na-mas su ras-tos pa-sky-ros slap-tazodz
+iu is pradzi[] pri-tai-kius maisos
  []
 
 [10]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 310.
+(caption)                particular \caption on input line 292.
 See the caption package documentation for explanation.
 
-[11]
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 313.
+See the caption package documentation for explanation.
+
+[11] [12]
 
 Package hyperref Warning: Composite letter `\textdotaccent+e'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotaccent' on input line 326.
+(hyperref)                removing `\textdotaccent' on input line 337.
 
 
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 332.
-See the caption package documentation for explanation.
-
-
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 347.
-See the caption package documentation for explanation.
-
-[12]
-
-Package hyperref Warning: Composite letter `\textdotaccent+e'
+Package hyperref Warning: Composite letter `\textasciimacron+u'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotaccent' on input line 356.
+(hyperref)                removing `\textasciimacron' on input line 337.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 362.
+(caption)                particular \caption on input line 343.
 See the caption package documentation for explanation.
+
+
+Overfull \hbox (12.23473pt too wide) in paragraph at lines 344--354
+ [] 
+ []
 
 [13]
+
+Package hyperref Warning: Composite letter `\textdotaccent+e'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textdotaccent' on input line 363.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 369.
+See the caption package documentation for explanation.
+
+[14]
+
+Package hyperref Warning: Composite letter `\textdotaccent+e'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textdotaccent' on input line 396.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 402.
+See the caption package documentation for explanation.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 423.
+See the caption package documentation for explanation.
+
+[15] [16]
+
+Package hyperref Warning: Composite letter `\textasciicaron+c'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textasciicaron' on input line 439.
+
 Package epstopdf Info: Source file: <TikslaiAdministratorius.eps>
 (epstopdf)                    date: 2018-11-14 21:51:02
 (epstopdf)                    size: 43349 bytes
@@ -942,146 +966,148 @@ df>
 (epstopdf)                    size: 9718 bytes
 (epstopdf)             Command: <epstopdf --outfile=TikslaiAdministratorius-eps
 -converted-to.pdf TikslaiAdministratorius.eps>
-(epstopdf)             \includegraphics on input line 387.
+(epstopdf)             \includegraphics on input line 444.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./TikslaiAdministratorius-eps-converted-to.pdf):
  PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<TikslaiAdministratorius-eps-converted-to.pdf, id=240, 312.16624pt x 153.57375p
+<TikslaiAdministratorius-eps-converted-to.pdf, id=306, 312.16624pt x 153.57375p
 t>
 File: TikslaiAdministratorius-eps-converted-to.pdf Graphic file (type pdf)
 <use TikslaiAdministratorius-eps-converted-to.pdf>
 Package pdftex.def Info: TikslaiAdministratorius-eps-converted-to.pdf  used on 
-input line 387.
+input line 444.
 (pdftex.def)             Requested size: 328.82707pt x 161.77272pt.
-[14 <./TikslaiAdministratorius-eps-converted-to.pdf>]
+[17 <./TikslaiAdministratorius-eps-converted-to.pdf>]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 400.
+(caption)                particular \caption on input line 457.
 See the caption package documentation for explanation.
 
 
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 410.
-See the caption package documentation for explanation.
+Overfull \hbox (12.37445pt too wide) in paragraph at lines 469--470
+[]\T2A/cmr/m/n/12 Po s
+ekmingo ad-mi-nist-ra-to-riaus pri-si-jun-gi-mo sis-te-ma vyk-do [][]14[][] len
+-tel
+eje pavaizduot[]
+ []
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 425.
+(caption)                particular \caption on input line 473.
 See the caption package documentation for explanation.
 
+[18]
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 492.
+See the caption package documentation for explanation.
+
+[19]
 
 Package hyperref Warning: Composite letter `\textdotaccent+e'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotaccent' on input line 433.
+(hyperref)                removing `\textdotaccent' on input line 501.
 
-[15]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 440.
+(caption)                particular \caption on input line 507.
 See the caption package documentation for explanation.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 455.
+(caption)                particular \caption on input line 525.
 See the caption package documentation for explanation.
-
-[16]
-
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 470.
-See the caption package documentation for explanation.
-
-
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 483.
-See the caption package documentation for explanation.
-
-[17]pdfTeX warning (ext4): destination with the same identifier (name{subsectio
-n.0.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.499 ...ection{Vidinių interfeisų reikalavimai}
-                                                  
-Overfull \hbox (2.74619pt too wide) in paragraph at lines 503--504
-[]\T2A/cmr/m/n/12 Sistema veiks And-ro-id ap-lin-ko-je, ver-si-jos pa-si-rin-ki
--mas pa-lie-ka-mas programuotoj[]
- []
-
-pdfTeX warning (ext4): destination with the same identifier (name{subsection.0.
-2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.514 	\subsection{Tikslumo reikalavimai}
-                                         pdfTeX warning (ext4): destination wit
-h the same identifier (name{subsection.0.3}) has been already used, duplicate i
-gnored
-<to be read again> 
-                   \relax 
-l.520 	\subsection{Patikimumo reikalavimai}
-                                           pdfTeX warning (ext4): destination w
-ith the same identifier (name{subsection.0.4}) has been already used, duplicate
- ignored
-<to be read again> 
-                   \relax 
-l.528 	\subsection{Robastiškumo reikalavimai}
-                                               [18] [19]
-Overfull \hbox (21.21939pt too wide) in paragraph at lines 553--554
-\T2A/cmr/m/n/12 rink-ti, kuri[] valiut[] is pagrindini[] (pag-rin-din
-es va-liu-tos pa-si-ren-ka-mos programuotoj[]
- []
 
 [20]
-Overfull \hbox (26.95831pt too wide) in paragraph at lines 576--577
-[]\T2A/cmr/m/n/12 Visi skel-bi-mai tu-ri tur
-eti aisk[] mygtuk[], ku-ris leis skelbim[] prid
-eti prie m
-egstamiausi[]
+Overfull \hbox (3.66411pt too wide) in paragraph at lines 549--550
+[]\T2A/cmr/m/n/12 S
+ekmingo skelbim[] saltinio pasalinimo at-ve-ju sis-te-ma vyk-do [][]18[][] le
+n-tel
+eje nurodyt[]
  []
 
 
-Overfull \hbox (29.0467pt too wide) in paragraph at lines 577--578
-[]\T2A/cmr/m/n/12 M
-egstamiausi[] s[]raso lan-gas tu-ri tur
-eti mygtuk[] m
-egstamiausi[] skelbim[] pasalinimui. 
- []
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 553.
+See the caption package documentation for explanation.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 584.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 572.
+See the caption package documentation for explanation.
+
 [21]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 584.
+Overfull \hbox (7.24925pt too wide) in paragraph at lines 598--599
+[]\T2A/cmr/m/n/12 Sistema vei-kia And-ro-id ap-lin-ko-je, ver-si-jos pa-si-rin-
+ki-mas pa-lie-ka-mas programuotoj[]
+ []
+
+
+Overfull \hbox (13.71013pt too wide) in paragraph at lines 617--618
+[][]\T2A/cmr/m/n/12 vykus bet ko-kiam sis-te-mos su-tri-ki-mui, sis-te-ma, jei 
+[]manoma, tu-ri per-kel-ti vartotoj[]
+ []
+
+[22] [23] [24]
+Overfull \hbox (5.5218pt too wide) in paragraph at lines 677--678
+[]\T2A/cmr/m/n/12 Langas, vaiz-duo-ja-mas pri-sjun-gus ad-mi-nist-ra-to-riui, y
+ra skelbim[] saltini[] perzi	uros
+ []
+
+[25]
+Overfull \hbox (2.22823pt too wide) in paragraph at lines 684--686
+\T2A/cmr/m/n/12 te-mos veiks-mui (pa-ieskai) at-lik-ti uztenka 1 veiks-mo - p
+a-spaus-ti pa-ieskos mygtuk[],
+ []
+
+[26]
+Overfull \hbox (16.51067pt too wide) in paragraph at lines 691--693
+\T2A/cmr/m/n/12 es-min
+es sis-te-mos funk-ci-jos ir ap-rasomas var-to-to-jo bei ad-mi-nist-ra-to-riau
+s uzduoci[] []gyvendinimas.
+ []
+
+
+Overfull \hbox (1.43102pt too wide) in paragraph at lines 691--693
+\T2A/cmr/m/n/12 Ne-funk-ci-niuo-se rei-ka-la-vi-muo-se yra api-br
+eziamos ne-es-min
+es sis-te-mos funk-ci-jos, []prasminancios
+ []
+
+[27]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 697.
+ [28]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 697.
  (AutoINF.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 584.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 584.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 697.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 697.
 Package rerunfilecheck Info: File `AutoINF.out' has not changed.
-(rerunfilecheck)             Checksum: 22ED71BFBD73DDCF0B1FC2B6B6F19B59;1952.
+(rerunfilecheck)             Checksum: BD9759F712003FF7FB347E7BE7222CD3;2112.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were multiply-defined labels.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 584.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 697.
  ) 
 Here is how much of TeX's memory you used:
- 12440 strings out of 492970
- 179818 string characters out of 3142028
- 331725 words of memory out of 3000000
- 15957 multiletter control sequences out of 15000+200000
+ 12493 strings out of 492970
+ 180271 string characters out of 3142028
+ 330090 words of memory out of 3000000
+ 15968 multiletter control sequences out of 15000+200000
  17359 words of font info for 51 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,18n,43p,397b,598s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 36i,18n,43p,1078b,598s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\stong\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\la
 bx1200.pk> <C:\Users\stong\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\d
 pi600\larm1200.pk> <C:\Users\stong\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\
 lh-t2a\dpi600\labx1440.pk> <C:\Users\stong\AppData\Local\MiKTeX\2.9\fonts\pk\lj
 four\lh\lh-t2a\dpi600\labx1728.pk> <C:\Users\stong\AppData\Local\MiKTeX\2.9\fon
 ts\pk\ljfour\lh\lh-t2a\dpi600\larm2074.pk>
-Output written on AutoINF.pdf (21 pages, 153962 bytes).
+Output written on AutoINF.pdf (28 pages, 173689 bytes).
 PDF statistics:
- 582 PDF objects out of 1000 (max. 8388607)
- 131 named destinations out of 1000 (max. 500000)
- 187 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 699 PDF objects out of 1000 (max. 8388607)
+ 173 named destinations out of 1000 (max. 500000)
+ 219 words of extra memory for PDF output out of 10000 (max. 10000000)
 
