@@ -13,15 +13,15 @@
 \contentsline {subsection}{\numberline {FR3}Administratoriaus u\IeC {\v z}duo\IeC {\v c}i\IeC {\k u} reikalavimai}{17}{subsection.63}
 \contentsline {subsubsection}{\numberline {FR3.1}Administratoriaus prisijungimo reikalavimai}{18}{subsubsection.65}
 \contentsline {subsubsection}{\numberline {FR3.2}Administratoriaus skelbim\IeC {\k u} \IeC {\v s}altinio prid\IeC {\.e}jimo reikalavimai}{20}{subsubsection.73}
-\contentsline {subsubsection}{\numberline {FR3.3}Administratoriaus skelbim\IeC {\k u} \IeC {\v s}altinio pa\IeC {\v s}alinimo reikalavimai}{21}{subsubsection.83}
-\contentsline {section}{Nefunkciniai reikalavimai}{22}{Item.89}
-\contentsline {subsection}{\numberline {NFR1}Vidini\IeC {\k u} interfeis\IeC {\k u} reikalavimai}{22}{subsection.90}
-\contentsline {subsection}{\numberline {NFR2}Tikslumo reikalavimai}{22}{subsection.96}
-\contentsline {subsection}{\numberline {NFR3}Patikimumo reikalavimai}{22}{subsection.99}
-\contentsline {subsection}{\numberline {NFR4}Robasti\IeC {\v s}kumo reikalavimai}{23}{subsection.104}
-\contentsline {subsection}{\numberline {NFR5}Na\IeC {\v s}umo reikalavimai}{23}{subsection.110}
-\contentsline {section}{Interfeiso reikalavimai}{24}{Item.114}
-\contentsline {subsection}{\numberline {IR1}Bendri reikalavimai}{24}{subsection.115}
-\contentsline {subsection}{\numberline {IR2}Ergonominiai reikalavimai}{25}{subsection.141}
-\contentsline {section}{Rezultatai}{27}{Item.144}
-\contentsline {section}{I\IeC {\v s}vados}{28}{Item.144}
+\contentsline {subsubsection}{\numberline {FR3.3}Administratoriaus skelbim\IeC {\k u} \IeC {\v s}altinio pa\IeC {\v s}alinimo reikalavimai}{22}{subsubsection.83}
+\contentsline {section}{Nefunkciniai reikalavimai}{23}{Item.89}
+\contentsline {subsection}{\numberline {NFR1}Vidini\IeC {\k u} interfeis\IeC {\k u} reikalavimai}{23}{subsection.90}
+\contentsline {subsection}{\numberline {NFR2}Tikslumo reikalavimai}{23}{subsection.96}
+\contentsline {subsection}{\numberline {NFR3}Patikimumo reikalavimai}{23}{subsection.99}
+\contentsline {subsection}{\numberline {NFR4}Robasti\IeC {\v s}kumo reikalavimai}{24}{subsection.104}
+\contentsline {subsection}{\numberline {NFR5}Na\IeC {\v s}umo reikalavimai}{24}{subsection.110}
+\contentsline {section}{Interfeiso reikalavimai}{25}{Item.114}
+\contentsline {subsection}{\numberline {IR1}Bendri reikalavimai}{25}{subsection.115}
+\contentsline {subsection}{\numberline {IR2}Ergonominiai reikalavimai}{27}{subsection.142}
+\contentsline {section}{Rezultatai}{28}{Item.145}
+\contentsline {section}{I\IeC {\v s}vados}{29}{Item.145}
