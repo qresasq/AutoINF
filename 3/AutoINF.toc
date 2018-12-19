@@ -1,0 +1,56 @@
+\babel@toc {lithuanian}{}
+\contentsline {part}{Anotacija}{5}{part*.1}
+\contentsline {part}{\IeC {\k I}vadas}{6}{part*.2}
+\contentsline {part}{Projektavimas}{7}{part*.3}
+\contentsline {section}{\numberline {1}U\IeC {\v z}duotys ir j\IeC {\k u} vykdymo scenarijai}{7}{section.4}
+\contentsline {subsection}{\numberline {1.1}Sistemos vykdomos u\IeC {\v z}duotys}{7}{subsection.5}
+\contentsline {subsection}{\numberline {1.2}U\IeC {\v z}duoties \IeC {\quotedblbase }Prisiregistruoti\IeC {\textquotedblleft } \IeC {\k i}gyvendinimas}{10}{subsection.9}
+\contentsline {subsection}{\numberline {1.3}U\IeC {\v z}duoties \IeC {\quotedblbase }Prisijungti\IeC {\textquotedblleft } \IeC {\k i}gyvendinimas}{11}{subsection.11}
+\contentsline {subsection}{\numberline {1.4}U\IeC {\v z}duoties \IeC {\quotedblbase }Rasti skelbim\IeC {\k a}\IeC {\textquotedblleft } \IeC {\k i}gyvendinimas}{12}{subsection.13}
+\contentsline {subsection}{\numberline {1.5}U\IeC {\v z}duoties \IeC {\quotedblbase }I\IeC {\v s}saugoti m\IeC {\.e}gstamiausi\IeC {\k a}\IeC {\textquotedblleft } \IeC {\k i}gyvendinimas}{13}{subsection.15}
+\contentsline {subsection}{\numberline {1.6}U\IeC {\v z}duoties \IeC {\quotedblbase }Pa\IeC {\v s}alinti m\IeC {\.e}gstamiausi\IeC {\k a}\IeC {\textquotedblleft } \IeC {\k i}gyvendinimas}{14}{subsection.17}
+\contentsline {subsection}{\numberline {1.7}U\IeC {\v z}duoties \IeC {\quotedblbase }Per\IeC {\v z}i\IeC {\=u}r\IeC {\.e}ti m\IeC {\.e}gstamiausius\IeC {\textquotedblleft } \IeC {\k i}gyvendinimas}{15}{subsection.19}
+\contentsline {subsection}{\numberline {1.8}U\IeC {\v z}duoties \IeC {\quotedblbase }Tvarkyti skelbim\IeC {\k u} \IeC {\v s}altinius\IeC {\textquotedblleft } \IeC {\k i}gyvendinimas}{16}{subsection.21}
+\contentsline {section}{\numberline {2}Strukt\IeC {\=u}rinis program\IeC {\k u} sistemos modelis}{17}{section.23}
+\contentsline {subsection}{\numberline {2.1}Klasi\IeC {\k u} diagrama}{17}{subsection.24}
+\contentsline {subsection}{\numberline {2.2}Objekt\IeC {\k u} diagrama}{18}{subsection.26}
+\contentsline {section}{\numberline {3}Program\IeC {\k u} sistemos komponentai}{19}{section.28}
+\contentsline {subsection}{\numberline {3.1}Konteksto diagrama}{19}{subsection.29}
+\contentsline {subsection}{\numberline {3.2}Skelbim\IeC {\k u} rinkimo sistemos dekompozicija}{20}{subsection.31}
+\contentsline {subsection}{\numberline {3.3}Sistemos branduolio dekompozicija}{21}{subsection.33}
+\contentsline {section}{\numberline {4}Dinaminis program\IeC {\k u} sistemos modelis}{22}{section.35}
+\contentsline {subsection}{\numberline {4.1}Vartotojo registracijos veiklos diagrama}{22}{subsection.36}
+\contentsline {subsection}{\numberline {4.2}Skelbim\IeC {\k u} paie\IeC {\v s}kos veiklos diagrama}{23}{subsection.38}
+\contentsline {subsection}{\numberline {4.3}Naujo m\IeC {\.e}gstamo skelbimo veiklos diagrama}{24}{subsection.40}
+\contentsline {section}{\numberline {5}Komponent\IeC {\k u} i\IeC {\v s}skirstymas tinkle}{25}{section.42}
+\contentsline {subsection}{\numberline {5.1}Komponent\IeC {\k u} ry\IeC {\v s}i\IeC {\k u} su artifaktais diagrama}{25}{subsection.43}
+\contentsline {subsection}{\numberline {5.2}Diegimo diagrama}{26}{subsection.45}
+\contentsline {part}{Reikalavimai}{27}{part*.47}
+\contentsline {section}{Funkciniai reikalavimai}{27}{section*.48}
+\contentsline {subsection}{\numberline {FR3}Bendri reikalavimai}{27}{subsection.49}
+\contentsline {subsection}{\numberline {FR4}Vartotojo u\IeC {\v z}duo\IeC {\v c}i\IeC {\k u} reikalavimai}{28}{subsection.57}
+\contentsline {subsubsection}{\numberline {FR4.1}Pagrindinio meniu reikalavimai}{29}{subsubsection.59}
+\contentsline {subsubsection}{\numberline {FR4.2}Vartotojo registracijos reikalavimai}{30}{subsubsection.64}
+\contentsline {subsubsection}{\numberline {FR4.3}Vartotojo prisijungimo reikalavimai}{32}{subsubsection.76}
+\contentsline {subsubsection}{\numberline {FR4.4}Vartotojo skelbim\IeC {\k u} paie\IeC {\v s}kos reikalavimai}{34}{subsubsection.83}
+\contentsline {subsubsection}{\numberline {FR4.5}Vartotojo m\IeC {\.e}gstamiausi\IeC {\k u} skelbim\IeC {\k u} per\IeC {\v z}i\IeC {\=u}ros reikalavimai}{36}{subsubsection.92}
+\contentsline {subsubsection}{\numberline {FR4.6}Vartotojo m\IeC {\.e}gstamiausio skelbimo i\IeC {\v s}saugojimo reikalavimai}{37}{subsubsection.97}
+\contentsline {subsubsection}{\numberline {FR4.7}Vartotojo m\IeC {\.e}gstamiausio skelbimo pa\IeC {\v s}alinimo reikalavimai}{38}{subsubsection.103}
+\contentsline {subsection}{\numberline {FR5}Administratoriaus u\IeC {\v z}duo\IeC {\v c}i\IeC {\k u} reikalavimai}{40}{subsection.111}
+\contentsline {subsubsection}{\numberline {FR5.1}Administratoriaus prisijungimo reikalavimai}{41}{subsubsection.113}
+\contentsline {subsubsection}{\numberline {FR5.2}Administratoriaus skelbim\IeC {\k u} \IeC {\v s}altinio prid\IeC {\.e}jimo reikalavimai}{43}{subsubsection.121}
+\contentsline {subsubsection}{\numberline {FR5.3}Administratoriaus skelbim\IeC {\k u} \IeC {\v s}altinio pa\IeC {\v s}alinimo reikalavimai}{45}{subsubsection.131}
+\contentsline {section}{Nefunkciniai reikalavimai}{46}{Item.137}
+\contentsline {subsection}{\numberline {NFR1}Vidini\IeC {\k u} interfeis\IeC {\k u} reikalavimai}{46}{subsection.138}
+\contentsline {subsection}{\numberline {NFR2}Tikslumo reikalavimai}{46}{subsection.144}
+\contentsline {subsection}{\numberline {NFR3}Patikimumo reikalavimai}{46}{subsection.147}
+\contentsline {subsection}{\numberline {NFR4}Robasti\IeC {\v s}kumo reikalavimai}{47}{subsection.152}
+\contentsline {subsection}{\numberline {NFR5}Na\IeC {\v s}umo reikalavimai}{47}{subsection.158}
+\contentsline {section}{Interfeiso reikalavimai}{48}{Item.162}
+\contentsline {subsection}{\numberline {IR1}Bendri reikalavimai}{48}{subsection.163}
+\contentsline {subsection}{\numberline {IR2}Ergonominiai reikalavimai}{50}{subsection.190}
+\contentsline {part}{Dalykin\IeC {\.e}s srities analiz\IeC {\.e}}{51}{part*.194}
+\contentsline {part}{Rezultatai}{52}{part*.195}
+\contentsline {part}{I\IeC {\v s}vados}{53}{part*.196}
+\contentsline {part}{Termin\IeC {\k u} \IeC {\v z}odynas}{54}{part*.197}
+\contentsline {part}{Literat\IeC {\=u}ros s\IeC {\k a}ra\IeC {\v s}as}{55}{part*.198}

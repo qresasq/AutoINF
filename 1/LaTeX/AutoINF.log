@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.10)  8 NOV 2018 21:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.10)  19 DEC 2018 22:57
 entering extended mode
 **./AutoINF.tex
 (AutoINF.tex
@@ -425,10 +425,10 @@ F.toc)
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 ) [4]
 Package epstopdf Info: Source file: <Tikslai.eps>
-(epstopdf)                    date: 2018-10-19 10:07:46
+(epstopdf)                    date: 2018-12-19 19:04:06
 (epstopdf)                    size: 54319 bytes
 (epstopdf)             Output file: <Tikslai-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-10-19 10:07:46
+(epstopdf)                    date: 2018-12-19 19:04:06
 (epstopdf)                    size: 12207 bytes
 (epstopdf)             Command: <epstopdf --outfile=Tikslai-eps-converted-to.pd
 f Tikslai.eps>
@@ -445,10 +445,10 @@ Package pdftex.def Info: Tikslai-eps-converted-to.pdf  used on input line 148.
 (pdftex.def)             Requested size: 486.25761pt x 220.1971pt.
 [5 <./Tikslai-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <TikslaiVartotojas.eps>
-(epstopdf)                    date: 2018-10-19 10:07:46
+(epstopdf)                    date: 2018-12-19 19:04:06
 (epstopdf)                    size: 47378 bytes
 (epstopdf)             Output file: <TikslaiVartotojas-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-10-19 10:07:46
+(epstopdf)                    date: 2018-12-19 19:04:06
 (epstopdf)                    size: 10608 bytes
 (epstopdf)             Command: <epstopdf --outfile=TikslaiVartotojas-eps-conve
 rted-to.pdf TikslaiVartotojas.eps>
@@ -473,11 +473,11 @@ eti skelbim[]
  []
 
 Package epstopdf Info: Source file: <TikslaiAdministratorius.eps>
-(epstopdf)                    date: 2018-10-19 10:07:46
+(epstopdf)                    date: 2018-12-19 19:04:06
 (epstopdf)                    size: 43349 bytes
 (epstopdf)             Output file: <TikslaiAdministratorius-eps-converted-to.p
 df>
-(epstopdf)                    date: 2018-10-19 10:07:46
+(epstopdf)                    date: 2018-12-19 19:04:06
 (epstopdf)                    size: 9718 bytes
 (epstopdf)             Command: <epstopdf --outfile=TikslaiAdministratorius-eps
 -converted-to.pdf TikslaiAdministratorius.eps>
@@ -496,10 +496,10 @@ input line 172.
 (pdftex.def)             Requested size: 340.37885pt x 167.45767pt.
 [7 <./TikslaiAdministratorius-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Prisiregistruoti.eps>
-(epstopdf)                    date: 2018-10-19 10:07:46
+(epstopdf)                    date: 2018-12-19 19:04:06
 (epstopdf)                    size: 73236 bytes
 (epstopdf)             Output file: <Prisiregistruoti-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-10-19 10:07:46
+(epstopdf)                    date: 2018-12-19 19:04:06
 (epstopdf)                    size: 14176 bytes
 (epstopdf)             Command: <epstopdf --outfile=Prisiregistruoti-eps-conver
 ted-to.pdf Prisiregistruoti.eps>
@@ -517,10 +517,10 @@ ine 185.
 (pdftex.def)             Requested size: 486.25761pt x 295.08443pt.
 [8 <./Prisiregistruoti-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Prisijungti.eps>
-(epstopdf)                    date: 2018-10-19 10:07:46
+(epstopdf)                    date: 2018-12-19 19:04:06
 (epstopdf)                    size: 71047 bytes
 (epstopdf)             Output file: <Prisijungti-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-10-19 10:07:46
+(epstopdf)                    date: 2018-12-19 19:04:06
 (epstopdf)                    size: 13528 bytes
 (epstopdf)             Command: <epstopdf --outfile=Prisijungti-eps-converted-t
 o.pdf Prisijungti.eps>
@@ -538,10 +538,10 @@ Package pdftex.def Info: Prisijungti-eps-converted-to.pdf  used on input line 1
 (pdftex.def)             Requested size: 486.25761pt x 290.57184pt.
 [9 <./Prisijungti-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <RastiSkelbima.eps>
-(epstopdf)                    date: 2018-10-19 10:07:46
+(epstopdf)                    date: 2018-12-19 19:04:06
 (epstopdf)                    size: 66595 bytes
 (epstopdf)             Output file: <RastiSkelbima-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-10-19 10:07:46
+(epstopdf)                    date: 2018-12-19 19:04:06
 (epstopdf)                    size: 12394 bytes
 (epstopdf)             Command: <epstopdf --outfile=RastiSkelbima-eps-converted
 -to.pdf RastiSkelbima.eps>
@@ -559,11 +559,11 @@ Package pdftex.def Info: RastiSkelbima-eps-converted-to.pdf  used on input line
 (pdftex.def)             Requested size: 486.25761pt x 306.94359pt.
 [10 <./RastiSkelbima-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <IssaugotiMegstamiausia.eps>
-(epstopdf)                    date: 2018-10-19 10:07:46
+(epstopdf)                    date: 2018-12-19 19:04:06
 (epstopdf)                    size: 76029 bytes
 (epstopdf)             Output file: <IssaugotiMegstamiausia-eps-converted-to.pd
 f>
-(epstopdf)                    date: 2018-10-19 10:07:46
+(epstopdf)                    date: 2018-12-19 19:04:06
 (epstopdf)                    size: 14504 bytes
 (epstopdf)             Command: <epstopdf --outfile=IssaugotiMegstamiausia-eps-
 converted-to.pdf IssaugotiMegstamiausia.eps>
@@ -581,11 +581,11 @@ nput line 220.
 (pdftex.def)             Requested size: 486.25761pt x 327.02344pt.
 [11 <./IssaugotiMegstamiausia-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <PasalintiMegstamiausia.eps>
-(epstopdf)                    date: 2018-10-19 10:07:46
+(epstopdf)                    date: 2018-12-19 19:04:06
 (epstopdf)                    size: 70943 bytes
 (epstopdf)             Output file: <PasalintiMegstamiausia-eps-converted-to.pd
 f>
-(epstopdf)                    date: 2018-10-19 10:07:46
+(epstopdf)                    date: 2018-12-19 19:04:06
 (epstopdf)                    size: 13355 bytes
 (epstopdf)             Command: <epstopdf --outfile=PasalintiMegstamiausia-eps-
 converted-to.pdf PasalintiMegstamiausia.eps>
@@ -604,11 +604,11 @@ nput line 232.
 (pdftex.def)             Requested size: 486.25761pt x 298.59825pt.
 [12 <./PasalintiMegstamiausia-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <PerziuretiMegstamiausius.eps>
-(epstopdf)                    date: 2018-10-19 10:07:46
+(epstopdf)                    date: 2018-12-19 19:04:06
 (epstopdf)                    size: 72262 bytes
 (epstopdf)             Output file: <PerziuretiMegstamiausius-eps-converted-to.
 pdf>
-(epstopdf)                    date: 2018-10-19 10:07:46
+(epstopdf)                    date: 2018-12-19 19:04:06
 (epstopdf)                    size: 13757 bytes
 (epstopdf)             Command: <epstopdf --outfile=PerziuretiMegstamiausius-ep
 s-converted-to.pdf PerziuretiMegstamiausius.eps>
@@ -627,11 +627,11 @@ Package pdftex.def Info: PerziuretiMegstamiausius-eps-converted-to.pdf  used on
 (pdftex.def)             Requested size: 486.25761pt x 297.37949pt.
 [13 <./PerziuretiMegstamiausius-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <TvarkytiSkelbimuSaltinius.eps>
-(epstopdf)                    date: 2018-10-19 10:07:46
+(epstopdf)                    date: 2018-12-19 19:04:06
 (epstopdf)                    size: 83529 bytes
 (epstopdf)             Output file: <TvarkytiSkelbimuSaltinius-eps-converted-to
 .pdf>
-(epstopdf)                    date: 2018-10-19 10:07:46
+(epstopdf)                    date: 2018-12-19 19:04:06
 (epstopdf)                    size: 15782 bytes
 (epstopdf)             Command: <epstopdf --outfile=TvarkytiSkelbimuSaltinius-e
 ps-converted-to.pdf TvarkytiSkelbimuSaltinius.eps>
@@ -650,10 +650,10 @@ n input line 254.
 (pdftex.def)             Requested size: 389.00757pt x 429.42714pt.
 [14 <./TvarkytiSkelbimuSaltinius-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <KlasiuDiagrama.eps>
-(epstopdf)                    date: 2018-10-19 10:07:46
+(epstopdf)                    date: 2018-12-19 19:04:06
 (epstopdf)                    size: 35487 bytes
 (epstopdf)             Output file: <KlasiuDiagrama-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-10-19 10:07:46
+(epstopdf)                    date: 2018-12-19 19:04:06
 (epstopdf)                    size: 7647 bytes
 (epstopdf)             Command: <epstopdf --outfile=KlasiuDiagrama-eps-converte
 d-to.pdf KlasiuDiagrama.eps>
@@ -671,10 +671,10 @@ e 269.
 (pdftex.def)             Requested size: 486.25761pt x 155.5415pt.
 [15 <./KlasiuDiagrama-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <ObjektuDiagrama.eps>
-(epstopdf)                    date: 2018-10-19 10:07:46
+(epstopdf)                    date: 2018-12-19 19:04:06
 (epstopdf)                    size: 81186 bytes
 (epstopdf)             Output file: <ObjektuDiagrama-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-10-19 10:07:46
+(epstopdf)                    date: 2018-12-19 19:04:06
 (epstopdf)                    size: 13097 bytes
 (epstopdf)             Command: <epstopdf --outfile=ObjektuDiagrama-eps-convert
 ed-to.pdf ObjektuDiagrama.eps>
@@ -692,10 +692,10 @@ ne 283.
 (pdftex.def)             Requested size: 486.25761pt x 241.49403pt.
 [16 <./ObjektuDiagrama-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Komponentai1.eps>
-(epstopdf)                    date: 2018-10-19 10:07:46
+(epstopdf)                    date: 2018-12-19 19:04:06
 (epstopdf)                    size: 41945 bytes
 (epstopdf)             Output file: <Komponentai1-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-10-19 10:07:46
+(epstopdf)                    date: 2018-12-19 19:04:06
 (epstopdf)                    size: 9325 bytes
 (epstopdf)             Command: <epstopdf --outfile=Komponentai1-eps-converted-
 to.pdf Komponentai1.eps>
@@ -720,10 +720,10 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 307.
  [17 <./Komponentai1-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Komponentai2.eps>
-(epstopdf)                    date: 2018-10-19 10:07:46
+(epstopdf)                    date: 2018-12-19 19:04:06
 (epstopdf)                    size: 44553 bytes
 (epstopdf)             Output file: <Komponentai2-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-10-19 10:07:46
+(epstopdf)                    date: 2018-12-19 19:04:06
 (epstopdf)                    size: 10059 bytes
 (epstopdf)             Command: <epstopdf --outfile=Komponentai2-eps-converted-
 to.pdf Komponentai2.eps>
@@ -748,10 +748,10 @@ e \T2A/cmr/m/n/12 - kom-po-nen-tas, su-ku-rian-tis var-to-to-jo interfeis[] bei
 
 [18 <./Komponentai2-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Komponentai3.eps>
-(epstopdf)                    date: 2018-10-19 10:07:46
+(epstopdf)                    date: 2018-12-19 19:04:06
 (epstopdf)                    size: 48276 bytes
 (epstopdf)             Output file: <Komponentai3-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-10-19 10:07:46
+(epstopdf)                    date: 2018-12-19 19:04:06
 (epstopdf)                    size: 10930 bytes
 (epstopdf)             Command: <epstopdf --outfile=Komponentai3-eps-converted-
 to.pdf Komponentai3.eps>
@@ -769,10 +769,10 @@ Package pdftex.def Info: Komponentai3-eps-converted-to.pdf  used on input line
 (pdftex.def)             Requested size: 486.25761pt x 220.69928pt.
 [19 <./Komponentai3-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <RegistracijosVeikla.eps>
-(epstopdf)                    date: 2018-10-19 10:07:46
+(epstopdf)                    date: 2018-12-19 19:04:06
 (epstopdf)                    size: 69841 bytes
 (epstopdf)             Output file: <RegistracijosVeikla-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-10-19 10:07:46
+(epstopdf)                    date: 2018-12-19 19:04:06
 (epstopdf)                    size: 13047 bytes
 (epstopdf)             Command: <epstopdf --outfile=RegistracijosVeikla-eps-con
 verted-to.pdf RegistracijosVeikla.eps>
@@ -790,10 +790,10 @@ t line 359.
 (pdftex.def)             Requested size: 437.62888pt x 359.40343pt.
 [20 <./RegistracijosVeikla-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <PaieskosVeikla.eps>
-(epstopdf)                    date: 2018-10-19 10:07:46
+(epstopdf)                    date: 2018-12-19 19:04:06
 (epstopdf)                    size: 72482 bytes
 (epstopdf)             Output file: <PaieskosVeikla-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-10-19 10:07:46
+(epstopdf)                    date: 2018-12-19 19:04:06
 (epstopdf)                    size: 13936 bytes
 (epstopdf)             Command: <epstopdf --outfile=PaieskosVeikla-eps-converte
 d-to.pdf PaieskosVeikla.eps>
@@ -811,10 +811,10 @@ e 370.
 (pdftex.def)             Requested size: 486.25761pt x 256.23131pt.
 [21 <./PaieskosVeikla-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <MegstamiausiuVeikla.eps>
-(epstopdf)                    date: 2018-10-19 10:07:46
+(epstopdf)                    date: 2018-12-19 19:04:06
 (epstopdf)                    size: 51596 bytes
 (epstopdf)             Output file: <MegstamiausiuVeikla-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-10-19 10:07:46
+(epstopdf)                    date: 2018-12-19 19:04:06
 (epstopdf)                    size: 11333 bytes
 (epstopdf)             Command: <epstopdf --outfile=MegstamiausiuVeikla-eps-con
 verted-to.pdf MegstamiausiuVeikla.eps>
@@ -832,11 +832,11 @@ t line 381.
 (pdftex.def)             Requested size: 486.25761pt x 308.21745pt.
 [22 <./MegstamiausiuVeikla-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <ArtifaktaiKomponentai.eps>
-(epstopdf)                    date: 2018-10-19 10:07:46
+(epstopdf)                    date: 2018-12-19 19:04:06
 (epstopdf)                    size: 51445 bytes
 (epstopdf)             Output file: <ArtifaktaiKomponentai-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2018-10-19 10:07:46
+(epstopdf)                    date: 2018-12-19 19:04:06
 (epstopdf)                    size: 11032 bytes
 (epstopdf)             Command: <epstopdf --outfile=ArtifaktaiKomponentai-eps-c
 onverted-to.pdf ArtifaktaiKomponentai.eps>
@@ -858,10 +858,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 408--409
  []
 
 Package epstopdf Info: Source file: <Mazgai.eps>
-(epstopdf)                    date: 2018-10-19 10:07:46
+(epstopdf)                    date: 2018-12-19 19:04:06
 (epstopdf)                    size: 48027 bytes
 (epstopdf)             Output file: <Mazgai-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-10-19 10:07:46
+(epstopdf)                    date: 2018-12-19 19:04:06
 (epstopdf)                    size: 10586 bytes
 (epstopdf)             Command: <epstopdf --outfile=Mazgai-eps-converted-to.pdf
  Mazgai.eps>

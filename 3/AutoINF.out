@@ -1,0 +1,55 @@
+\BOOKMARK [0][-]{part*.1}{Anotacija}{}% 1
+\BOOKMARK [0][-]{part*.2}{Ivadas}{}% 2
+\BOOKMARK [0][-]{part*.3}{Projektavimas}{}% 3
+\BOOKMARK [1][-]{section.4}{U\236duotys ir ju vykdymo scenarijai}{part*.3}% 4
+\BOOKMARK [2][-]{subsection.5}{Sistemos vykdomos u\236duotys}{section.4}% 5
+\BOOKMARK [2][-]{subsection.9}{U\236duoties \214Prisiregistruoti\215 igyvendinimas}{section.4}% 6
+\BOOKMARK [2][-]{subsection.11}{U\236duoties \214Prisijungti\215 igyvendinimas}{section.4}% 7
+\BOOKMARK [2][-]{subsection.13}{U\236duoties \214Rasti skelbima\215 igyvendinimas}{section.4}% 8
+\BOOKMARK [2][-]{subsection.15}{U\236duoties \214I\235saugoti megstamiausia\215 igyvendinimas}{section.4}% 9
+\BOOKMARK [2][-]{subsection.17}{U\236duoties \214Pa\235alinti megstamiausia\215 igyvendinimas}{section.4}% 10
+\BOOKMARK [2][-]{subsection.19}{U\236duoties \214Per\236iureti megstamiausius\215 igyvendinimas}{section.4}% 11
+\BOOKMARK [2][-]{subsection.21}{U\236duoties \214Tvarkyti skelbimu \235altinius\215 igyvendinimas}{section.4}% 12
+\BOOKMARK [1][-]{section.23}{Strukturinis programu sistemos modelis}{part*.3}% 13
+\BOOKMARK [2][-]{subsection.24}{Klasiu diagrama}{section.23}% 14
+\BOOKMARK [2][-]{subsection.26}{Objektu diagrama}{section.23}% 15
+\BOOKMARK [1][-]{section.28}{Programu sistemos komponentai}{part*.3}% 16
+\BOOKMARK [2][-]{subsection.29}{Konteksto diagrama}{section.28}% 17
+\BOOKMARK [2][-]{subsection.31}{Skelbimu rinkimo sistemos dekompozicija}{section.28}% 18
+\BOOKMARK [2][-]{subsection.33}{Sistemos branduolio dekompozicija}{section.28}% 19
+\BOOKMARK [1][-]{section.35}{Dinaminis programu sistemos modelis}{part*.3}% 20
+\BOOKMARK [2][-]{subsection.36}{Vartotojo registracijos veiklos diagrama}{section.35}% 21
+\BOOKMARK [2][-]{subsection.38}{Skelbimu paie\235kos veiklos diagrama}{section.35}% 22
+\BOOKMARK [2][-]{subsection.40}{Naujo megstamo skelbimo veiklos diagrama}{section.35}% 23
+\BOOKMARK [1][-]{section.42}{Komponentu i\235skirstymas tinkle}{part*.3}% 24
+\BOOKMARK [2][-]{subsection.43}{Komponentu ry\235iu su artifaktais diagrama}{section.42}% 25
+\BOOKMARK [2][-]{subsection.45}{Diegimo diagrama}{section.42}% 26
+\BOOKMARK [0][-]{part*.47}{Reikalavimai}{}% 27
+\BOOKMARK [1][-]{section*.48}{Funkciniai reikalavimai}{part*.47}% 28
+\BOOKMARK [2][-]{subsection.49}{Bendri reikalavimai}{part*.47}% 29
+\BOOKMARK [2][-]{subsection.57}{Vartotojo u\236duociu reikalavimai}{part*.47}% 30
+\BOOKMARK [3][-]{subsubsection.59}{Pagrindinio meniu reikalavimai}{subsection.57}% 31
+\BOOKMARK [3][-]{subsubsection.64}{Vartotojo registracijos reikalavimai}{subsection.57}% 32
+\BOOKMARK [3][-]{subsubsection.76}{Vartotojo prisijungimo reikalavimai}{subsection.57}% 33
+\BOOKMARK [3][-]{subsubsection.83}{Vartotojo skelbimu paie\235kos reikalavimai}{subsection.57}% 34
+\BOOKMARK [3][-]{subsubsection.92}{Vartotojo megstamiausiu skelbimu per\236iuros reikalavimai}{subsection.57}% 35
+\BOOKMARK [3][-]{subsubsection.97}{Vartotojo megstamiausio skelbimo i\235saugojimo reikalavimai}{subsection.57}% 36
+\BOOKMARK [3][-]{subsubsection.103}{Vartotojo megstamiausio skelbimo pa\235alinimo reikalavimai}{subsection.57}% 37
+\BOOKMARK [2][-]{subsection.111}{Administratoriaus u\236duociu reikalavimai}{part*.47}% 38
+\BOOKMARK [3][-]{subsubsection.113}{Administratoriaus prisijungimo reikalavimai}{subsection.111}% 39
+\BOOKMARK [3][-]{subsubsection.121}{Administratoriaus skelbimu \235altinio pridejimo reikalavimai}{subsection.111}% 40
+\BOOKMARK [3][-]{subsubsection.131}{Administratoriaus skelbimu \235altinio pa\235alinimo reikalavimai}{subsection.111}% 41
+\BOOKMARK [1][-]{Item.137}{Nefunkciniai reikalavimai}{part*.47}% 42
+\BOOKMARK [2][-]{subsection.138}{Vidiniu interfeisu reikalavimai}{Item.137}% 43
+\BOOKMARK [2][-]{subsection.144}{Tikslumo reikalavimai}{Item.137}% 44
+\BOOKMARK [2][-]{subsection.147}{Patikimumo reikalavimai}{Item.137}% 45
+\BOOKMARK [2][-]{subsection.152}{Robasti\235kumo reikalavimai}{Item.137}% 46
+\BOOKMARK [2][-]{subsection.158}{Na\235umo reikalavimai}{Item.137}% 47
+\BOOKMARK [1][-]{Item.162}{Interfeiso reikalavimai}{part*.47}% 48
+\BOOKMARK [2][-]{subsection.163}{Bendri reikalavimai}{Item.162}% 49
+\BOOKMARK [2][-]{subsection.190}{Ergonominiai reikalavimai}{Item.162}% 50
+\BOOKMARK [0][-]{part*.194}{Dalykines srities analize}{}% 51
+\BOOKMARK [0][-]{part*.195}{Rezultatai}{}% 52
+\BOOKMARK [0][-]{part*.196}{I\235vados}{}% 53
+\BOOKMARK [0][-]{part*.197}{Terminu \236odynas}{}% 54
+\BOOKMARK [0][-]{part*.198}{Literaturos sara\235as}{}% 55
