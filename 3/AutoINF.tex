@@ -419,9 +419,11 @@ PROGRAMŲ SISTEMŲ KATEDRA}
 	\part*{Reikalavimai}
 	\addcontentsline{toc}{part}{Reikalavimai}
 	
+	\setcounter{section}{0}
 	\section*{Funkciniai reikalavimai}
 	\addcontentsline{toc}{section}{Funkciniai reikalavimai}
 	
+	\setcounter{subsection}{0}
 	\subsection{Bendri reikalavimai}
 	\begin{enumerate}[labelindent=10pt,leftmargin=2.2cm]
 		\item Įrenginys, kuriame naudojama programinė sistema, turi turėti prieigą prie interneto.
@@ -983,13 +985,61 @@ PROGRAMŲ SISTEMŲ KATEDRA}
 	\end{enumerate}
 	\pagebreak
 	
+	\renewcommand{\thesubsection}{\thesection.\arabic{subsection}}
+	\renewcommand*{\theenumi}{arabic{enumi}}
+	\renewcommand*{\theenumii}{theenumi.\arabic{enumii}}	
+	
 	\part*{Dalykinės srities analizė}
 	\addcontentsline{toc}{part}{Dalykinės srities analizė}
 	
 	
+	\setcounter{section}{0}
+	\section{Verslo proceso aprašas}
 	
+	\section{Išorinė proceso analizė}
+
+	\section{Vidinė proceso analizė}
+	
+	\subsection{Dalykinės srities statinė struktūra}
+	
+	\subsection{Užduotys}
+	
+	\subsection{Užduočių vykdymo scenarijai}
+	
+	\subsection{Dalykinės srities dinaminė struktūra}
+	
+	\pagebreak	
+	
+	\section{Analizės rezultatai}
+	
+	\section{Verslo proceso tobulinimo strategija}
+	
+	\section{Sistemos naudojimo scenarijus}
+	
+	\subsection{Scenarijus}
+	
+	\subsection{Sistemos teikiama nauda}
+	
+	\subsection{Esama būklė}
+	
+	\subsection{Priemonės scenarijui įgyvendinti}
 	
 	\pagebreak
+	
+	\section{Įgyvendinamumo ir naudos analizė}
+	
+	\subsection{Operacinis įgyvendinamumas}
+	
+	\subsection{Techninis įgyvendinamumas}
+	
+	\subsection{Ekonominis įgyvendinamumas}
+	
+	\subsection{Juridinis įgyvendinamumas}
+	
+	\pagebreak
+	
+	
+	
 	
 	\part*{Rezultatai}	
 	\addcontentsline{toc}{part}{Rezultatai}
