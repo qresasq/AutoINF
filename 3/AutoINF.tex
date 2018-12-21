@@ -24,10 +24,12 @@
 \hypersetup{
     colorlinks=true,
     linktoc=all,
-    linkcolor=black,
+    linkcolor={black},
+    urlcolor={blue}
 }
 \usepackage[tocindentauto]{tocstyle}
 \usetocstyle{standard}
+\usepackage{eurosym}
 
 \usepackage{svg}
 
@@ -115,17 +117,20 @@ PROGRAMŲ SISTEMŲ KATEDRA}
 	\part*{Anotacija}
 	\addcontentsline{toc}{part}{Anotacija}
 	\begin{indent}
-	Dokumentas parengtas kaip programų sistemos inžinerijos dalyko laboratorinis darbas, kuriame pateikiamas suprojektuotos sistemos aprašymas. Programų sistemos architektūra apibrėžiama naudojantis 4+1 architektūros pjūvių modelį.
+	Dokumentas parengtas kaip programų sistemos inžinerijos dalyko laboratorinis darbas, kuriame pateikiamas suprojektuotos sistemos aprašymas, reikalavimai bei dalykinės srities analizė. Programų sistemos architektūra apibrėžiama naudojantis 4+1 architektūros pjūvių modelį. Reikalavimai išskirstyti į funkcinius, nefunkcinius ir interfeiso reikalavimus. Dalykinės srities analizės metu atlikta išorinė bei vidinė proceso analizė įgyvendinamumo ir naudos analizė.
 	\end{indent}
 	\pagebreak
 	
 	\part*{Įvadas}
 	\addcontentsline{toc}{part}{Įvadas}
-	Šiame projektiniame darbe pristatomas automobilių skelbimų programėlės „AutoINF“ įgyvendinimas. Šio projekto vizija yra sukurti mobiliesiems įrenginiams skirtą programėlę, kuri leistų pasiekti automobilių skelbimus iš visos Europos. Idėja kilo iš to, kad dabar įvairių automobilių skelbimai yra daugybėje skirtingų puslapių (šaltinių) ir norint susirasti sau naudin-giausią pasiūlymą dažniausiai reikia pereiti per daugiau nei vieną puslapį. „AutoINF“ projekto tikslas yra sukurti programėlę, kuri supaprastintų automobilių ieškojimo procesą ir padėtų vartotojui sutaupyti laiko tą darant, surinkdama visus skelbimus iš populiariausių Europos automobilių skelbimų puslapių pagal vartotojo nurodytus kriterijus. Taip pat norima, kad programėle būtų paprasta naudotis ir kad šita programėlė sugebėtų pateikti kuo daugiau vartotojui aktualios informacijos apie tai, ko jis ieško.
+	Šiame projektiniame darbe pristatomas transporto priemonių skelbimų programėlės „AutoINF“ įgyvendinimas. Mūsų vizija yra pasaulis, kuriame kiekvienas žmogus gali greitai, paprastai ir be vargo rasti reikiamą transporto priemonę, nesvarbu, kokiame Europos krašte ji bebūtų. Siekdami to mes užsibrėžiame tikslą sukurti mobiliesiems įrenginiams skirtą programėlę, kuri leistų pasiekti transporto priemonių skelbimus iš visos Europos. Idėja kilo todėl, kad dabar įvairių transporto priemonių skelbimai yra daugybėje skirtingų puslapių (šaltinių) ir norint susirasti naudingiausią pasiūlymą dažniausiai reikia pereiti per daugiau nei vieną puslapį. „AutoINF“ projekto tikslas yra sukurti programėlę, kuri supaprastintų transporto priemonių ieškojimo procesą ir padėtų vartotojui sutaupyti laiko tą darant, surinkdama visus skelbimus iš populiariausių Europos transporto priemonių skelbimų puslapių pagal vartotojo nurodytus kriterijus. Taip pat norima, kad programėle būtų paprasta naudotis ir kad ši programėlė sugebėtų pateikti kuo daugiau vartotojui aktualios informacijos apie tai, ko jis ieško.
 	\pagebreak
 	
 	\part*{Projektavimas}
 	\addcontentsline{toc}{part}{Projektavimas}
+
+	Šioje dalyje aprašoma sistemos architektūra naudojant 4+1 architektūros pjūvių modėlį.
+	
 	\section{Užduotys ir jų vykdymo scenarijai}
 	Šiame skyriuje pavaizduotos ir aprašytos sistemos vartotojų užduotys bei jų vykdymo scenarijai.
 	\subsection{Sistemos vykdomos užduotys}
@@ -419,6 +424,8 @@ PROGRAMŲ SISTEMŲ KATEDRA}
 	\part*{Reikalavimai}
 	\addcontentsline{toc}{part}{Reikalavimai}
 	
+	Šioje dalyje specifikuojami sistemai taikomi funkciniai, nefunkciniai bei interfeiso reikalavimai.
+	
 	\setcounter{section}{0}
 	\section*{Funkciniai reikalavimai}
 	\addcontentsline{toc}{section}{Funkciniai reikalavimai}
@@ -447,7 +454,7 @@ PROGRAMŲ SISTEMŲ KATEDRA}
 	\begin{figure}[h]
 		\begin{center}
 			\includegraphics[width=0.7\textwidth]{TikslaiVartotojas.eps}
-			\caption{Sistemos užduočių diagrama iš vartotojo perspektyvos\label{UseCaseUser}}
+			\caption{Sistemos užduočių diagrama iš vartotojo perspektyvos\label{UseCaseUser2}}
 		\end{center}
 	\end{figure}
 	\pagebreak
@@ -739,7 +746,7 @@ PROGRAMŲ SISTEMŲ KATEDRA}
 	\begin{figure}[h]
 		\begin{center}
 			\includegraphics[width=0.7\textwidth]{TikslaiAdministratorius.eps}
-			\caption{Sistemos užduočių diagrama iš administratoriaus perspektyvos\label{UseCaseAdmin}}
+			\caption{Sistemos užduočių diagrama iš administratoriaus perspektyvos\label{UseCaseAdmin2}}
 		\end{center}
 	\end{figure}
 	\pagebreak
@@ -986,69 +993,357 @@ PROGRAMŲ SISTEMŲ KATEDRA}
 	\pagebreak
 	
 	\renewcommand{\thesubsection}{\thesection.\arabic{subsection}}
-	\renewcommand*{\theenumi}{arabic{enumi}}
+	\renewcommand*{\theenumi}{\arabic{enumi}}
 	\renewcommand*{\theenumii}{theenumi.\arabic{enumii}}	
 	
 	\part*{Dalykinės srities analizė}
 	\addcontentsline{toc}{part}{Dalykinės srities analizė}
 	
+	Šioje dalyje analizuojami sistemos užsakovo poreikiai bei dalykinė sritis.
 	
 	\setcounter{section}{0}
 	\section{Verslo proceso aprašas}
 	
+	Šiame skyriuje bendrai aprašomas nagrinėjamas verslas ar rinka, įvardinamos pagrindinės jo veiklos ir tikslai. Analizuojamas verslas yra transporto priemonių pardavimų skelbimų platforma.
+	
+	\textbf{Apžvalga:}
+	
+	Lietuvos automobilių parkas yra didžiausias Baltijos šalyse. Remiantis VĮ „Regitra“ duomenimis, Lietuvoje automobilių su techninės apžiūros talonu yra apie 1,2 mln. automobilių, o tai sudaro beveik tiek pat, kiek Latvijos ir Estijos automobilių parko suma (0,66 mln. - Latvijoje, 0,656 mln. - Estijoje). Lietuva taip pat lyderiauja ir transporto priemonių importavimo statistikoje. Vien į Lietuvą šiais metais buvo atvežta apie 32,5 tūkst. naudotų automobilių per pirmąjį šių metų ketvirtį - tai 3,5 karto daugiau nei į Latviją ir beveik penkis  kartus daugiau nei į Estiją. Didžioji dalis importuotų automobilių yra Europos šalių kilmės.
+
+	Žmonės, ieškodamai automobilio, gali ieškoti jo arba bendraujant su pirkėjais tiesiogai, arba ieškant skelbimų portaluose. Dauguma pirkėjų renkasi automobilio paiešką internetu automobilių pardavimo svetainėse. Kadangi skelbimų svetainių pasirinkimas ir automobilių pasiūla yra gausi, pirkėjui automobilio įsigyjimas nuo informacijos ieškojimo iki automobilio atsiėmimo trunka apie 15 valandų. 59\% to laiko yra preleidžiama informacijos paieškai ir skelbimų naršymui. Skelbimų svetainių puslapiai stengiasi palengvinti automobilio paiešką pritraukdami daugiau lankytojų, taip keldami pardavėjų ir pirkėjų skaičius. Didėjant lankomumui didėja ir uždarbis iš reklamos. Nors populiariausia platforma skelbimų paieškai yra kompiuteris, tačiau mobilieji telefonai ir aplikacijos juose sparčiai populiarėja. Taigi, detalesnis analizuojamo verslo procesas apibrėžiamas kaip Lietuvos rinkos naudotų automobilių pirkėjų ar perpardavinėtojų skelbimų paieška.
+	\pagebreak
+	
 	\section{Išorinė proceso analizė}
+	Šiame skyriuje pateikiami verslo sistemos įeigos, išeigos, reguliavimo ir įvaizdžio valdymo tikslai, jų matavimo būdai, kritinės reikšmės bei esami įverčiai.
+	
+	\begin{itemize}
+	\item{\textbf{Įeiga:}}
+	\begin{enumerate}
+		\item{\textbf{Šaltiniai} – laisvai prieinami, didelis automobilių skelbimų portalų pasirinkimas tiek Europos, tiek Lietuvos rinkoje, lengva iš jų gauti skelbimus.}
+		\item{\textbf{Skelbimai} – lengva gauti iš jų reikalingos informacijos (pvz.: nuotraukos, informacija apie automobilį).}
+		\item{\textbf{Serveris} - užtikrintas sistemos palaikymas visą laiką.}
+		\item{\textbf{Elektros tiekėjas} - efektyvus elektros užtikrinimas, labai reti elektros tiekimo sutrikimai.}
+		\item{\textbf{Interneto tiekėjas} - labai geras - interneto sutrikimų praktiškai nepasitaiko.}
+		\item{\textbf{Programuotojai} - efektyvu, užtikrintas programinės sistemos palaikymas ir atnaujinimas.}
+		\item{\textbf{Patalpos} - vidutiniška - skatina programuotojų produktyvumą, tačiau atima kitų išteklių (nuoma, komunaliniai mokesčiai).}
+	\end{enumerate}
+
+	\item{\textbf{Išeiga:}}
+	\begin{enumerate}
+		\item{\textbf{Statistika} - analizuodami klientų srautą ir jo trigerius galime padidinti sistemos sistemos galimybes neatitrūkdami nuo klientų poreikių.}
+		\item{\textbf{Reklamų peržiūros} - efektyvus būdas pritraukti rėmėjų.}
+		\item{\textbf{Atlyginimai} - vidutiniški, didesnė jų dalis orientuota ne į sistemos prižiūrėtojus, o į atnaujinimų tiekėjus.}
+	\end{enumerate}
+	\pagebreak
+	
+	\item{\textbf{Įvaizdis:}}
+	\begin{enumerate}
+		\item{\textbf{Klientų srautas} - tikėtinas klientų srautas - $\approx$ 400 per valandą. Sistema sugeba atlaikyti iki 1000 klientų per valandą srautą.}
+		\item{\textbf{Reklamų peržiūros} - atsižvelgiant į tikėtiną klientų srautą, reklamų peržiūrų skaičius per valandą yra $\approx$ 2000.}
+		\item{\textbf{Populiarumas} - tikėtinas atsiliepimų, komentarų ir įvertinimų koeficientas atžvilgiu „labai gera ir naudinga sistema“ (10) - „labai prasta, nenaudinga sistema (0)“ yra $\approx$ 7,4. Tikėtinas srauto prieaugis - $\approx$ 2000 per mėnesį.}
+	\end{enumerate}
+
+	\item{\textbf{Reguliavimas:}}
+	\begin{enumerate}
+		\item{\textbf{Darbuotojų} - kiekvienas darbuotojas privalo laikytis visų darbo sutartyje įrašytų reikalavimų.}
+		\item{\textbf{Srauto} - užtikrinami tvirtos magistralės srauto palaikymui su jo didinimo galimybe.}
+	\end{enumerate}
+	\end{itemize}
+	\pagebreak
 
 	\section{Vidinė proceso analizė}
 	
+	Šiame skyriuje atliekama vidinė proceso analizė, siekiant nustatyti nagrinėjamo verslo stiprybes ar silpnybes, kylančias iš paties verslo proceso.
+	
 	\subsection{Dalykinės srities statinė struktūra}
+	
+	Prieš apibrėžiant pagrindines dalykinės srities esybės žemiau pateikiamas dalykinės srities žodynas, kuriame kiekviena vėliau minima esybė aprašoma detaliau:
+	
+	\begin{enumerate}
+		\item{\textbf{Dabuotojai} – žmonės, dirbantys įmonėje ir padedantys palaikyti sistemą.}
+		\item{\textbf{Diskusija} – forumo sudedamoji dalis, sukuriama vartotojų.}
+		\item{\textbf{Fizinė įranga} – sistemos darbui palaikyti ir plėtoti naudojama fizinį kūną turintys objektai.}
+		\item{\textbf{Forumas} – sistemos paslauga, kurioje vartotojai gali diskutuoti.}
+		\item{\textbf{Naujienlaiškis} – sistemos paslauga, suteikianti vartotojams priegą prie įvairių straipsnių.}
+		\item{\textbf{Paieška} – pagrindinė sistemos paslauga, suteikianti vartotojui galimybę ieškoti norimo skelbimo.}
+		\item{\textbf{Paslaugos} – sistemos galimi veiksmai vartotojo naudai.}
+		\item{\textbf{Poreikis} – priežastis, dėl kurios vartotojas naudojasi sistema.}
+		\item{\textbf{Reklama} – užsakovo užsakyta trumpa, dažniausiai animuota nuoroda į užsakovo nurodytą šaltinį.}
+		\item{\textbf{Sistema} – paieškos platforma.}
+		\item{\textbf{Skelbimas} – pardavinėjamos transporto priemonės informacija.}
+		\item{\textbf{Straipsnis} – naujienlaiškyje talpinamas tekstas, dažniausiai paremtas nuorodomis į mokslinius veikalus apie bet kurią aktualią temą.}
+		\item{\textbf{Transporto priemonė} – skelbime vaizduojamas parduodamas objektas.}
+		\item{\textbf{Užsakovas} – trečiosios šalies atstovas, mokantis mokestį už jo reklamų ir/ar straipsnių skelbimą sistemoje.}
+		\item{\textbf{Vartotojas} – sistemos naudotojas.}
+		\item{\textbf{Virtuali įranga} -  įranga, skirta sistemos darbui palaikyti ir plėtoti, neturinti fizinio kūno.}
+	\end{enumerate}
+	
+	Pagrindinės dalykinės srities esybės apibrėžiamos \ref{StaticStruct} paveikslėlyje:
+	
+	\begin{figure}[h]
+		\begin{center}
+			\includegraphics[width=\textwidth]{StatineSchema.eps}
+			\caption{Dalykinės srities statinė struktūra\label{StaticStruct}}
+		\end{center}
+	\end{figure}
+
+	Vartotojas naudojasi sistema siekdamas patenkinti savo poreikius. Sistema teikia šias paslaugas: naujienlaiškis, forumas, paieška. Paieškos rezultatas yra skelbimai su kiekvieno jų transporto priemonėmis. Užsakovas gali užsakyti reklamą arba straipsnį, kuris bus išplatintas sistemos naujienlaiškyje. Sistemą įtakoja jos fizinė ir virtuali įranga bei darbuotojai.
+	\pagebreak
 	
 	\subsection{Užduotys}
 	
+	Žemiau esančiame \ref{UseCase3} paveikslėlyje vaizduojamos pagrindinės sistemoje atliekamos užduotys ir su jomis susiję agentai.
+	
+	\begin{figure}[h]
+		\begin{center}
+			\includegraphics[width=\textwidth]{AnalUzduotys.eps}
+			\caption{Užduotys\label{UseCase3}}
+		\end{center}
+	\end{figure}
+	
+	Vartotojas yra agentas, kuris naudodamasis sistemos teikiamomis paslaugomis dalyvauja forumo diskusijose, ieško skelbimų ir skaito straipsnius.
+	
+	Užsakovas yra agentas, kuris užsako reklamas ir rašo ar užsako straipsnius.
+	\pagebreak
+	
 	\subsection{Užduočių vykdymo scenarijai}
+	
+	Žemiau pateikiamas užduoties „Skelbimų paieška“ vykdymo scenarijus:
+	
+	\begin{figure}[h]
+		\begin{center}
+			\includegraphics[width=0.8\textwidth]{PaieskaSeka.eps}
+			\caption{Užduoties „Skelbimų paieška“ vykdymo scenarijus\label{SearchScenario}}
+		\end{center}
+	\end{figure}
+	
+	Vartotojas, įsijungęs aplikaciją, įveda paieškos kriterijus, pagal kuriuos nori ieškoti transporto priemonių skelbimų. Vartotojui patvirtinus pasirinkimą, sistema atlieka paiešką ir atvaizduoja visus kriterijus atitikusius skelbimus vartotojui aplikacijoje.
+	\pagebreak
+	
+	Žemiau pateikiamas straipsnių skaitymo/rašymo užduočių vykdymo scenarijus:
+	
+	\begin{figure}[h]
+		\begin{center}
+			\includegraphics[width=0.8\textwidth]{Straipsniai.eps}
+			\caption{Straipsnių skaitymo/rašymo užduočių vykdymo scenarijus\label{ArticleScenario}}
+		\end{center}
+	\end{figure}
+	
+	Užsakovas, įsijungęs naujienlaiškį, turi galimybę jame patalpinti naują straipsnį. Jam tai padarius, sistema straipsnį išsaugo ir jis dabar yra pasiekiamas visiems vartotojams. Vartotojas, atsidaręs naujienlaiškį, gali pamatyti šio straipsnio antraštę ir jį atidaryti.
+	\pagebreak
+	
+	Žemiau pateikiamas užduoties „Diskutavimas forume“ vykdymo scenarijus:
+	
+	\begin{figure}[h]
+		\begin{center}
+			\includegraphics[width=0.8\textwidth]{Forumas.eps}
+			\caption{Užduoties „Diskutavimas forume“ vykdymo scenarijus\label{ForumScenario}}
+		\end{center}
+	\end{figure}
+	
+	Vartotojas, įsijungęs forumą, gali sukurti naują diskusiją. Tada bet kuris vartotojas gali atsidaryti šią diskusiją ir patalpinti joje naują įrašą.
+	\pagebreak
 	
 	\subsection{Dalykinės srities dinaminė struktūra}
 	
+	Žemiau pateikiamas esybės „Skelbimas“ gyyvavimo ciklas:
+	
+	\begin{figure}[h]
+		\begin{center}
+			\includegraphics[width=0.8\textwidth]{SkelbimoBusena.eps}
+			\caption{Esybės „Skelbimas“ gyyvavimo ciklas\label{AdvertState}}
+		\end{center}
+	\end{figure}
+	
+	Pradinė kiekvieno sistemos sekamo skelbimo būsena yra „Pasiekiamas“. Konkrečiam vartotojui vykdant skelbimų paiešką, skelbimas to vartotojo kontekste gali tapti „Atrastas“, jei jis atitiko vartotojo nurodytus paieškos kriterijus. Tam pačiam vartotojui pakartotinai atlikus paiešką, skelbimas gali vėl tapti „Pasiekiamas“, jei jis neatitiko vartotojo nurodytų kriterijų. Bet kokiu laiko momentu skelbimas gali tapti „Panaikintas“, jei jis bus ištrintas iš jo šaltinio, ir taip baigsis jo gyvavimo ciklas.
+	\pagebreak	
+	
+	Žemiau pateikiamas esybės „Reklama“ gyyvavimo ciklas:
+	
+	\begin{figure}[h]
+		\begin{center}
+			\includegraphics[width=0.8\textwidth]{ReklamosBusena.eps}
+			\caption{Esybės „Reklama“ gyyvavimo ciklas\label{AdState}}
+		\end{center}
+	\end{figure}
+	
+	Pradinė užsakovo užsakytos reklamos būsena yra „Rezervuota“. Kai jai atsiranda laisva vieta ir yra galima ją rodyti, ji tampa „Patalpinta“. Pasibaigus reklamos rezervavimo laikui užsakovas gali ją pakartotinai užsakyti ir reklama vėl taps „Rezervuota“. Priešingu atveju ji bus „Išimta“ ir jos gyvavimo ciklas baigsis.
 	\pagebreak	
 	
 	\section{Analizės rezultatai}
 	
+	Šiame skyriuje vidinė ir išorinė verslo proceso analizė apibendrinama pateikiant esmines įžvalgas SSGG (SWOT) lentelės (\ref{SWOT}) pavidalu.
+	
+	\begin{center}
+		\captionof{table}{SSGG (SWOT)\label{SWOT}}		
+		\begin{tabular}{ | c | c | }
+			\hline
+			\textbf{Stiprybės} & \textbf{Silpnybės} \\ \hline 
+			\makecell{Unikalumas \\ Efektyvumas \\ Paprasta naudotis \\ Mažas darbuotojų skaičius \\ Paslaugos teikiamos 24/7} & \makecell{Priklausoma nuo kitų sistemų (šaltinių) \\ Uždirbama tik iš reklamų} \\ \hline
+			\textbf{Galimybės} & \textbf{Grėsmės} \\ \hline
+			\makecell{Įtraukti daugiau šaltinių \\ Didinti reklamai skirtą vietą \\} & \makecell{Šaltiniai nenori dalintis skelbimais \\ Balansas tarp turinio ir reklamos \\ Mažas vartotojų srautas} \\ \hline 
+		\end{tabular}
+	\end{center}
+	\pagebreak	
+	
 	\section{Verslo proceso tobulinimo strategija}
 	
+	Verslas bus tobulinamas įdiegiant naujas, vartotojams naudingas, funkcijas, kurios padarytų naujos transporto priemonės ieškojimą dar patogesnį (pvz., būtų galima lyginti 2 ar 3 transporto priemones). Taip pat bus bandoma gerinti paieškos algoritmus (vartotojui rekomenduoti skelbimus, panašius į jo dažnai lankomus). Tai padės padaryti kiekvieną vartotojo praleistą minutę ieškant transporto priemonės daug prasmingesnę ir efektyvesnę, todėl tai sutaupytų vartotojui laiko.
+	\bigskip	
+	
+	Siekiai:
+	\begin{itemize}
+		\item{Pagerinti ieškojimo sistemą:}
+		\begin{itemize}
+			\item{Rekomenduoti skelbimus atsižvelgiant į vartotojo veiklą,}
+			\item{Vartotojui, pakartotinai naudojantis sistema, suteikti galimybę pratęsti paiešką nuo ten, kur baigė anksčiau.}
+		\end{itemize}
+		\item{Klientų informavimas:}
+		\begin{itemize}
+			\item{Pranešti vartotojui apie naują, galimai jį dominantį, skelbimą naudojant sistemą.}
+		\end{itemize}
+		\item{Padidinti funkcijų skaičių:}
+		\begin{itemize}
+			\item{Suteikti galimybę lyginti kelias transporto priemones.}
+		\end{itemize}
+	\end{itemize}
+	\pagebreak
+	
 	\section{Sistemos naudojimo scenarijus}
+	Šiame skyriuje aprašomas sistemos naudojimo pagrindinis scenarijus.
 	
 	\subsection{Scenarijus}
+	Pagrindinis scenarijus, kai vartotojas naudojasi pagrindine paslauga (vykdo skelbimų paiešką), pavaizduotas \ref{Scenario} paveiklėlyje.
+	
+	\begin{figure}[h]
+		\begin{center}
+			\includegraphics[width=0.8\textwidth]{Scenarijus.eps}
+			\caption{Pagrindinis scenarijus\label{Scenario}}
+		\end{center}
+	\end{figure}
+	
+	\textbf{Įjungti aplikaciją} - vartotojas įsijungia aplikaciją, kuri teikia visas vartotojui prieinamas sistemos paslaugas.
+	
+	\textbf{Sistemos teikiamos paslaugos} - paslaugos, prieinamos vartotojui (skelbimų paieška, forumo diskusijos, naujienlaiškio straipsniai).
+	
+	\textbf{Atlikti skelbimų paiešką} - vartotojas pasirenka pagrindinę sistemos paslaugą (skelbimų paiešką).
+	
+	\textbf{Atlikti paiešką} - sistema pagal nustatytą algoritmą atrenka tik tuos skelbimus, kurie atitinka vartotojo nurodytus kriterijus.
+	
+	\textbf{Rasti skelbimai} - sistema vartotojui grąžina skelbimus, kurie patenkina jo nustatytus kriterijus.
+	
+	\textbf{Atidaryti skelbimą} - vartotojas, susidomėjęs skelbimu, gali jį  atidaryti. Tada sistema bando užmegzti ryšį su to skelbimo šaltiniu ir.
+	
+	\textbf{Skelbimas} - jei sistema užmezga ryšį su norimo skelbimo šaltiniu, ji nukreipia vartotoją į šaltinyje esantį (nebe šios sistemos) skelbimą.
 	
 	\subsection{Sistemos teikiama nauda}
+	\ref{Gain} paveikslėlyje pavaizduota sistemos teikiama nauda.
+	
+	\begin{figure}[h]
+		\begin{center}
+			\includegraphics[width=0.9\textwidth]{Nauda.eps}
+			\caption{Sistemos teikiama nauda\label{Gain}}
+		\end{center}
+	\end{figure}
+	\pagebreak
 	
 	\subsection{Esama būklė}
+	Esama infrastruktūra:
+	\begin{enumerate}
+		\item{Kompiuteris,}
+		\item{Telefonas.}
+	\end{enumerate}
 	
 	\subsection{Priemonės scenarijui įgyvendinti}
-	
+	Priemonės, reikalingos sistemai palaikyti:
+	\begin{enumerate}
+		\item{Serveris,}
+		\item{Internetas,}
+		\item{Duomenų bazė,}
+		\item{Darbuotojai, prižiūrintys sistemą,}
+		\item{Operacinė sistema,}
+		\item{Programinė įranga.}
+	\end{enumerate}
 	\pagebreak
 	
 	\section{Įgyvendinamumo ir naudos analizė}
 	
+	Šiame skyriuje įvairiais aspektais nagrinėjamos galimybės įgyvendinti sistemą.
+	
 	\subsection{Operacinis įgyvendinamumas}
 	
+	\textbf{Inovaciniai slenksčiai:}
+	\begin{itemize}
+		\item{Kliento operacinė sistema gali būti per sena aplikacijai paleisti.}
+		\item{Kientai gali nesinaudoti sistema, nes turinys yra preinamas atskirose svetainėse.}
+	\end{itemize}
+	
+	\textbf{Inovacinių slenksčių panaikinimo būdai:}
+	\begin{itemize}
+		\item{Sukurti alternatyvą?}
+		\item{Suteikti informacija apie sistemos patogumą, skelbimų paieškos palengvinimą.}
+	\end{itemize}
+	
+	
 	\subsection{Techninis įgyvendinamumas}
-	
-	\subsection{Ekonominis įgyvendinamumas}
-	
-	\subsection{Juridinis įgyvendinamumas}
+	Komanda gali įgyvendinti šią sistemą, nes domėjosi šia sritimi, yra pakankamai kvalifikuoti įgyvendinti sistemai.
 	
 	\pagebreak
 	
+	\subsection{Ekonominis įgyvendinamumas}
 	
+	\begin{itemize}
+	\item{Fiksuotos išlaidos - 31 000 €:}
+	\begin{itemize}
+	\item{Sistemos sukūrimas – 30 000 € \href{http://howmuchtomakeanapp.com}{(iš čia)},}
 	
+	\item{Techninė įranga:}
+	\begin{enumerate}
+		\item{Kompiuteris - 700 €,}
+		\item{Nepertraukiamo maitinmo šaltinis – 100 €,}
+		\item{Periferiniai įrenginiai – 150 €,}
+		\item{Tinklo įranga – 50 €.}
+	\end{enumerate}
+	\end{itemize}
+	
+	\item{Eksploatavimo išlaidos mėnesiui - 1 210 €:}
+	\begin{enumerate}
+		\item{Sistemos administratoriaus atlyginimas – 1 000 €,}
+		\item{Internetas – 10 €,}
+		\item{Serverio nuoma – 200 €.}
+	\end{enumerate}
+	
+	\item{Sistemos nešamas pelnas:}
+	\begin{itemize}
+		\item{Visas pelnas būtų gautas iš aplikacijoje rodomų reklamų.}
+		\item{Apsilankymų skaičius populiariausiame Lietuvoje automobilių skelbimų portale autoplius.lt – $\approx$ 300 000 per mėnesį \href{http://www.siteworthtraffic.com/report/autoplius.lt}{(iš čia)}.}
+		\item{Vidutiniškai 2,1\% lankytojų paspaudžia ant reklamos.}
+		\item{Iš vieno paspaudimo galima uždirbti $\approx$ 0,48 €.}
+		\item{Jei kas mėnesį iš 300 000 lankytojų 6 300 paspaus ant reklamos, už kurią mokama 0,48 €, tikėtinas pelnas per mėnesį siektų 3 024 € ir sistema atsipirktų per 18 mėnesių.}
+	\end{itemize}
+	\end{itemize}
+	
+	\pagebreak
+	\subsection{Juridinis įgyvendinamumas}
+	Sistema nepažeis Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo, nes bus saugomas tik kliento el. pašto adresas, kuriuo nebus dalinamasi su trečiaisiais asmenimis.
+	\pagebreak
 	
 	\part*{Rezultatai}	
 	\addcontentsline{toc}{part}{Rezultatai}
-	Šiame laboratoriniame darbe yra atskleidžiami sistemos reikalavimai, kurie išskaidyti į funkcinius, nefunkcinius ir interfeiso reikalavimus. Funkciniuose reikalavimuose išvardijamos esminės sistemos funkcijos ir aprašomas vartotojo bei administratoriaus užduočių įgyvendinimas. Nefunkciniuose reikalavimuose yra apibrėžiamos neesminės sistemos funkcijos, įprasminančios pagrindines sistemos funkcijas. Interfeiso reikalavimai parodo, kaip sistemos atliekamos funkcijos turi būti pateiktos vartotojui, kad būtų patogu naudotis sistema.
+	Projektavimo dalyje pasitelkiant skirtingus sistemos pjūvius aprašyta knygų dalinimosi sistemos architektūra. Užduočių pjūvyje pasitelkiant užduočių ir sekų diagramomis išaiškinti pagrindiniai agentų (vartotojų ir administratorių) tikslai naudojantis sistema. Loginis pjūvis, pavaizduotas klasių ir objektų diagramomis, leido išskirti pagrindines esybes bei ryšius tarp jų. Kūrimo pjūvyje atlikta sistemos dekompozicija pradedant nuo bendro komponento toliau jį detalizuojant. Procesų pjūvyje, pasitelkiant veiklos diagramas, išskirti procesai, jų komunikacija, objektų gyvavimo ciklai. Galiausiai fiziniame pjūvyje apibrėžtas sistemos išdėstymas tinkle. Šis skirtingų požiūrių rinkinys leido aptikti ankčiau sukurtame sistemos prototipe buvusias klaidas bei išplėtoti tinkamą sistemos architektūrą.
+	
+	Reikalavimų dalyje yra atskleidžiami sistemos reikalavimai, kurie išskaidyti į funkcinius, nefunkcinius ir interfeiso reikalavimus. Funkciniuose reikalavimuose išvardijamos esminės sistemos funkcijos ir aprašomas vartotojo bei administratoriaus užduočių įgyvendinimas. Nefunkciniuose reikalavimuose yra apibrėžiamos neesminės sistemos funkcijos, įprasminančios pagrindines sistemos funkcijas. Interfeiso reikalavimai parodo, kaip sistemos atliekamos funkcijos turi būti pateiktos vartotojui, kad būtų patogu naudotis sistema.
+	
+	Dalykinės srities analizės dalyje pateiktas verslo proceso aprašas bei atlikta šio proceso išorinė analizė ir vidinė analizė, parodančios iš išorės atsirandančias galimybes ir grėsmes bei iš vidaus kylančias stiprybes ir silpnybes. Analizės rezultatai pateikti SSGG (SWOT) lentelės pavidalu. Pagal šiuos rezultatus sudaryta verslo proceso tobulinimo strategija. Galiausiai atlikta įgyvendinamumo ir naudos analizė, kurioje išsiaiškinta, ar ši sistema bus galima įgyvendinti ir ar ji teiks naudos.
 	\pagebreak
 	
 	\part*{Išvados}	
 	\addcontentsline{toc}{part}{Išvados}
-	Šis reikalavimų dokumentas užtikrina, kad programuotojai vienareikšmiškai supras, kaip sistema turi atrodyti ir veikti ir tuo pačiu užtikrins, kad šia sistema bus galima lengvai pasinaudoti bet kokiam vartotojui.
+	Remiantis projektavimo rezultatais bus galima sukurti mobiliesiems įrenginiams skirtą programėlę, kuri leis vienoje vietoje pasiekti automobilių skelbimus iš visos Europos, taip palengvindama paieškos procesą daugeliui žmonių.
+	
+	Reikalavimų dalis užtikrina, kad programuotojai vienareikšmiškai supras, kaip sistema turi atrodyti ir veikti ir tuo pačiu užtikrins, kad šia sistema bus galima lengvai pasinaudoti bet kokiam vartotojui.
+	
+	Dalykinės srities analizės metu buvo išsiaiškintos sistemos stiprybės, silpnybės, galimybės ir grėsmės bei būdai didinti sistemos stiprybes ir galimybes mažinant grėsmes ir silpnybes. Taip pat atlikta įgyvendinamumo analizė parodo, jog yra prasminga kurti šią sistemą.
 	\pagebreak
 
 	\part*{Terminų žodynas}

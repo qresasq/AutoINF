@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.10)  16 NOV 2018 10:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.10)  21 DEC 2018 08:46
 entering extended mode
 **./AutoINF.tex
 (AutoINF.tex
@@ -824,10 +824,10 @@ Package hyperref Warning: Composite letter `\textasciicaron+c'
 (hyperref)                removing `\textasciicaron' on input line 147.
 
 Package epstopdf Info: Source file: <TikslaiVartotojas.eps>
-(epstopdf)                    date: 2018-11-16 09:25:38
+(epstopdf)                    date: 2018-12-19 19:04:06
 (epstopdf)                    size: 47378 bytes
 (epstopdf)             Output file: <TikslaiVartotojas-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-11-16 09:25:38
+(epstopdf)                    date: 2018-12-19 19:04:06
 (epstopdf)                    size: 10608 bytes
 (epstopdf)             Command: <epstopdf --outfile=TikslaiVartotojas-eps-conve
 rted-to.pdf TikslaiVartotojas.eps>
@@ -958,11 +958,11 @@ Package hyperref Warning: Composite letter `\textasciicaron+c'
 (hyperref)                removing `\textasciicaron' on input line 439.
 
 Package epstopdf Info: Source file: <TikslaiAdministratorius.eps>
-(epstopdf)                    date: 2018-11-16 09:25:38
+(epstopdf)                    date: 2018-12-19 19:04:06
 (epstopdf)                    size: 43349 bytes
 (epstopdf)             Output file: <TikslaiAdministratorius-eps-converted-to.p
 df>
-(epstopdf)                    date: 2018-11-16 09:25:38
+(epstopdf)                    date: 2018-12-19 19:04:06
 (epstopdf)                    size: 9718 bytes
 (epstopdf)             Command: <epstopdf --outfile=TikslaiAdministratorius-eps
 -converted-to.pdf TikslaiAdministratorius.eps>

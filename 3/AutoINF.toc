@@ -51,25 +51,25 @@
 \contentsline {subsection}{\numberline {IR2}Ergonominiai reikalavimai}{50}{subsection.190}
 \contentsline {part}{Dalykin\IeC {\.e}s srities analiz\IeC {\.e}}{51}{part*.194}
 \contentsline {section}{\numberline {1}Verslo proceso apra\IeC {\v s}as}{51}{section.195}
-\contentsline {section}{\numberline {2}I\IeC {\v s}orin\IeC {\.e} proceso analiz\IeC {\.e}}{51}{section.196}
-\contentsline {section}{\numberline {3}Vidin\IeC {\.e} proceso analiz\IeC {\.e}}{51}{section.197}
-\contentsline {subsection}{\numberline {3.1}Dalykin\IeC {\.e}s srities statin\IeC {\.e} strukt\IeC {\=u}ra}{51}{subsection.198}
-\contentsline {subsection}{\numberline {3.2}U\IeC {\v z}duotys}{51}{subsection.199}
-\contentsline {subsection}{\numberline {3.3}U\IeC {\v z}duo\IeC {\v c}i\IeC {\k u} vykdymo scenarijai}{51}{subsection.200}
-\contentsline {subsection}{\numberline {3.4}Dalykin\IeC {\.e}s srities dinamin\IeC {\.e} strukt\IeC {\=u}ra}{51}{subsection.201}
-\contentsline {section}{\numberline {4}Analiz\IeC {\.e}s rezultatai}{52}{section.202}
-\contentsline {section}{\numberline {5}Verslo proceso tobulinimo strategija}{52}{section.203}
-\contentsline {section}{\numberline {6}Sistemos naudojimo scenarijus}{52}{section.204}
-\contentsline {subsection}{\numberline {6.1}Scenarijus}{52}{subsection.205}
-\contentsline {subsection}{\numberline {6.2}Sistemos teikiama nauda}{52}{subsection.206}
-\contentsline {subsection}{\numberline {6.3}Esama b\IeC {\=u}kl\IeC {\.e}}{52}{subsection.207}
-\contentsline {subsection}{\numberline {6.4}Priemon\IeC {\.e}s scenarijui \IeC {\k i}gyvendinti}{52}{subsection.208}
-\contentsline {section}{\numberline {7}\IeC {\k I}gyvendinamumo ir naudos analiz\IeC {\.e}}{53}{section.209}
-\contentsline {subsection}{\numberline {7.1}Operacinis \IeC {\k i}gyvendinamumas}{53}{subsection.210}
-\contentsline {subsection}{\numberline {7.2}Techninis \IeC {\k i}gyvendinamumas}{53}{subsection.211}
-\contentsline {subsection}{\numberline {7.3}Ekonominis \IeC {\k i}gyvendinamumas}{53}{subsection.212}
-\contentsline {subsection}{\numberline {7.4}Juridinis \IeC {\k i}gyvendinamumas}{53}{subsection.213}
-\contentsline {part}{Rezultatai}{54}{part*.214}
-\contentsline {part}{I\IeC {\v s}vados}{55}{part*.215}
-\contentsline {part}{Termin\IeC {\k u} \IeC {\v z}odynas}{56}{part*.216}
-\contentsline {part}{Literat\IeC {\=u}ros s\IeC {\k a}ra\IeC {\v s}as}{57}{part*.217}
+\contentsline {section}{\numberline {2}I\IeC {\v s}orin\IeC {\.e} proceso analiz\IeC {\.e}}{52}{section.196}
+\contentsline {section}{\numberline {3}Vidin\IeC {\.e} proceso analiz\IeC {\.e}}{54}{section.212}
+\contentsline {subsection}{\numberline {3.1}Dalykin\IeC {\.e}s srities statin\IeC {\.e} strukt\IeC {\=u}ra}{54}{subsection.213}
+\contentsline {subsection}{\numberline {3.2}U\IeC {\v z}duotys}{56}{subsection.231}
+\contentsline {subsection}{\numberline {3.3}U\IeC {\v z}duo\IeC {\v c}i\IeC {\k u} vykdymo scenarijai}{57}{subsection.233}
+\contentsline {subsection}{\numberline {3.4}Dalykin\IeC {\.e}s srities dinamin\IeC {\.e} strukt\IeC {\=u}ra}{60}{subsection.237}
+\contentsline {section}{\numberline {4}Analiz\IeC {\.e}s rezultatai}{62}{section.240}
+\contentsline {section}{\numberline {5}Verslo proceso tobulinimo strategija}{63}{section.242}
+\contentsline {section}{\numberline {6}Sistemos naudojimo scenarijus}{64}{section.243}
+\contentsline {subsection}{\numberline {6.1}Scenarijus}{64}{subsection.244}
+\contentsline {subsection}{\numberline {6.2}Sistemos teikiama nauda}{65}{subsection.246}
+\contentsline {subsection}{\numberline {6.3}Esama b\IeC {\=u}kl\IeC {\.e}}{66}{subsection.248}
+\contentsline {subsection}{\numberline {6.4}Priemon\IeC {\.e}s scenarijui \IeC {\k i}gyvendinti}{66}{subsection.251}
+\contentsline {section}{\numberline {7}\IeC {\k I}gyvendinamumo ir naudos analiz\IeC {\.e}}{67}{section.258}
+\contentsline {subsection}{\numberline {7.1}Operacinis \IeC {\k i}gyvendinamumas}{67}{subsection.259}
+\contentsline {subsection}{\numberline {7.2}Techninis \IeC {\k i}gyvendinamumas}{67}{subsection.260}
+\contentsline {subsection}{\numberline {7.3}Ekonominis \IeC {\k i}gyvendinamumas}{68}{subsection.261}
+\contentsline {subsection}{\numberline {7.4}Juridinis \IeC {\k i}gyvendinamumas}{69}{subsection.269}
+\contentsline {part}{Rezultatai}{70}{part*.270}
+\contentsline {part}{I\IeC {\v s}vados}{71}{part*.271}
+\contentsline {part}{Termin\IeC {\k u} \IeC {\v z}odynas}{72}{part*.272}
+\contentsline {part}{Literat\IeC {\=u}ros s\IeC {\k a}ra\IeC {\v s}as}{73}{part*.273}
