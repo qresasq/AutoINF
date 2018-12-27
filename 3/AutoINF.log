@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.10)  21 DEC 2018 09:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.11)  27 DEC 2018 18:18
 entering extended mode
 **./AutoINF.tex
 (AutoINF.tex
 LaTeX2e <2018-04-01> patch level 5
-("D:\MiKTeX 2.9\tex\latex\base\article.cls"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls"
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-("D:\MiKTeX 2.9\tex\latex\base\size12.clo"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size12.clo"
 File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count80
@@ -19,17 +19,18 @@ File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-)
-("D:\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+) ("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.st
+y"
 Package: inputenc 2018/04/06 v1.3b Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
-
-("D:\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
+ ("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
-)) ("D:\MiKTeX 2.9\tex\latex\ucs\ucs.sty"
+)) ("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\ucs.sty"
 Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
- ("D:\MiKTeX 2.9\tex\latex\ucs\uni-global.def"
+
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\uni-global.def
+"
 File: uni-global.def 2013/05/13 UCS: Unicode global data
 )
 \uc@secondtry=\count88
@@ -37,13 +38,15 @@ File: uni-global.def 2013/05/13 UCS: Unicode global data
 \uc@combtoksb=\toks17
 \uc@temptokena=\toks18
 )
-("D:\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fontenc.sty"
 Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
 
-("D:\MiKTeX 2.9\tex\latex\lithuanian\l7xenc.def"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lithuanian\l7xenc.
+def"
 File: l7xenc.def 2017/12/06 v2.0 LaTeX-LT file
 )
-("D:\MiKTeX 2.9\tex\latex\cyrillic\t2aenc.def"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cyrillic\t2aenc.de
+f"
 File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
 )
 LaTeX Font Info:    Try loading font information for T2A+lmr on input line 105.
@@ -52,41 +55,46 @@ LaTeX Font Info:    No file T2Almr.fd. on input line 105.
 LaTeX Font Info:    Try loading font information for T2A+cmr on input line 105.
 
 
-("D:\MiKTeX 2.9\tex\latex\cyrillic\t2acmr.fd"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cyrillic\t2acmr.fd
+"
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
 
 LaTeX Font Warning: Font shape `T2A/lmr/m/n' undefined
 (Font)              using `T2A/cmr/m/n' instead on input line 105.
 
-) ("D:\MiKTeX 2.9\tex\generic\babel\babel.sty"
+) ("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.st
+y"
 Package: babel 2018/10/03 3.25 The Babel package
 
-("D:\MiKTeX 2.9\tex\generic\babel\switch.def"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\switch.def
+"
 File: switch.def 2018/10/03 3.25 Babel switching mechanism
 )
 *************************************
 * Local config file bblopts.cfg used
 *
-("D:\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg"
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-("D:\MiKTeX 2.9\tex\latex\lithuanian\lithuanian.ldf"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lithuanian\lithuan
+ian.ldf"
 Language: lithuanian 2017/12/06 v1.0 Lithuanian support from the babel system
 
-("D:\MiKTeX 2.9\tex\generic\babel\babel.def"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.def"
 File: babel.def 2018/10/03 3.25 Babel common definitions
 \babel@savecnt=\count89
 \U@D=\dimen103
 
-("D:\MiKTeX 2.9\tex\generic\babel\txtbabel.def")
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\txtbabel.d
+ef")
 \bbl@dirlevel=\count90
 )))
-("D:\MiKTeX 2.9\tex\latex\vwcol\vwcol.sty"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\vwcol\vwcol.sty"
 Package: vwcol 2008/06/24 v0.1 Variable-width multicolumn text
 
-("D:\MiKTeX 2.9\tex\latex\tools\calc.sty"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\calc.sty"
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count91
 \calc@Bcount=\count92
@@ -99,22 +107,23 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count93
 \calc@Cskip=\skip45
 )
-("D:\MiKTeX 2.9\tex\latex\environ\environ.sty"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\environ\environ.st
+y"
 Package: environ 2014/05/04 v0.3 A new way to define environments
 
-("D:\MiKTeX 2.9\tex\latex\trimspaces\trimspaces.sty"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\trimspaces\trimspa
+ces.sty"
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 )
 \@envbody=\toks19
 )
-("D:\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.st
+y"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks20
-)
-("D:\MiKTeX 2.9\tex\latex\ms\ragged2e.sty"
+) ("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\ragged2e.sty"
 Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
-
-("D:\MiKTeX 2.9\tex\latex\ms\everysel.sty"
+ ("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\everysel.sty"
 Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 )
 \CenteringLeftskip=\skip46
@@ -145,14 +154,17 @@ Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 \vwcol@plainbox=\box27
 \vwcol@outputbox=\box28
 )
-("D:\MiKTeX 2.9\tex\latex\sectsty\sectsty.sty"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\sectsty\sectsty.st
+y"
 Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
 les
 )
-("D:\MiKTeX 2.9\tex\latex\setspace\setspace.sty"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\setspace\setspace.
+sty"
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
-("D:\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.
+sty"
 Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
 s
 \f@nch@headwidth=\skip65
@@ -165,27 +177,32 @@ s
 \f@nch@O@olf=\skip72
 \f@nch@O@orf=\skip73
 )
-("D:\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.
+sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("D:\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.
+sty"
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-("D:\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("D:\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graph
+ics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-("D:\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdfte
+x.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen106
 \Gin@req@width=\dimen107
 )
-("D:\MiKTeX 2.9\tex\latex\titlesec\titlesec.sty"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\titlesec\titlesec.
+sty"
 Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 \ttl@box=\box29
 \beforetitleunit=\skip74
@@ -197,25 +214,31 @@ Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 \titlewidthlast=\dimen111
 \titlewidthfirst=\dimen112
 )
-("D:\MiKTeX 2.9\tex\latex\graphics\epsfig.sty"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\epsfig.st
+y"
 Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
 \epsfxsize=\dimen113
 \epsfysize=\dimen114
 )
-("D:\MiKTeX 2.9\tex\latex\tools\indentfirst.sty"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\indentfirst.
+sty"
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
 )
-("D:\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.
+sty"
 Package: geometry 2018/04/16 v5.8 Page Geometry
 
-("D:\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.s
+ty"
 Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
 )
-("D:\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.
+sty"
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-("D:\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.
+sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count98
@@ -231,11 +254,13 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen122
 \Gm@dimlist=\toks22
 
-("D:\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
-("D:\MiKTeX 2.9\tex\latex\makecell\makecell.sty"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.
+cfg"))
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\makecell\makecell.
+sty"
 Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
 
-("D:\MiKTeX 2.9\tex\latex\tools\array.sty"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\array.sty"
 Package: array 2018/04/30 v2.4h Tabular extension package (FMi)
 \col@sep=\dimen123
 \ar@mcellbox=\box30
@@ -249,10 +274,12 @@ Package: array 2018/04/30 v2.4h Tabular extension package (FMi)
 \c@nlinenum=\count101
 \TeXr@lab=\toks24
 )
-("D:\MiKTeX 2.9\tex\latex\caption\caption.sty"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption.st
+y"
 Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
 
-("D:\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption3.s
+ty"
 Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 64.
 \captionmargin=\dimen126
@@ -266,28 +293,35 @@ Package caption3 Info: TeX engine: e-TeX on input line 64.
 \c@caption@flags=\count102
 \c@ContinuedFloat=\count103
 )
-("D:\MiKTeX 2.9\tex\latex\preprint\fullpage.sty"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\preprint\fullpage.
+sty"
 Package: fullpage 1999/02/23 1.1 (PWD)
 \FP@margin=\skip78
 )
-("D:\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.st
+y"
 Package: amsmath 2017/09/02 v2.17a AMS math features
 \@mathmargin=\skip79
 
 For additional information on amsmath, use the `?' option.
-("D:\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.st
+y"
 Package: amstext 2000/06/29 v2.01 AMS text
 
-("D:\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks25
 \ex@=\dimen133
 ))
-("D:\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
+"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen134
 )
-("D:\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count104
@@ -328,17 +362,19 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
 )
-("D:\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.s
+ty"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-("D:\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.
+sty"
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-("D:\MiKTeX 2.9\tex\latex\amscls\amsthm.sty"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amscls\amsthm.sty"
 Package: amsthm 2017/10/31 v2.20.4
 \thm@style=\toks30
 \thm@bodyfont=\toks31
@@ -350,30 +386,36 @@ Package: amsthm 2017/10/31 v2.20.4
 \thm@headsep=\skip84
 \dth@everypar=\toks35
 )
-("D:\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty"
-Package: enumitem 2011/09/28 v3.5.2 Customized lists
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\enumitem\enumitem.
+sty"
+Package: enumitem 2018/11/30 v3.6 Customized lists
 \labelindent=\skip85
 \enit@outerparindent=\dimen142
 \enit@toks=\toks36
 \enit@inbox=\box34
 \enitdp@description=\count116
 )
-("D:\MiKTeX 2.9\tex\latex\graphics\color.sty"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\color.sty
+"
 Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 
-("D:\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color
+.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 )
-("D:\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.
+sty"
 Package: hyperref 2018/09/30 v6.88a Hypertext links for LaTeX
 
-("D:\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-
+hyperref.sty"
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 
 
-("D:\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-
+generic.sty"
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
@@ -412,22 +454,26 @@ Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 )
-("D:\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook.s
+ty"
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
-("D:\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions
+.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
 \@linkdim=\dimen143
 \Hy@linkcounter=\count117
 \Hy@pagecounter=\count118
 
-("D:\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.de
+f"
 File: pd1enc.def 2018/09/30 v6.88a Hyperref: PDFDocEncoding definition (HO)
 )
 \Hy@SavedSpaceFactor=\count119
 
-("D:\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref.
+cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Option `hypertexnames' set `false' on input line 4409.
@@ -439,8 +485,7 @@ Package hyperref Info: Backreferencing OFF on input line 4555.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4788.
 \c@Hy@tempcnt=\count120
-
-("D:\MiKTeX 2.9\tex\latex\url\url.sty"
+ ("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -464,12 +509,14 @@ LaTeX Info: Redefining \pageref on input line 6470.
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
-("D:\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.d
+ef"
 File: hpdftex.def 2018/09/30 v6.88a Hyperref driver for pdfTeX
 \Fld@listcount=\count125
 \c@bookmark@seq@number=\count126
 
-("D:\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfile
+check.sty"
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
@@ -478,7 +525,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 29.
 
-("D:\MiKTeX 2.9\tex\latex\koma-script\tocstyle.sty"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\tocsty
+le.sty"
 Package: tocstyle 2017/02/23 v0.2i-alpha KOMA-Script package (versatile toc sty
 les)
 
@@ -503,21 +551,25 @@ exclude:
 exclude: 
 exclude: 
 exclude: 
-("D:\MiKTeX 2.9\tex\latex\eurosym\eurosym.sty"
+
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\eurosym\eurosym.st
+y"
 Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
 \@eurobox=\box35
-)
-("D:\MiKTeX 2.9\tex\latex\svg\svg.sty"
+) ("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\svg\svg.sty"
 Package: svg 2018/09/08 v2.02 (include SVG pictures)
 
-("D:\MiKTeX 2.9\tex\latex\koma-script\scrbase.sty"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\scrbas
+e.sty"
 Package: scrbase 2018/03/30 v3.25 KOMA-Script package (KOMA-Script-independent 
 basics and keyval usage)
 
-("D:\MiKTeX 2.9\tex\latex\koma-script\scrlfile.sty"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\scrlfi
+le.sty"
 Package: scrlfile 2018/03/30 v3.25 KOMA-Script package (loading files)
 ))
-("D:\MiKTeX 2.9\tex\latex\tools\shellesc.sty"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\shellesc.sty
+"
 Package: shellesc 2016/06/07 v0.02a unified shell escape interface for LaTeX
 Package shellesc Info: Restricted shell escape enabled on input line 69.
 )
@@ -525,10 +577,11 @@ Package shellesc Info: Restricted shell escape enabled on input line 69.
 \c@svg@param@lastpage=\count128
 \c@svg@param@currpage=\count129
 )
-("D:\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-("D:\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color
+.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -543,7 +596,8 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-("D:\MiKTeX 2.9\tex\latex\oberdiek\transparent.sty"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\transpare
+nt.sty"
 Package: transparent 2016/05/16 v1.1 Transparency via pdfTeX's color stack (HO)
 
 )
@@ -565,7 +619,8 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 60.
 LaTeX Font Info:    ... okay on input line 60.
 LaTeX Font Info:    Checking defaults for L7x/lmr/m/n on input line 60.
 LaTeX Font Info:    Try loading font information for L7x+lmr on input line 60.
- ("D:\MiKTeX 2.9\tex\latex\lm\l7xlmr.fd"
+
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\l7xlmr.fd"
 File: l7xlmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    ... okay on input line 60.
@@ -574,13 +629,14 @@ LaTeX Font Info:    ... okay on input line 60.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 60.
 LaTeX Font Info:    ... okay on input line 60.
 
-("D:\MiKTeX 2.9\tex\latex\ucs\ucsencs.def"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\ucsencs.def"
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
 ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 60.
 
-("D:\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mk
+ii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count130
 \scratchdimen=\dimen147
@@ -593,10 +649,13 @@ LaTeX Info: Redefining \selectfont on input line 60.
 \MPnumerator=\count134
 \makeMPintoPDFobject=\count135
 \everyMPtoPDFconversion=\toks38
-) ("D:\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+)
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-
+base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("D:\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.st
+y"
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 )
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -645,10 +704,13 @@ Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box38
 Package hyperref Info: Link coloring ON on input line 60.
-("D:\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.s
+ty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
-("D:\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettitl
+estring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count136
@@ -656,8 +718,7 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 60.
 LaTeX Info: Redefining \pageref on input line 60.
 LaTeX Info: Redefining \nameref on input line 60.
- (AutoINF.out)
-(AutoINF.out)
+ (AutoINF.out) (AutoINF.out)
 \@outlinefile=\write3
 \openout3 = `AutoINF.out'.
 
@@ -666,26 +727,26 @@ Package tocstyle Info: prepare \l@section for redefinition on input line 60.
 Package tocstyle Info: prepare \l@subsection for redefinition on input line 60.
 
 LaTeX Font Info:    Try loading font information for U+msa on input line 60.
- ("D:\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 60.
-
-("D:\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 Package tocstyle Info: prepare \l@subsubsection for redefinition on input line 
 60.
 Package tocstyle Info: prepare \l@table for redefinition on input line 60.
 Package tocstyle Info: prepare \l@figure for redefinition on input line 60.
-
-("D:\MiKTeX 2.9\tex\latex\ucs\uni-1.def"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\uni-1.def"
 File: uni-1.def 2013/05/13 UCS: Unicode data U+0100..U+01FF
-) [1
+)
+[1
 
 
-{C:/Users/stong/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (AutoINF.to
-c
+{C:/Users/bikon/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+(AutoINF.toc
 number indent by \l@... (toc, -1):  -35.2414pt
 text indent by \l@... (toc, -1):  35.2414pt
 number indent by parent (toc, -1):  -35.2414pt
@@ -1062,9 +1123,11 @@ number indent calculated (toc, -1): 0.0pt
 \tf@toc=\write4
 \openout4 = `AutoINF.toc'.
 
- [4] [5] ("D:\MiKTeX 2.9\tex\latex\ucs\uni-32.def"
+ [4] [5]
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\uni-32.def"
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
-) [6]
+)
+[6]
 Overfull \hbox (3.45706pt too wide) in paragraph at lines 132--133
 [][]\T2A/cmr/m/n/12 Sioje da-ly-je ap-rasoma sis-te-mos ar-chi-tekt	ura nau-do
 -jant 4+1 ar-chi-tekt	uros pj	uvi[] mod
@@ -1072,10 +1135,10 @@ el[].
  []
 
 Package epstopdf Info: Source file: <Tikslai.eps>
-(epstopdf)                    date: 2018-12-19 23:01:48
+(epstopdf)                    date: 2018-12-27 15:39:37
 (epstopdf)                    size: 54319 bytes
 (epstopdf)             Output file: <Tikslai-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-12-19 23:01:48
+(epstopdf)                    date: 2018-12-27 15:39:37
 (epstopdf)                    size: 12207 bytes
 (epstopdf)             Command: <epstopdf --outfile=Tikslai-eps-converted-to.pd
 f Tikslai.eps>
@@ -1092,10 +1155,10 @@ Package pdftex.def Info: Tikslai-eps-converted-to.pdf  used on input line 141.
 (pdftex.def)             Requested size: 469.75502pt x 212.72414pt.
 [7 <./Tikslai-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <TikslaiVartotojas.eps>
-(epstopdf)                    date: 2018-12-19 23:01:48
+(epstopdf)                    date: 2018-12-27 15:39:37
 (epstopdf)                    size: 47378 bytes
 (epstopdf)             Output file: <TikslaiVartotojas-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-12-19 23:01:48
+(epstopdf)                    date: 2018-12-27 15:39:37
 (epstopdf)                    size: 10608 bytes
 (epstopdf)             Command: <epstopdf --outfile=TikslaiVartotojas-eps-conve
 rted-to.pdf TikslaiVartotojas.eps>
@@ -1127,11 +1190,11 @@ etojamos
  []
 
 Package epstopdf Info: Source file: <TikslaiAdministratorius.eps>
-(epstopdf)                    date: 2018-12-19 23:01:48
+(epstopdf)                    date: 2018-12-27 15:39:37
 (epstopdf)                    size: 43349 bytes
 (epstopdf)             Output file: <TikslaiAdministratorius-eps-converted-to.p
 df>
-(epstopdf)                    date: 2018-12-19 23:01:48
+(epstopdf)                    date: 2018-12-27 15:39:37
 (epstopdf)                    size: 9718 bytes
 (epstopdf)             Command: <epstopdf --outfile=TikslaiAdministratorius-eps
 -converted-to.pdf TikslaiAdministratorius.eps>
@@ -1150,10 +1213,10 @@ input line 165.
 (pdftex.def)             Requested size: 328.82707pt x 161.77272pt.
 [9 <./TikslaiAdministratorius-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Prisiregistruoti.eps>
-(epstopdf)                    date: 2018-12-19 23:01:48
+(epstopdf)                    date: 2018-12-27 15:39:37
 (epstopdf)                    size: 73236 bytes
 (epstopdf)             Output file: <Prisiregistruoti-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-12-19 23:01:48
+(epstopdf)                    date: 2018-12-27 15:39:37
 (epstopdf)                    size: 14176 bytes
 (epstopdf)             Command: <epstopdf --outfile=Prisiregistruoti-eps-conver
 ted-to.pdf Prisiregistruoti.eps>
@@ -1171,10 +1234,10 @@ ine 178.
 (pdftex.def)             Requested size: 469.75502pt x 285.06958pt.
 [10 <./Prisiregistruoti-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Prisijungti.eps>
-(epstopdf)                    date: 2018-12-19 23:01:48
+(epstopdf)                    date: 2018-12-27 15:39:37
 (epstopdf)                    size: 71047 bytes
 (epstopdf)             Output file: <Prisijungti-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-12-19 23:01:48
+(epstopdf)                    date: 2018-12-27 15:39:37
 (epstopdf)                    size: 13528 bytes
 (epstopdf)             Command: <epstopdf --outfile=Prisijungti-eps-converted-t
 o.pdf Prisijungti.eps>
@@ -1192,10 +1255,10 @@ Package pdftex.def Info: Prisijungti-eps-converted-to.pdf  used on input line 1
 (pdftex.def)             Requested size: 469.75502pt x 280.7105pt.
 [11 <./Prisijungti-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <RastiSkelbima.eps>
-(epstopdf)                    date: 2018-12-19 23:01:48
+(epstopdf)                    date: 2018-12-27 15:39:37
 (epstopdf)                    size: 66595 bytes
 (epstopdf)             Output file: <RastiSkelbima-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-12-19 23:01:48
+(epstopdf)                    date: 2018-12-27 15:39:37
 (epstopdf)                    size: 12394 bytes
 (epstopdf)             Command: <epstopdf --outfile=RastiSkelbima-eps-converted
 -to.pdf RastiSkelbima.eps>
@@ -1218,11 +1281,11 @@ Package hyperref Warning: Composite letter `\textdotaccent+e'
 (hyperref)                removing `\textdotaccent' on input line 209.
 
 Package epstopdf Info: Source file: <IssaugotiMegstamiausia.eps>
-(epstopdf)                    date: 2018-12-19 23:01:48
+(epstopdf)                    date: 2018-12-27 15:39:37
 (epstopdf)                    size: 76029 bytes
 (epstopdf)             Output file: <IssaugotiMegstamiausia-eps-converted-to.pd
 f>
-(epstopdf)                    date: 2018-12-19 23:01:48
+(epstopdf)                    date: 2018-12-27 15:39:37
 (epstopdf)                    size: 14504 bytes
 (epstopdf)             Command: <epstopdf --outfile=IssaugotiMegstamiausia-eps-
 converted-to.pdf IssaugotiMegstamiausia.eps>
@@ -1252,11 +1315,11 @@ Package hyperref Warning: Composite letter `\textdotaccent+e'
 (hyperref)                removing `\textdotaccent' on input line 221.
 
 Package epstopdf Info: Source file: <PasalintiMegstamiausia.eps>
-(epstopdf)                    date: 2018-12-19 23:01:48
+(epstopdf)                    date: 2018-12-27 15:39:37
 (epstopdf)                    size: 70943 bytes
 (epstopdf)             Output file: <PasalintiMegstamiausia-eps-converted-to.pd
 f>
-(epstopdf)                    date: 2018-12-19 23:01:48
+(epstopdf)                    date: 2018-12-27 15:39:37
 (epstopdf)                    size: 13355 bytes
 (epstopdf)             Command: <epstopdf --outfile=PasalintiMegstamiausia-eps-
 converted-to.pdf PasalintiMegstamiausia.eps>
@@ -1290,11 +1353,11 @@ Package hyperref Warning: Composite letter `\textdotaccent+e'
 (hyperref)                removing `\textdotaccent' on input line 232.
 
 Package epstopdf Info: Source file: <PerziuretiMegstamiausius.eps>
-(epstopdf)                    date: 2018-12-19 23:01:48
+(epstopdf)                    date: 2018-12-27 15:39:37
 (epstopdf)                    size: 72262 bytes
 (epstopdf)             Output file: <PerziuretiMegstamiausius-eps-converted-to.
 pdf>
-(epstopdf)                    date: 2018-12-19 23:01:48
+(epstopdf)                    date: 2018-12-27 15:39:37
 (epstopdf)                    size: 13757 bytes
 (epstopdf)             Command: <epstopdf --outfile=PerziuretiMegstamiausius-ep
 s-converted-to.pdf PerziuretiMegstamiausius.eps>
@@ -1321,11 +1384,11 @@ elyje.
 
 [15 <./PerziuretiMegstamiausius-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <TvarkytiSkelbimuSaltinius.eps>
-(epstopdf)                    date: 2018-12-19 23:01:48
+(epstopdf)                    date: 2018-12-27 15:39:37
 (epstopdf)                    size: 83529 bytes
 (epstopdf)             Output file: <TvarkytiSkelbimuSaltinius-eps-converted-to
 .pdf>
-(epstopdf)                    date: 2018-12-19 23:01:48
+(epstopdf)                    date: 2018-12-27 15:39:37
 (epstopdf)                    size: 15782 bytes
 (epstopdf)             Command: <epstopdf --outfile=TvarkytiSkelbimuSaltinius-e
 ps-converted-to.pdf TvarkytiSkelbimuSaltinius.eps>
@@ -1349,10 +1412,10 @@ Package hyperref Warning: Composite letter `\textasciimacron+u'
 (hyperref)                removing `\textasciimacron' on input line 254.
 
 Package epstopdf Info: Source file: <KlasiuDiagrama.eps>
-(epstopdf)                    date: 2018-12-19 23:01:48
+(epstopdf)                    date: 2018-12-27 15:39:37
 (epstopdf)                    size: 35487 bytes
 (epstopdf)             Output file: <KlasiuDiagrama-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-12-19 23:01:48
+(epstopdf)                    date: 2018-12-27 15:39:37
 (epstopdf)                    size: 7647 bytes
 (epstopdf)             Command: <epstopdf --outfile=KlasiuDiagrama-eps-converte
 d-to.pdf KlasiuDiagrama.eps>
@@ -1370,10 +1433,10 @@ e 262.
 (pdftex.def)             Requested size: 422.77664pt x 135.23569pt.
 [17 <./KlasiuDiagrama-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <ObjektuDiagrama.eps>
-(epstopdf)                    date: 2018-12-19 23:01:48
+(epstopdf)                    date: 2018-12-27 15:39:37
 (epstopdf)                    size: 81186 bytes
 (epstopdf)             Output file: <ObjektuDiagrama-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-12-19 23:01:48
+(epstopdf)                    date: 2018-12-27 15:39:37
 (epstopdf)                    size: 13097 bytes
 (epstopdf)             Command: <epstopdf --outfile=ObjektuDiagrama-eps-convert
 ed-to.pdf ObjektuDiagrama.eps>
@@ -1391,10 +1454,10 @@ ne 276.
 (pdftex.def)             Requested size: 469.75502pt x 233.29936pt.
 [18 <./ObjektuDiagrama-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Komponentai1.eps>
-(epstopdf)                    date: 2018-12-19 23:01:48
+(epstopdf)                    date: 2018-12-27 15:39:37
 (epstopdf)                    size: 41945 bytes
 (epstopdf)             Output file: <Komponentai1-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-12-19 23:01:48
+(epstopdf)                    date: 2018-12-27 15:39:37
 (epstopdf)                    size: 9325 bytes
 (epstopdf)             Command: <epstopdf --outfile=Komponentai1-eps-converted-
 to.pdf Komponentai1.eps>
@@ -1419,17 +1482,18 @@ elyje.
 
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 300.
 
-("D:\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+("C:\Users\bikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 300.
- [19 <./Komponentai1-eps-converted-to.pdf>]
+
+[19 <./Komponentai1-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Komponentai2.eps>
-(epstopdf)                    date: 2018-12-19 23:01:48
+(epstopdf)                    date: 2018-12-27 15:39:37
 (epstopdf)                    size: 44553 bytes
 (epstopdf)             Output file: <Komponentai2-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-12-19 23:01:48
+(epstopdf)                    date: 2018-12-27 15:39:37
 (epstopdf)                    size: 10059 bytes
 (epstopdf)             Command: <epstopdf --outfile=Komponentai2-eps-converted-
 to.pdf Komponentai2.eps>
@@ -1447,10 +1511,10 @@ Package pdftex.def Info: Komponentai2-eps-converted-to.pdf  used on input line
 (pdftex.def)             Requested size: 422.77664pt x 309.2928pt.
 [20 <./Komponentai2-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Komponentai3.eps>
-(epstopdf)                    date: 2018-12-19 23:01:48
+(epstopdf)                    date: 2018-12-27 15:39:37
 (epstopdf)                    size: 48276 bytes
 (epstopdf)             Output file: <Komponentai3-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-12-19 23:01:48
+(epstopdf)                    date: 2018-12-27 15:39:37
 (epstopdf)                    size: 10930 bytes
 (epstopdf)             Command: <epstopdf --outfile=Komponentai3-eps-converted-
 to.pdf Komponentai3.eps>
@@ -1480,10 +1544,10 @@ ia var-to-to-jui skelbim[] s[]ras[], konk-reci[] skelbim[]
 
 [21 <./Komponentai3-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <RegistracijosVeikla.eps>
-(epstopdf)                    date: 2018-12-19 23:01:48
+(epstopdf)                    date: 2018-12-27 15:39:37
 (epstopdf)                    size: 69841 bytes
 (epstopdf)             Output file: <RegistracijosVeikla-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-12-19 23:01:48
+(epstopdf)                    date: 2018-12-27 15:39:37
 (epstopdf)                    size: 13047 bytes
 (epstopdf)             Command: <epstopdf --outfile=RegistracijosVeikla-eps-con
 verted-to.pdf RegistracijosVeikla.eps>
@@ -1501,10 +1565,10 @@ t line 352.
 (pdftex.def)             Requested size: 399.29463pt x 327.92255pt.
 [22 <./RegistracijosVeikla-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <PaieskosVeikla.eps>
-(epstopdf)                    date: 2018-12-19 23:01:48
+(epstopdf)                    date: 2018-12-27 15:39:37
 (epstopdf)                    size: 72482 bytes
 (epstopdf)             Output file: <PaieskosVeikla-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-12-19 23:01:48
+(epstopdf)                    date: 2018-12-27 15:39:37
 (epstopdf)                    size: 13936 bytes
 (epstopdf)             Command: <epstopdf --outfile=PaieskosVeikla-eps-converte
 d-to.pdf PaieskosVeikla.eps>
@@ -1527,10 +1591,10 @@ Package hyperref Warning: Composite letter `\textdotaccent+e'
 (hyperref)                removing `\textdotaccent' on input line 370.
 
 Package epstopdf Info: Source file: <MegstamiausiuVeikla.eps>
-(epstopdf)                    date: 2018-12-19 23:01:48
+(epstopdf)                    date: 2018-12-27 15:39:37
 (epstopdf)                    size: 51596 bytes
 (epstopdf)             Output file: <MegstamiausiuVeikla-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-12-19 23:01:48
+(epstopdf)                    date: 2018-12-27 15:39:37
 (epstopdf)                    size: 11333 bytes
 (epstopdf)             Command: <epstopdf --outfile=MegstamiausiuVeikla-eps-con
 verted-to.pdf MegstamiausiuVeikla.eps>
@@ -1548,11 +1612,11 @@ t line 374.
 (pdftex.def)             Requested size: 469.75502pt x 297.7571pt.
 [24 <./MegstamiausiuVeikla-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <ArtifaktaiKomponentai.eps>
-(epstopdf)                    date: 2018-12-19 23:01:48
+(epstopdf)                    date: 2018-12-27 15:39:37
 (epstopdf)                    size: 51445 bytes
 (epstopdf)             Output file: <ArtifaktaiKomponentai-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2018-12-19 23:01:48
+(epstopdf)                    date: 2018-12-27 15:39:37
 (epstopdf)                    size: 11032 bytes
 (epstopdf)             Command: <epstopdf --outfile=ArtifaktaiKomponentai-eps-c
 onverted-to.pdf ArtifaktaiKomponentai.eps>
@@ -1574,10 +1638,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 401--402
  []
 
 Package epstopdf Info: Source file: <Mazgai.eps>
-(epstopdf)                    date: 2018-12-19 23:01:48
+(epstopdf)                    date: 2018-12-27 15:39:37
 (epstopdf)                    size: 48027 bytes
 (epstopdf)             Output file: <Mazgai-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-12-19 23:01:48
+(epstopdf)                    date: 2018-12-27 15:39:37
 (epstopdf)                    size: 10586 bytes
 (epstopdf)             Command: <epstopdf --outfile=Mazgai-eps-converted-to.pdf
  Mazgai.eps>
@@ -1604,10 +1668,10 @@ Package hyperref Warning: Composite letter `\textasciicaron+c'
 (hyperref)                removing `\textasciicaron' on input line 451.
 
 Package epstopdf Info: Source file: <TikslaiVartotojas.eps>
-(epstopdf)                    date: 2018-12-19 23:01:48
+(epstopdf)                    date: 2018-12-27 15:39:37
 (epstopdf)                    size: 47378 bytes
 (epstopdf)             Output file: <TikslaiVartotojas-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-12-19 23:01:48
+(epstopdf)                    date: 2018-12-27 15:39:37
 (epstopdf)                    size: 10608 bytes
 (epstopdf)             Command: <epstopdf --outfile=TikslaiVartotojas-eps-conve
 rted-to.pdf TikslaiVartotojas.eps>
@@ -1733,11 +1797,11 @@ Package hyperref Warning: Composite letter `\textasciicaron+c'
 (hyperref)                removing `\textasciicaron' on input line 743.
 
 Package epstopdf Info: Source file: <TikslaiAdministratorius.eps>
-(epstopdf)                    date: 2018-12-19 23:01:48
+(epstopdf)                    date: 2018-12-27 15:39:37
 (epstopdf)                    size: 43349 bytes
 (epstopdf)             Output file: <TikslaiAdministratorius-eps-converted-to.p
 df>
-(epstopdf)                    date: 2018-12-19 23:01:48
+(epstopdf)                    date: 2018-12-27 15:39:37
 (epstopdf)                    size: 9718 bytes
 (epstopdf)             Command: <epstopdf --outfile=TikslaiAdministratorius-eps
 -converted-to.pdf TikslaiAdministratorius.eps>
@@ -1845,383 +1909,357 @@ Package hyperref Warning: Composite letter `\textdotaccent+e'
 (hyperref)                not defined in PD1 encoding,
 (hyperref)                removing `\textdotaccent' on input line 1016.
 
-[52]
-Overfull \hbox (12.93143pt too wide) in paragraph at lines 1043--1044
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 1033.
+See the caption package documentation for explanation.
+
+
+Overfull \hbox (45.40315pt too wide) in paragraph at lines 1034--1045
+ [] 
+ []
+
+[52] [53]
+Overfull \hbox (12.93143pt too wide) in paragraph at lines 1063--1064
 []\T2A/cmr/bx/n/12 Populiarumas \T2A/cmr/m/n/12 - tik
 etinas atsiliepim[], komentar[] ir []vertinim[] ko-e-fi-cien-tas atzvilgiu
  []
 
-[53]
+[54]
 
 Package hyperref Warning: Composite letter `\textdotaccent+e'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotaccent' on input line 1054.
-
-
-Package hyperref Warning: Composite letter `\textdotaccent+e'
-(hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotaccent' on input line 1054.
+(hyperref)                removing `\textdotaccent' on input line 1077.
 
 
 Package hyperref Warning: Composite letter `\textdotaccent+e'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotaccent' on input line 1058.
+(hyperref)                removing `\textdotaccent' on input line 1077.
 
 
 Package hyperref Warning: Composite letter `\textdotaccent+e'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotaccent' on input line 1058.
+(hyperref)                removing `\textdotaccent' on input line 1081.
+
+
+Package hyperref Warning: Composite letter `\textdotaccent+e'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textdotaccent' on input line 1081.
 
 
 Package hyperref Warning: Composite letter `\textasciimacron+u'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciimacron' on input line 1058.
+(hyperref)                removing `\textasciimacron' on input line 1081.
 
 
-Overfull \hbox (13.13646pt too wide) in paragraph at lines 1067--1068
+Overfull \hbox (13.13646pt too wide) in paragraph at lines 1090--1091
 []\T2A/cmr/bx/n/12 Naujienlaiskis \T2A/cmr/m/n/12  sis-te-mos pa-slau-ga, su-
 tei-kian-ti var-to-to-jams prieg[] prie []vairi[] straipsni[]. 
  []
 
-[54]
+[55]
 Package epstopdf Info: Source file: <StatineSchema.eps>
-(epstopdf)                    date: 2018-12-21 09:34:06
-(epstopdf)                    size: 26479 bytes
+(epstopdf)                    date: 2018-12-27 15:39:37
+(epstopdf)                    size: 27142 bytes
 (epstopdf)             Output file: <StatineSchema-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-12-21 03:46:11
-(epstopdf)                    size: 11902 bytes
+(epstopdf)                    date: 2018-12-27 15:39:37
+(epstopdf)                    size: 8198 bytes
 (epstopdf)             Command: <epstopdf --outfile=StatineSchema-eps-converted
 -to.pdf StatineSchema.eps>
-(epstopdf)             \includegraphics on input line 1085.
-runsystem(epstopdf --outfile=StatineSchema-eps-converted-to.pdf StatineSchema.e
-ps)...executed (allowed).
-
-Package epstopdf Info: Result file: <StatineSchema-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-12-21 09:34:39
-(epstopdf)                    size: 8198 bytes.
+(epstopdf)             \includegraphics on input line 1108.
+Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./StatineSchema-eps-converted-to.pdf): PDF inclu
 sion: found PDF version <1.7>, but at most version <1.5> allowed
-<StatineSchema-eps-converted-to.pdf, id=1209, 398.48875pt x 159.59625pt>
+<StatineSchema-eps-converted-to.pdf, id=1215, 398.48875pt x 159.59625pt>
 File: StatineSchema-eps-converted-to.pdf Graphic file (type pdf)
 <use StatineSchema-eps-converted-to.pdf>
 Package pdftex.def Info: StatineSchema-eps-converted-to.pdf  used on input line
- 1085.
+ 1108.
 (pdftex.def)             Requested size: 469.75502pt x 188.14658pt.
-[55 <./StatineSchema-eps-converted-to.pdf>]
-Overfull \hbox (19.96822pt too wide) in paragraph at lines 1095--1096
-[][]\T2A/cmr/m/n/12 Zemiau esanciame [][]24[][] pa-veiksl
-elyje vaiz-duo-ja-mos pag-rin-din
-es sis-te-mo-je at-lie-ka-mos uzduotys
- []
-
+[56 <./StatineSchema-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <AnalUzduotys.eps>
-(epstopdf)                    date: 2018-12-21 09:34:12
-(epstopdf)                    size: 27954 bytes
+(epstopdf)                    date: 2018-12-27 15:39:37
+(epstopdf)                    size: 28583 bytes
 (epstopdf)             Output file: <AnalUzduotys-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-12-21 03:46:12
-(epstopdf)                    size: 10691 bytes
+(epstopdf)                    date: 2018-12-27 15:39:37
+(epstopdf)                    size: 8644 bytes
 (epstopdf)             Command: <epstopdf --outfile=AnalUzduotys-eps-converted-
 to.pdf AnalUzduotys.eps>
-(epstopdf)             \includegraphics on input line 1099.
-runsystem(epstopdf --outfile=AnalUzduotys-eps-converted-to.pdf AnalUzduotys.eps
-)...executed (allowed).
-
-Package epstopdf Info: Result file: <AnalUzduotys-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-12-21 09:34:41
-(epstopdf)                    size: 8644 bytes.
+(epstopdf)             \includegraphics on input line 1123.
+Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./AnalUzduotys-eps-converted-to.pdf): PDF inclus
 ion: found PDF version <1.7>, but at most version <1.5> allowed
-<AnalUzduotys-eps-converted-to.pdf, id=1232, 349.305pt x 189.70876pt>
+<AnalUzduotys-eps-converted-to.pdf, id=1237, 349.305pt x 189.70876pt>
 File: AnalUzduotys-eps-converted-to.pdf Graphic file (type pdf)
 <use AnalUzduotys-eps-converted-to.pdf>
 Package pdftex.def Info: AnalUzduotys-eps-converted-to.pdf  used on input line 
-1099.
+1123.
 (pdftex.def)             Requested size: 469.75502pt x 255.1405pt.
-[56 <./AnalUzduotys-eps-converted-to.pdf>]
+[57 <./AnalUzduotys-eps-converted-to.pdf>]
 
 Package hyperref Warning: Composite letter `\textasciicaron+c'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciicaron' on input line 1109.
+(hyperref)                removing `\textasciicaron' on input line 1133.
 
 Package epstopdf Info: Source file: <PaieskaSeka.eps>
-(epstopdf)                    date: 2018-12-21 09:34:10
-(epstopdf)                    size: 54653 bytes
+(epstopdf)                    date: 2018-12-27 15:39:37
+(epstopdf)                    size: 55618 bytes
 (epstopdf)             Output file: <PaieskaSeka-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-12-21 03:21:00
-(epstopdf)                    size: 9642 bytes
+(epstopdf)                    date: 2018-12-27 15:39:37
+(epstopdf)                    size: 10027 bytes
 (epstopdf)             Command: <epstopdf --outfile=PaieskaSeka-eps-converted-t
 o.pdf PaieskaSeka.eps>
-(epstopdf)             \includegraphics on input line 1115.
-runsystem(epstopdf --outfile=PaieskaSeka-eps-converted-to.pdf PaieskaSeka.eps).
-..executed (allowed).
-
-Package epstopdf Info: Result file: <PaieskaSeka-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-12-21 09:34:42
-(epstopdf)                    size: 10027 bytes.
+(epstopdf)             \includegraphics on input line 1139.
+Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./PaieskaSeka-eps-converted-to.pdf): PDF inclusi
 on: found PDF version <1.7>, but at most version <1.5> allowed
-<PaieskaSeka-eps-converted-to.pdf, id=1248, 195.73125pt x 192.72pt>
+<PaieskaSeka-eps-converted-to.pdf, id=1254, 195.73125pt x 192.72pt>
 File: PaieskaSeka-eps-converted-to.pdf Graphic file (type pdf)
 <use PaieskaSeka-eps-converted-to.pdf>
 Package pdftex.def Info: PaieskaSeka-eps-converted-to.pdf  used on input line 1
-115.
+139.
 (pdftex.def)             Requested size: 375.80544pt x 370.04463pt.
-[57 <./PaieskaSeka-eps-converted-to.pdf>]
+[58 <./PaieskaSeka-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Straipsniai.eps>
-(epstopdf)                    date: 2018-12-21 09:34:05
-(epstopdf)                    size: 57387 bytes
+(epstopdf)                    date: 2018-12-27 15:39:37
+(epstopdf)                    size: 58440 bytes
 (epstopdf)             Output file: <Straipsniai-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-12-21 03:34:26
-(epstopdf)                    size: 10516 bytes
+(epstopdf)                    date: 2018-12-27 15:39:37
+(epstopdf)                    size: 10735 bytes
 (epstopdf)             Command: <epstopdf --outfile=Straipsniai-eps-converted-t
 o.pdf Straipsniai.eps>
-(epstopdf)             \includegraphics on input line 1127.
-runsystem(epstopdf --outfile=Straipsniai-eps-converted-to.pdf Straipsniai.eps).
-..executed (allowed).
-
-Package epstopdf Info: Result file: <Straipsniai-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-12-21 09:34:43
-(epstopdf)                    size: 10735 bytes.
+(epstopdf)             \includegraphics on input line 1151.
+Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./Straipsniai-eps-converted-to.pdf): PDF inclusi
 on: found PDF version <1.7>, but at most version <1.5> allowed
-<Straipsniai-eps-converted-to.pdf, id=1267, 252.945pt x 231.86626pt>
+<Straipsniai-eps-converted-to.pdf, id=1274, 252.945pt x 231.86626pt>
 File: Straipsniai-eps-converted-to.pdf Graphic file (type pdf)
 <use Straipsniai-eps-converted-to.pdf>
 Package pdftex.def Info: Straipsniai-eps-converted-to.pdf  used on input line 1
-127.
+151.
 (pdftex.def)             Requested size: 375.80544pt x 344.49756pt.
-[58 <./Straipsniai-eps-converted-to.pdf>]
+[59 <./Straipsniai-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Forumas.eps>
-(epstopdf)                    date: 2018-12-21 09:34:11
-(epstopdf)                    size: 54068 bytes
+(epstopdf)                    date: 2018-12-27 15:39:37
+(epstopdf)                    size: 55046 bytes
 (epstopdf)             Output file: <Forumas-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-12-21 03:58:03
-(epstopdf)                    size: 9608 bytes
+(epstopdf)                    date: 2018-12-27 15:39:37
+(epstopdf)                    size: 9934 bytes
 (epstopdf)             Command: <epstopdf --outfile=Forumas-eps-converted-to.pd
 f Forumas.eps>
-(epstopdf)             \includegraphics on input line 1139.
-runsystem(epstopdf --outfile=Forumas-eps-converted-to.pdf Forumas.eps)...execut
-ed (allowed).
-
-Package epstopdf Info: Result file: <Forumas-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-12-21 09:34:44
-(epstopdf)                    size: 9934 bytes.
+(epstopdf)             \includegraphics on input line 1163.
+Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./Forumas-eps-converted-to.pdf): PDF inclusion: 
 found PDF version <1.7>, but at most version <1.5> allowed
-<Forumas-eps-converted-to.pdf, id=1286, 201.75375pt x 208.78pt>
+<Forumas-eps-converted-to.pdf, id=1294, 201.75375pt x 208.78pt>
 File: Forumas-eps-converted-to.pdf Graphic file (type pdf)
 <use Forumas-eps-converted-to.pdf>
-Package pdftex.def Info: Forumas-eps-converted-to.pdf  used on input line 1139.
+Package pdftex.def Info: Forumas-eps-converted-to.pdf  used on input line 1163.
 
 (pdftex.def)             Requested size: 375.80544pt x 388.89699pt.
-[59 <./Forumas-eps-converted-to.pdf>]
+[60 <./Forumas-eps-converted-to.pdf>]
 
 Package hyperref Warning: Composite letter `\textdotaccent+e'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotaccent' on input line 1147.
+(hyperref)                removing `\textdotaccent' on input line 1171.
 
 
 Package hyperref Warning: Composite letter `\textdotaccent+e'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotaccent' on input line 1147.
+(hyperref)                removing `\textdotaccent' on input line 1171.
 
 
 Package hyperref Warning: Composite letter `\textasciimacron+u'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciimacron' on input line 1147.
+(hyperref)                removing `\textasciimacron' on input line 1171.
 
 Package epstopdf Info: Source file: <SkelbimoBusena.eps>
-(epstopdf)                    date: 2018-12-21 09:34:07
-(epstopdf)                    size: 16677 bytes
+(epstopdf)                    date: 2018-12-27 15:39:37
+(epstopdf)                    size: 17042 bytes
 (epstopdf)             Output file: <SkelbimoBusena-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-12-21 07:29:24
-(epstopdf)                    size: 7687 bytes
+(epstopdf)                    date: 2018-12-27 15:39:37
+(epstopdf)                    size: 5619 bytes
 (epstopdf)             Command: <epstopdf --outfile=SkelbimoBusena-eps-converte
 d-to.pdf SkelbimoBusena.eps>
-(epstopdf)             \includegraphics on input line 1153.
-runsystem(epstopdf --outfile=SkelbimoBusena-eps-converted-to.pdf SkelbimoBusena
-.eps)...executed (allowed).
-
-Package epstopdf Info: Result file: <SkelbimoBusena-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-12-21 09:34:45
-(epstopdf)                    size: 5619 bytes.
+(epstopdf)             \includegraphics on input line 1177.
+Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./SkelbimoBusena-eps-converted-to.pdf): PDF incl
 usion: found PDF version <1.7>, but at most version <1.5> allowed
-<SkelbimoBusena-eps-converted-to.pdf, id=1305, 195.73125pt x 117.43875pt>
+<SkelbimoBusena-eps-converted-to.pdf, id=1314, 195.73125pt x 117.43875pt>
 File: SkelbimoBusena-eps-converted-to.pdf Graphic file (type pdf)
 <use SkelbimoBusena-eps-converted-to.pdf>
 Package pdftex.def Info: SkelbimoBusena-eps-converted-to.pdf  used on input lin
-e 1153.
+e 1177.
 (pdftex.def)             Requested size: 375.80544pt x 225.49593pt.
-[60 <./SkelbimoBusena-eps-converted-to.pdf>]
+[61 <./SkelbimoBusena-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <ReklamosBusena.eps>
-(epstopdf)                    date: 2018-12-21 09:34:09
-(epstopdf)                    size: 18024 bytes
+(epstopdf)                    date: 2018-12-27 15:39:37
+(epstopdf)                    size: 18409 bytes
 (epstopdf)             Output file: <ReklamosBusena-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-12-21 07:42:42
-(epstopdf)                    size: 7968 bytes
+(epstopdf)                    date: 2018-12-27 15:39:37
+(epstopdf)                    size: 5979 bytes
 (epstopdf)             Command: <epstopdf --outfile=ReklamosBusena-eps-converte
 d-to.pdf ReklamosBusena.eps>
-(epstopdf)             \includegraphics on input line 1165.
-runsystem(epstopdf --outfile=ReklamosBusena-eps-converted-to.pdf ReklamosBusena
-.eps)...executed (allowed).
-
-Package epstopdf Info: Result file: <ReklamosBusena-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-12-21 09:34:46
-(epstopdf)                    size: 5979 bytes.
+(epstopdf)             \includegraphics on input line 1189.
+Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./ReklamosBusena-eps-converted-to.pdf): PDF incl
 usion: found PDF version <1.7>, but at most version <1.5> allowed
-<ReklamosBusena-eps-converted-to.pdf, id=1316, 188.705pt x 86.3225pt>
+<ReklamosBusena-eps-converted-to.pdf, id=1327, 188.705pt x 86.3225pt>
 File: ReklamosBusena-eps-converted-to.pdf Graphic file (type pdf)
 <use ReklamosBusena-eps-converted-to.pdf>
 Package pdftex.def Info: ReklamosBusena-eps-converted-to.pdf  used on input lin
-e 1165.
+e 1189.
 (pdftex.def)             Requested size: 375.80544pt x 171.92535pt.
-[61 <./ReklamosBusena-eps-converted-to.pdf>]
+[62 <./ReklamosBusena-eps-converted-to.pdf>]
 
 Package hyperref Warning: Composite letter `\textdotaccent+e'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotaccent' on input line 1173.
+(hyperref)                removing `\textdotaccent' on input line 1197.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 1178.
+(caption)                particular \caption on input line 1202.
 See the caption package documentation for explanation.
 
-[62] [63]
+[63] [64]
 Package epstopdf Info: Source file: <Scenarijus.eps>
-(epstopdf)                    date: 2018-12-21 09:34:08
-(epstopdf)                    size: 59142 bytes
+(epstopdf)                    date: 2018-12-27 15:39:37
+(epstopdf)                    size: 60234 bytes
 (epstopdf)             Output file: <Scenarijus-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-12-21 09:11:45
-(epstopdf)                    size: 10710 bytes
+(epstopdf)                    date: 2018-12-27 15:39:37
+(epstopdf)                    size: 10987 bytes
 (epstopdf)             Command: <epstopdf --outfile=Scenarijus-eps-converted-to
 .pdf Scenarijus.eps>
-(epstopdf)             \includegraphics on input line 1220.
-runsystem(epstopdf --outfile=Scenarijus-eps-converted-to.pdf Scenarijus.eps)...
-executed (allowed).
-
-Package epstopdf Info: Result file: <Scenarijus-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-12-21 09:34:47
-(epstopdf)                    size: 10987 bytes.
+(epstopdf)             \includegraphics on input line 1244.
+Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./Scenarijus-eps-converted-to.pdf): PDF inclusio
 n: found PDF version <1.7>, but at most version <1.5> allowed
-<Scenarijus-eps-converted-to.pdf, id=1339, 265.99374pt x 232.87pt>
+<Scenarijus-eps-converted-to.pdf, id=1349, 265.99374pt x 232.87pt>
 File: Scenarijus-eps-converted-to.pdf Graphic file (type pdf)
 <use Scenarijus-eps-converted-to.pdf>
 Package pdftex.def Info: Scenarijus-eps-converted-to.pdf  used on input line 12
-20.
+44.
 (pdftex.def)             Requested size: 375.80544pt x 329.03606pt.
 
-Overfull \hbox (11.0621pt too wide) in paragraph at lines 1229--1230
+Overfull \hbox (11.0621pt too wide) in paragraph at lines 1253--1254
 []\T2A/cmr/bx/n/12 Atlikti skelbim[] pa-iesk[] \T2A/cmr/m/n/12 - var-to-to-jas
  pa-si-ren-ka pagrindin[] sis-te-mos paslaug[] (skelbim[]
  []
 
-[64 <./Scenarijus-eps-converted-to.pdf>]
+[65 <./Scenarijus-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Nauda.eps>
-(epstopdf)                    date: 2018-12-21 09:34:10
-(epstopdf)                    size: 22043 bytes
+(epstopdf)                    date: 2018-12-27 15:39:37
+(epstopdf)                    size: 22517 bytes
 (epstopdf)             Output file: <Nauda-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-12-21 09:30:00
-(epstopdf)                    size: 8104 bytes
+(epstopdf)                    date: 2018-12-27 15:39:37
+(epstopdf)                    size: 7366 bytes
 (epstopdf)             Command: <epstopdf --outfile=Nauda-eps-converted-to.pdf 
 Nauda.eps>
-(epstopdf)             \includegraphics on input line 1244.
-runsystem(epstopdf --outfile=Nauda-eps-converted-to.pdf Nauda.eps)...executed (
-allowed).
-
-Package epstopdf Info: Result file: <Nauda-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-12-21 09:34:48
-(epstopdf)                    size: 7366 bytes.
+(epstopdf)             \includegraphics on input line 1268.
+Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./Nauda-eps-converted-to.pdf): PDF inclusion: fo
 und PDF version <1.7>, but at most version <1.5> allowed
-<Nauda-eps-converted-to.pdf, id=1359, 226.8475pt x 122.4575pt>
+<Nauda-eps-converted-to.pdf, id=1369, 226.8475pt x 122.4575pt>
 File: Nauda-eps-converted-to.pdf Graphic file (type pdf)
 <use Nauda-eps-converted-to.pdf>
-Package pdftex.def Info: Nauda-eps-converted-to.pdf  used on input line 1244.
+Package pdftex.def Info: Nauda-eps-converted-to.pdf  used on input line 1268.
 (pdftex.def)             Requested size: 422.77664pt x 228.22635pt.
-[65 <./Nauda-eps-converted-to.pdf>]
+[66 <./Nauda-eps-converted-to.pdf>]
 
 Package hyperref Warning: Composite letter `\textasciimacron+u'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciimacron' on input line 1250.
+(hyperref)                removing `\textasciimacron' on input line 1274.
 
 
 Package hyperref Warning: Composite letter `\textdotaccent+e'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotaccent' on input line 1250.
+(hyperref)                removing `\textdotaccent' on input line 1274.
 
 
 Package hyperref Warning: Composite letter `\textdotaccent+e'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotaccent' on input line 1257.
+(hyperref)                removing `\textdotaccent' on input line 1281.
 
-[66]
+[67]
 
 Package hyperref Warning: Composite letter `\textdotaccent+e'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotaccent' on input line 1269.
+(hyperref)                removing `\textdotaccent' on input line 1293.
 
-[67] [68] [69] [70] [71] [72]
+
+Overfull \hbox (6.5937pt too wide) in paragraph at lines 1302--1303
+[]\T2A/cmr/m/n/12 Vartotojas ga-li ne-si-nau-do-ti sis-te-ma, nes tu-ri-nys ir 
+taip yra pr-ei-na-mas at-ski-ruo-se skelbim[]
+ []
+
+
+Overfull \hbox (17.85327pt too wide) in paragraph at lines 1307--1308
+[]\T2A/cmr/m/n/12 Pranesti var-to-to-jui, kad ap-li-ka-ci-jos pa-lei-di-mas ne
+-ga-li-mas, ir pa-si	ulyti at-si-nau-jin-ti operacin[]
+ []
+
+[68] [69] [70] [71] [72] [73]
 
 Package hyperref Warning: Composite letter `\textasciimacron+u'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciimacron' on input line 1365.
+(hyperref)                removing `\textasciimacron' on input line 1400.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1368.
-[73]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1368.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1403.
+[74]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1403.
  (AutoINF.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1368.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1368.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1403.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1403.
 
 Package rerunfilecheck Info: File `AutoINF.out' has not changed.
-(rerunfilecheck)             Checksum: BDDD33BD615EE5CAAB6AE4C3286AFE2B;5953.
+(rerunfilecheck)             Checksum: 144F5DFE8D9EB13F7775460D471FB5D4;5953.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1368.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1403.
  ) 
 Here is how much of TeX's memory you used:
- 12975 strings out of 492970
- 189963 string characters out of 3142028
- 332615 words of memory out of 3000000
- 16239 multiletter control sequences out of 15000+200000
+ 13030 strings out of 492970
+ 197993 string characters out of 3126593
+ 333498 words of memory out of 3000000
+ 16282 multiletter control sequences out of 15000+200000
  19102 words of font info for 54 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,18n,43p,1308b,608s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\stong\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\la
-bx2488.pk> <C:\Users\stong\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\d
-pi600\labx1200.pk> <C:\Users\stong\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\
-lh-t2a\dpi600\larm1200.pk> <C:\Users\stong\AppData\Local\MiKTeX\2.9\fonts\pk\lj
-four\lh\lh-t2a\dpi600\labx1440.pk> <C:\Users\stong\AppData\Local\MiKTeX\2.9\fon
-ts\pk\ljfour\lh\lh-t2a\dpi600\labx1728.pk> <C:\Users\stong\AppData\Local\MiKTeX
-\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm2074.pk><D:/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmsy10.pfb><D:/MiKTeX 2.9/fonts/type1/public/eurosym/feymr10.p
-fb>
-Output written on AutoINF.pdf (73 pages, 592788 bytes).
+ 36i,18n,43p,1308b,610s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\bikon\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\la
+bx2488.pk> <C:\Users\bikon\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\d
+pi600\labx1200.pk> <C:\Users\bikon\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\
+lh-t2a\dpi600\larm1200.pk> <C:\Users\bikon\AppData\Local\MiKTeX\2.9\fonts\pk\lj
+four\lh\lh-t2a\dpi600\labx1440.pk> <C:\Users\bikon\AppData\Local\MiKTeX\2.9\fon
+ts\pk\ljfour\lh\lh-t2a\dpi600\labx1728.pk> <C:\Users\bikon\AppData\Local\MiKTeX
+\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm2074.pk><C:/Users/bikon/AppData/Local
+/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/bikon/
+AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/
+Users/bikon/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+sy10.pfb><C:/Users/bikon/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/e
+urosym/feymr10.pfb>
+Output written on AutoINF.pdf (74 pages, 612588 bytes).
 PDF statistics:
- 1812 PDF objects out of 2073 (max. 8388607)
- 347 named destinations out of 1000 (max. 500000)
+ 1838 PDF objects out of 2073 (max. 8388607)
+ 359 named destinations out of 1000 (max. 500000)
  738 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -52,24 +52,24 @@
 \contentsline {part}{Dalykin\IeC {\.e}s srities analiz\IeC {\.e}}{51}{part*.194}
 \contentsline {section}{\numberline {1}Verslo proceso apra\IeC {\v s}as}{51}{section.195}
 \contentsline {section}{\numberline {2}I\IeC {\v s}orin\IeC {\.e} proceso analiz\IeC {\.e}}{52}{section.196}
-\contentsline {section}{\numberline {3}Vidin\IeC {\.e} proceso analiz\IeC {\.e}}{54}{section.212}
-\contentsline {subsection}{\numberline {3.1}Dalykin\IeC {\.e}s srities statin\IeC {\.e} strukt\IeC {\=u}ra}{54}{subsection.213}
-\contentsline {subsection}{\numberline {3.2}U\IeC {\v z}duotys}{56}{subsection.231}
-\contentsline {subsection}{\numberline {3.3}U\IeC {\v z}duo\IeC {\v c}i\IeC {\k u} vykdymo scenarijai}{57}{subsection.233}
-\contentsline {subsection}{\numberline {3.4}Dalykin\IeC {\.e}s srities dinamin\IeC {\.e} strukt\IeC {\=u}ra}{60}{subsection.237}
-\contentsline {section}{\numberline {4}Analiz\IeC {\.e}s rezultatai}{62}{section.240}
-\contentsline {section}{\numberline {5}Verslo proceso tobulinimo strategija}{63}{section.242}
-\contentsline {section}{\numberline {6}Sistemos naudojimo scenarijus}{64}{section.243}
-\contentsline {subsection}{\numberline {6.1}Scenarijus}{64}{subsection.244}
-\contentsline {subsection}{\numberline {6.2}Sistemos teikiama nauda}{65}{subsection.246}
-\contentsline {subsection}{\numberline {6.3}Esama b\IeC {\=u}kl\IeC {\.e}}{66}{subsection.248}
-\contentsline {subsection}{\numberline {6.4}Priemon\IeC {\.e}s scenarijui \IeC {\k i}gyvendinti}{66}{subsection.251}
-\contentsline {section}{\numberline {7}\IeC {\k I}gyvendinamumo ir naudos analiz\IeC {\.e}}{67}{section.258}
-\contentsline {subsection}{\numberline {7.1}Operacinis \IeC {\k i}gyvendinamumas}{67}{subsection.259}
-\contentsline {subsection}{\numberline {7.2}Techninis \IeC {\k i}gyvendinamumas}{67}{subsection.260}
-\contentsline {subsection}{\numberline {7.3}Ekonominis \IeC {\k i}gyvendinamumas}{68}{subsection.261}
-\contentsline {subsection}{\numberline {7.4}Juridinis \IeC {\k i}gyvendinamumas}{69}{subsection.269}
-\contentsline {part}{Rezultatai}{70}{part*.270}
-\contentsline {part}{I\IeC {\v s}vados}{71}{part*.271}
-\contentsline {part}{Termin\IeC {\k u} \IeC {\v z}odynas}{72}{part*.272}
-\contentsline {part}{Literat\IeC {\=u}ros s\IeC {\k a}ra\IeC {\v s}as}{73}{part*.273}
+\contentsline {section}{\numberline {3}Vidin\IeC {\.e} proceso analiz\IeC {\.e}}{55}{section.213}
+\contentsline {subsection}{\numberline {3.1}Dalykin\IeC {\.e}s srities statin\IeC {\.e} strukt\IeC {\=u}ra}{55}{subsection.214}
+\contentsline {subsection}{\numberline {3.2}U\IeC {\v z}duotys}{57}{subsection.232}
+\contentsline {subsection}{\numberline {3.3}U\IeC {\v z}duo\IeC {\v c}i\IeC {\k u} vykdymo scenarijai}{58}{subsection.234}
+\contentsline {subsection}{\numberline {3.4}Dalykin\IeC {\.e}s srities dinamin\IeC {\.e} strukt\IeC {\=u}ra}{61}{subsection.238}
+\contentsline {section}{\numberline {4}Analiz\IeC {\.e}s rezultatai}{63}{section.241}
+\contentsline {section}{\numberline {5}Verslo proceso tobulinimo strategija}{64}{section.243}
+\contentsline {section}{\numberline {6}Sistemos naudojimo scenarijus}{65}{section.244}
+\contentsline {subsection}{\numberline {6.1}Scenarijus}{65}{subsection.245}
+\contentsline {subsection}{\numberline {6.2}Sistemos teikiama nauda}{66}{subsection.247}
+\contentsline {subsection}{\numberline {6.3}Esama b\IeC {\=u}kl\IeC {\.e}}{67}{subsection.249}
+\contentsline {subsection}{\numberline {6.4}Priemon\IeC {\.e}s scenarijui \IeC {\k i}gyvendinti}{67}{subsection.252}
+\contentsline {section}{\numberline {7}\IeC {\k I}gyvendinamumo ir naudos analiz\IeC {\.e}}{68}{section.259}
+\contentsline {subsection}{\numberline {7.1}Operacinis \IeC {\k i}gyvendinamumas}{68}{subsection.260}
+\contentsline {subsection}{\numberline {7.2}Techninis \IeC {\k i}gyvendinamumas}{68}{subsection.265}
+\contentsline {subsection}{\numberline {7.3}Ekonominis \IeC {\k i}gyvendinamumas}{69}{subsection.268}
+\contentsline {subsection}{\numberline {7.4}Juridinis \IeC {\k i}gyvendinamumas}{70}{subsection.280}
+\contentsline {part}{Rezultatai}{71}{part*.281}
+\contentsline {part}{I\IeC {\v s}vados}{72}{part*.282}
+\contentsline {part}{Termin\IeC {\k u} \IeC {\v z}odynas}{73}{part*.283}
+\contentsline {part}{Literat\IeC {\=u}ros s\IeC {\k a}ra\IeC {\v s}as}{74}{part*.284}
