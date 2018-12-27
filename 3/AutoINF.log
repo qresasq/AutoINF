@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.11)  27 DEC 2018 18:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.11)  27 DEC 2018 20:33
 entering extended mode
 **./AutoINF.tex
 (AutoINF.tex
@@ -1910,100 +1910,134 @@ Package hyperref Warning: Composite letter `\textdotaccent+e'
 (hyperref)                removing `\textdotaccent' on input line 1016.
 
 
+Overfull \hbox (11.49422pt too wide) in paragraph at lines 1027--1028
+[]\T2A/cmr/bx/n/12 Programuotojai \T2A/cmr/m/n/12 - kva-li-fi-kuo-ti, ge-ban-ty
+s uztikrinti prog-ra-min
+es sis-te-mos palaikym[]
+ []
+
+
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 1033.
 See the caption package documentation for explanation.
 
+[52]
 
-Overfull \hbox (45.40315pt too wide) in paragraph at lines 1034--1045
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 1057.
+See the caption package documentation for explanation.
+
+
+Overfull \hbox (12.93143pt too wide) in paragraph at lines 1073--1074
+[]\T2A/cmr/bx/n/12 Populiarumas \T2A/cmr/m/n/12 - tik
+etinas atsiliepim[], komentar[] ir []vertinim[] ko-e-fi-cien-tas atzvilgiu
+ []
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 1078.
+See the caption package documentation for explanation.
+
+
+Overfull \hbox (5.5436pt too wide) in paragraph at lines 1079--1086
  [] 
  []
 
-[52] [53]
-Overfull \hbox (12.93143pt too wide) in paragraph at lines 1063--1064
-[]\T2A/cmr/bx/n/12 Populiarumas \T2A/cmr/m/n/12 - tik
-etinas atsiliepim[], komentar[] ir []vertinim[] ko-e-fi-cien-tas atzvilgiu
+[53]
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 1099.
+See the caption package documentation for explanation.
+
+
+Overfull \hbox (5.83511pt too wide) in paragraph at lines 1100--1106
+ [] 
  []
 
 [54]
 
 Package hyperref Warning: Composite letter `\textdotaccent+e'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotaccent' on input line 1077.
+(hyperref)                removing `\textdotaccent' on input line 1109.
 
 
 Package hyperref Warning: Composite letter `\textdotaccent+e'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotaccent' on input line 1077.
+(hyperref)                removing `\textdotaccent' on input line 1109.
 
 
 Package hyperref Warning: Composite letter `\textdotaccent+e'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotaccent' on input line 1081.
+(hyperref)                removing `\textdotaccent' on input line 1113.
 
 
 Package hyperref Warning: Composite letter `\textdotaccent+e'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotaccent' on input line 1081.
+(hyperref)                removing `\textdotaccent' on input line 1113.
 
 
 Package hyperref Warning: Composite letter `\textasciimacron+u'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciimacron' on input line 1081.
+(hyperref)                removing `\textasciimacron' on input line 1113.
 
 
-Overfull \hbox (13.13646pt too wide) in paragraph at lines 1090--1091
+Overfull \hbox (13.13646pt too wide) in paragraph at lines 1120--1121
 []\T2A/cmr/bx/n/12 Naujienlaiskis \T2A/cmr/m/n/12  sis-te-mos pa-slau-ga, su-
 tei-kian-ti var-to-to-jams prieg[] prie []vairi[] straipsni[]. 
  []
 
 [55]
 Package epstopdf Info: Source file: <StatineSchema.eps>
-(epstopdf)                    date: 2018-12-27 15:39:37
-(epstopdf)                    size: 27142 bytes
+(epstopdf)                    date: 2018-12-27 20:31:42
+(epstopdf)                    size: 25788 bytes
 (epstopdf)             Output file: <StatineSchema-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-12-27 15:39:37
-(epstopdf)                    size: 8198 bytes
+(epstopdf)                    date: 2018-12-27 20:32:38
+(epstopdf)                    size: 8071 bytes
 (epstopdf)             Command: <epstopdf --outfile=StatineSchema-eps-converted
 -to.pdf StatineSchema.eps>
-(epstopdf)             \includegraphics on input line 1108.
+(epstopdf)             \includegraphics on input line 1138.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./StatineSchema-eps-converted-to.pdf): PDF inclu
 sion: found PDF version <1.7>, but at most version <1.5> allowed
-<StatineSchema-eps-converted-to.pdf, id=1215, 398.48875pt x 159.59625pt>
+<StatineSchema-eps-converted-to.pdf, id=1219, 364.36125pt x 159.59625pt>
 File: StatineSchema-eps-converted-to.pdf Graphic file (type pdf)
 <use StatineSchema-eps-converted-to.pdf>
 Package pdftex.def Info: StatineSchema-eps-converted-to.pdf  used on input line
- 1108.
-(pdftex.def)             Requested size: 469.75502pt x 188.14658pt.
+ 1138.
+(pdftex.def)             Requested size: 469.75502pt x 205.76797pt.
 [56 <./StatineSchema-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <AnalUzduotys.eps>
-(epstopdf)                    date: 2018-12-27 15:39:37
-(epstopdf)                    size: 28583 bytes
+(epstopdf)                    date: 2018-12-27 20:33:02
+(epstopdf)                    size: 26442 bytes
 (epstopdf)             Output file: <AnalUzduotys-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-12-27 15:39:37
-(epstopdf)                    size: 8644 bytes
+(epstopdf)                    date: 2018-12-27 19:47:56
+(epstopdf)                    size: 9748 bytes
 (epstopdf)             Command: <epstopdf --outfile=AnalUzduotys-eps-converted-
 to.pdf AnalUzduotys.eps>
-(epstopdf)             \includegraphics on input line 1123.
-Package epstopdf Info: Output file is already uptodate.
+(epstopdf)             \includegraphics on input line 1153.
+runsystem(epstopdf --outfile=AnalUzduotys-eps-converted-to.pdf AnalUzduotys.eps
+)...executed (allowed).
+
+Package epstopdf Info: Result file: <AnalUzduotys-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-12-27 20:33:31
+(epstopdf)                    size: 8352 bytes.
 
 
 pdfTeX warning: pdflatex (file ./AnalUzduotys-eps-converted-to.pdf): PDF inclus
 ion: found PDF version <1.7>, but at most version <1.5> allowed
-<AnalUzduotys-eps-converted-to.pdf, id=1237, 349.305pt x 189.70876pt>
+<AnalUzduotys-eps-converted-to.pdf, id=1239, 316.18124pt x 163.61125pt>
 File: AnalUzduotys-eps-converted-to.pdf Graphic file (type pdf)
 <use AnalUzduotys-eps-converted-to.pdf>
 Package pdftex.def Info: AnalUzduotys-eps-converted-to.pdf  used on input line 
-1123.
-(pdftex.def)             Requested size: 469.75502pt x 255.1405pt.
+1153.
+(pdftex.def)             Requested size: 469.75502pt x 243.097pt.
 [57 <./AnalUzduotys-eps-converted-to.pdf>]
 
 Package hyperref Warning: Composite letter `\textasciicaron+c'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciicaron' on input line 1133.
+(hyperref)                removing `\textasciicaron' on input line 1163.
 
 Package epstopdf Info: Source file: <PaieskaSeka.eps>
 (epstopdf)                    date: 2018-12-27 15:39:37
@@ -2013,17 +2047,17 @@ Package epstopdf Info: Source file: <PaieskaSeka.eps>
 (epstopdf)                    size: 10027 bytes
 (epstopdf)             Command: <epstopdf --outfile=PaieskaSeka-eps-converted-t
 o.pdf PaieskaSeka.eps>
-(epstopdf)             \includegraphics on input line 1139.
+(epstopdf)             \includegraphics on input line 1169.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./PaieskaSeka-eps-converted-to.pdf): PDF inclusi
 on: found PDF version <1.7>, but at most version <1.5> allowed
-<PaieskaSeka-eps-converted-to.pdf, id=1254, 195.73125pt x 192.72pt>
+<PaieskaSeka-eps-converted-to.pdf, id=1256, 195.73125pt x 192.72pt>
 File: PaieskaSeka-eps-converted-to.pdf Graphic file (type pdf)
 <use PaieskaSeka-eps-converted-to.pdf>
 Package pdftex.def Info: PaieskaSeka-eps-converted-to.pdf  used on input line 1
-139.
+169.
 (pdftex.def)             Requested size: 375.80544pt x 370.04463pt.
 [58 <./PaieskaSeka-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Straipsniai.eps>
@@ -2034,74 +2068,84 @@ Package epstopdf Info: Source file: <Straipsniai.eps>
 (epstopdf)                    size: 10735 bytes
 (epstopdf)             Command: <epstopdf --outfile=Straipsniai-eps-converted-t
 o.pdf Straipsniai.eps>
-(epstopdf)             \includegraphics on input line 1151.
+(epstopdf)             \includegraphics on input line 1181.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./Straipsniai-eps-converted-to.pdf): PDF inclusi
 on: found PDF version <1.7>, but at most version <1.5> allowed
-<Straipsniai-eps-converted-to.pdf, id=1274, 252.945pt x 231.86626pt>
+<Straipsniai-eps-converted-to.pdf, id=1276, 252.945pt x 231.86626pt>
 File: Straipsniai-eps-converted-to.pdf Graphic file (type pdf)
 <use Straipsniai-eps-converted-to.pdf>
 Package pdftex.def Info: Straipsniai-eps-converted-to.pdf  used on input line 1
-151.
+181.
 (pdftex.def)             Requested size: 375.80544pt x 344.49756pt.
 [59 <./Straipsniai-eps-converted-to.pdf>]
-Package epstopdf Info: Source file: <Forumas.eps>
-(epstopdf)                    date: 2018-12-27 15:39:37
-(epstopdf)                    size: 55046 bytes
-(epstopdf)             Output file: <Forumas-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-12-27 15:39:37
-(epstopdf)                    size: 9934 bytes
-(epstopdf)             Command: <epstopdf --outfile=Forumas-eps-converted-to.pd
-f Forumas.eps>
-(epstopdf)             \includegraphics on input line 1163.
-Package epstopdf Info: Output file is already uptodate.
+Package epstopdf Info: Source file: <ReklamosSeka.eps>
+(epstopdf)                    date: 2018-12-27 20:32:59
+(epstopdf)                    size: 54795 bytes
+(epstopdf)             Output file: <ReklamosSeka-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-12-27 20:01:30
+(epstopdf)                    size: 9822 bytes
+(epstopdf)             Command: <epstopdf --outfile=ReklamosSeka-eps-converted-
+to.pdf ReklamosSeka.eps>
+(epstopdf)             \includegraphics on input line 1193.
+runsystem(epstopdf --outfile=ReklamosSeka-eps-converted-to.pdf ReklamosSeka.eps
+)...executed (allowed).
+
+Package epstopdf Info: Result file: <ReklamosSeka-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-12-27 20:33:31
+(epstopdf)                    size: 10056 bytes.
 
 
-pdfTeX warning: pdflatex (file ./Forumas-eps-converted-to.pdf): PDF inclusion: 
-found PDF version <1.7>, but at most version <1.5> allowed
-<Forumas-eps-converted-to.pdf, id=1294, 201.75375pt x 208.78pt>
-File: Forumas-eps-converted-to.pdf Graphic file (type pdf)
-<use Forumas-eps-converted-to.pdf>
-Package pdftex.def Info: Forumas-eps-converted-to.pdf  used on input line 1163.
-
-(pdftex.def)             Requested size: 375.80544pt x 388.89699pt.
-[60 <./Forumas-eps-converted-to.pdf>]
+pdfTeX warning: pdflatex (file ./ReklamosSeka-eps-converted-to.pdf): PDF inclus
+ion: found PDF version <1.7>, but at most version <1.5> allowed
+<ReklamosSeka-eps-converted-to.pdf, id=1296, 268.00125pt x 192.72pt>
+File: ReklamosSeka-eps-converted-to.pdf Graphic file (type pdf)
+<use ReklamosSeka-eps-converted-to.pdf>
+Package pdftex.def Info: ReklamosSeka-eps-converted-to.pdf  used on input line 
+1193.
+(pdftex.def)             Requested size: 375.80544pt x 270.24135pt.
+[60 <./ReklamosSeka-eps-converted-to.pdf>]
 
 Package hyperref Warning: Composite letter `\textdotaccent+e'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotaccent' on input line 1171.
+(hyperref)                removing `\textdotaccent' on input line 1201.
 
 
 Package hyperref Warning: Composite letter `\textdotaccent+e'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotaccent' on input line 1171.
+(hyperref)                removing `\textdotaccent' on input line 1201.
 
 
 Package hyperref Warning: Composite letter `\textasciimacron+u'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciimacron' on input line 1171.
+(hyperref)                removing `\textasciimacron' on input line 1201.
 
 Package epstopdf Info: Source file: <SkelbimoBusena.eps>
-(epstopdf)                    date: 2018-12-27 15:39:37
-(epstopdf)                    size: 17042 bytes
+(epstopdf)                    date: 2018-12-27 20:32:57
+(epstopdf)                    size: 16393 bytes
 (epstopdf)             Output file: <SkelbimoBusena-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-12-27 15:39:37
-(epstopdf)                    size: 5619 bytes
+(epstopdf)                    date: 2018-12-27 19:51:07
+(epstopdf)                    size: 7422 bytes
 (epstopdf)             Command: <epstopdf --outfile=SkelbimoBusena-eps-converte
 d-to.pdf SkelbimoBusena.eps>
-(epstopdf)             \includegraphics on input line 1177.
-Package epstopdf Info: Output file is already uptodate.
+(epstopdf)             \includegraphics on input line 1207.
+runsystem(epstopdf --outfile=SkelbimoBusena-eps-converted-to.pdf SkelbimoBusena
+.eps)...executed (allowed).
+
+Package epstopdf Info: Result file: <SkelbimoBusena-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-12-27 20:33:32
+(epstopdf)                    size: 5597 bytes.
 
 
 pdfTeX warning: pdflatex (file ./SkelbimoBusena-eps-converted-to.pdf): PDF incl
 usion: found PDF version <1.7>, but at most version <1.5> allowed
-<SkelbimoBusena-eps-converted-to.pdf, id=1314, 195.73125pt x 117.43875pt>
+<SkelbimoBusena-eps-converted-to.pdf, id=1316, 195.73125pt x 117.43875pt>
 File: SkelbimoBusena-eps-converted-to.pdf Graphic file (type pdf)
 <use SkelbimoBusena-eps-converted-to.pdf>
 Package pdftex.def Info: SkelbimoBusena-eps-converted-to.pdf  used on input lin
-e 1177.
+e 1207.
 (pdftex.def)             Requested size: 375.80544pt x 225.49593pt.
 [61 <./SkelbimoBusena-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <ReklamosBusena.eps>
@@ -2112,27 +2156,27 @@ Package epstopdf Info: Source file: <ReklamosBusena.eps>
 (epstopdf)                    size: 5979 bytes
 (epstopdf)             Command: <epstopdf --outfile=ReklamosBusena-eps-converte
 d-to.pdf ReklamosBusena.eps>
-(epstopdf)             \includegraphics on input line 1189.
+(epstopdf)             \includegraphics on input line 1219.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./ReklamosBusena-eps-converted-to.pdf): PDF incl
 usion: found PDF version <1.7>, but at most version <1.5> allowed
-<ReklamosBusena-eps-converted-to.pdf, id=1327, 188.705pt x 86.3225pt>
+<ReklamosBusena-eps-converted-to.pdf, id=1329, 188.705pt x 86.3225pt>
 File: ReklamosBusena-eps-converted-to.pdf Graphic file (type pdf)
 <use ReklamosBusena-eps-converted-to.pdf>
 Package pdftex.def Info: ReklamosBusena-eps-converted-to.pdf  used on input lin
-e 1189.
+e 1219.
 (pdftex.def)             Requested size: 375.80544pt x 171.92535pt.
 [62 <./ReklamosBusena-eps-converted-to.pdf>]
 
 Package hyperref Warning: Composite letter `\textdotaccent+e'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotaccent' on input line 1197.
+(hyperref)                removing `\textdotaccent' on input line 1227.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 1202.
+(caption)                particular \caption on input line 1232.
 See the caption package documentation for explanation.
 
 [63] [64]
@@ -2144,74 +2188,84 @@ Package epstopdf Info: Source file: <Scenarijus.eps>
 (epstopdf)                    size: 10987 bytes
 (epstopdf)             Command: <epstopdf --outfile=Scenarijus-eps-converted-to
 .pdf Scenarijus.eps>
-(epstopdf)             \includegraphics on input line 1244.
+(epstopdf)             \includegraphics on input line 1278.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./Scenarijus-eps-converted-to.pdf): PDF inclusio
 n: found PDF version <1.7>, but at most version <1.5> allowed
-<Scenarijus-eps-converted-to.pdf, id=1349, 265.99374pt x 232.87pt>
+<Scenarijus-eps-converted-to.pdf, id=1351, 265.99374pt x 232.87pt>
 File: Scenarijus-eps-converted-to.pdf Graphic file (type pdf)
 <use Scenarijus-eps-converted-to.pdf>
 Package pdftex.def Info: Scenarijus-eps-converted-to.pdf  used on input line 12
-44.
-(pdftex.def)             Requested size: 375.80544pt x 329.03606pt.
+78.
+(pdftex.def)             Requested size: 361.71336pt x 316.69543pt.
 
-Overfull \hbox (11.0621pt too wide) in paragraph at lines 1253--1254
+Overfull \hbox (11.98405pt too wide) in paragraph at lines 1286--1287
 []\T2A/cmr/bx/n/12 Atlikti skelbim[] pa-iesk[] \T2A/cmr/m/n/12 - var-to-to-jas
  pa-si-ren-ka pagrindin[] sis-te-mos paslaug[] (skelbim[]
  []
 
 [65 <./Scenarijus-eps-converted-to.pdf>]
+Overfull \hbox (0.26053pt too wide) in paragraph at lines 1290--1291
+[]\T2A/cmr/bx/n/12 Skelbimas \T2A/cmr/m/n/12 - jei sis-te-ma uzmezga rys[] su
+ no-ri-mo skel-bi-mo saltiniu, ji nu-krei-pia vartotoj[]
+ []
+
 Package epstopdf Info: Source file: <Nauda.eps>
-(epstopdf)                    date: 2018-12-27 15:39:37
-(epstopdf)                    size: 22517 bytes
+(epstopdf)                    date: 2018-12-27 20:33:00
+(epstopdf)                    size: 23967 bytes
 (epstopdf)             Output file: <Nauda-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-12-27 15:39:37
-(epstopdf)                    size: 7366 bytes
+(epstopdf)                    date: 2018-12-27 20:17:51
+(epstopdf)                    size: 8492 bytes
 (epstopdf)             Command: <epstopdf --outfile=Nauda-eps-converted-to.pdf 
 Nauda.eps>
-(epstopdf)             \includegraphics on input line 1268.
-Package epstopdf Info: Output file is already uptodate.
+(epstopdf)             \includegraphics on input line 1298.
+runsystem(epstopdf --outfile=Nauda-eps-converted-to.pdf Nauda.eps)...executed (
+allowed).
+
+Package epstopdf Info: Result file: <Nauda-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-12-27 20:33:32
+(epstopdf)                    size: 7864 bytes.
 
 
 pdfTeX warning: pdflatex (file ./Nauda-eps-converted-to.pdf): PDF inclusion: fo
 und PDF version <1.7>, but at most version <1.5> allowed
-<Nauda-eps-converted-to.pdf, id=1369, 226.8475pt x 122.4575pt>
+<Nauda-eps-converted-to.pdf, id=1373, 193.72375pt x 133.49875pt>
 File: Nauda-eps-converted-to.pdf Graphic file (type pdf)
 <use Nauda-eps-converted-to.pdf>
-Package pdftex.def Info: Nauda-eps-converted-to.pdf  used on input line 1268.
-(pdftex.def)             Requested size: 422.77664pt x 228.22635pt.
+Package pdftex.def Info: Nauda-eps-converted-to.pdf  used on input line 1298.
+(pdftex.def)             Requested size: 352.31625pt x 242.79288pt.
 [66 <./Nauda-eps-converted-to.pdf>]
 
 Package hyperref Warning: Composite letter `\textasciimacron+u'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciimacron' on input line 1274.
+(hyperref)                removing `\textasciimacron' on input line 1304.
 
 
 Package hyperref Warning: Composite letter `\textdotaccent+e'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotaccent' on input line 1274.
+(hyperref)                removing `\textdotaccent' on input line 1304.
 
 
 Package hyperref Warning: Composite letter `\textdotaccent+e'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotaccent' on input line 1281.
+(hyperref)                removing `\textdotaccent' on input line 1311.
 
 [67]
 
 Package hyperref Warning: Composite letter `\textdotaccent+e'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotaccent' on input line 1293.
+(hyperref)                removing `\textdotaccent' on input line 1323.
 
 
-Overfull \hbox (6.5937pt too wide) in paragraph at lines 1302--1303
+Overfull \hbox (6.5937pt too wide) in paragraph at lines 1332--1333
 []\T2A/cmr/m/n/12 Vartotojas ga-li ne-si-nau-do-ti sis-te-ma, nes tu-ri-nys ir 
 taip yra pr-ei-na-mas at-ski-ruo-se skelbim[]
  []
 
 
-Overfull \hbox (17.85327pt too wide) in paragraph at lines 1307--1308
+Overfull \hbox (17.85327pt too wide) in paragraph at lines 1337--1338
 []\T2A/cmr/m/n/12 Pranesti var-to-to-jui, kad ap-li-ka-ci-jos pa-lei-di-mas ne
 -ga-li-mas, ir pa-si	ulyti at-si-nau-jin-ti operacin[]
  []
@@ -2220,28 +2274,28 @@ Overfull \hbox (17.85327pt too wide) in paragraph at lines 1307--1308
 
 Package hyperref Warning: Composite letter `\textasciimacron+u'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciimacron' on input line 1400.
+(hyperref)                removing `\textasciimacron' on input line 1430.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1403.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1433.
 [74]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1403.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1433.
  (AutoINF.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1403.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1403.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1433.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1433.
 
 Package rerunfilecheck Info: File `AutoINF.out' has not changed.
-(rerunfilecheck)             Checksum: 144F5DFE8D9EB13F7775460D471FB5D4;5953.
+(rerunfilecheck)             Checksum: 8CD5A54F9B1918456831D335AD346679;5953.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1403.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1433.
  ) 
 Here is how much of TeX's memory you used:
- 13030 strings out of 492970
- 197993 string characters out of 3126593
- 333498 words of memory out of 3000000
- 16282 multiletter control sequences out of 15000+200000
+ 13041 strings out of 492970
+ 198107 string characters out of 3126593
+ 333578 words of memory out of 3000000
+ 16285 multiletter control sequences out of 15000+200000
  19102 words of font info for 54 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  36i,18n,43p,1308b,610s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2257,9 +2311,9 @@ AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/
 Users/bikon/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
 sy10.pfb><C:/Users/bikon/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/e
 urosym/feymr10.pfb>
-Output written on AutoINF.pdf (74 pages, 612588 bytes).
+Output written on AutoINF.pdf (74 pages, 616034 bytes).
 PDF statistics:
- 1838 PDF objects out of 2073 (max. 8388607)
- 359 named destinations out of 1000 (max. 500000)
+ 1850 PDF objects out of 2073 (max. 8388607)
+ 367 named destinations out of 1000 (max. 500000)
  738 words of extra memory for PDF output out of 10000 (max. 10000000)
 

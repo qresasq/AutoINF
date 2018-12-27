@@ -1020,12 +1020,12 @@ PROGRAMŲ SISTEMŲ KATEDRA}
 	\item{\textbf{Įeiga:}}
 	\begin{enumerate}
 		\item{\textbf{Šaltiniai} – laisvai prieinami, didelis automobilių skelbimų portalų pasirinkimas tiek Europos, tiek Lietuvos rinkoje, yra galimybė iš jų gauti skelbimus.}
-		\item{\textbf{Skelbimai} – lengva gauti iš jų reikalingos informacijos (pvz.: nuotraukos, informacija apie automobilį).}
+		\item{\textbf{Skelbimai} – yra galimybė gauti iš jų reikalingos informacijos (pvz., nuotraukos).}
 		\item{\textbf{Serveriai} - užtikrintas sistemos palaikymas visą laiką.}
 		\item{\textbf{Elektros tiekėjas} - efektyvus elektros užtikrinimas, labai reti elektros tiekimo sutrikimai.}
 		\item{\textbf{Interneto tiekėjas} - labai geras - interneto sutrikimų praktiškai nepasitaiko.}
-		\item{\textbf{Programuotojai} - efektyvu, užtikrintas programinės sistemos palaikymas ir atnaujinimas.}
-		\item{\textbf{Patalpos} - vidutiniška - skatina programuotojų produktyvumą, tačiau atima kitų išteklių (nuoma, komunaliniai mokesčiai).}
+		\item{\textbf{Programuotojai} - kvalifikuoti, gebantys užtikrinti programinės sistemos palaikymą ir atnaujinimą.}
+		\item{\textbf{Patalpos} - vidutiniškos - skatina programuotojų produktyvumą, tačiau atima kitų išteklių (nuoma, komunaliniai mokesčiai).}
 	\end{enumerate}
 	\end{itemize}
 	
@@ -1033,26 +1033,36 @@ PROGRAMŲ SISTEMŲ KATEDRA}
 		\captionof{table}{Įeiga\label{Input}}
 		\begin{tabular}{ | c | c | c | c |}
 			\hline
-			Vertinimo kriterijus & Vertinimo matas & Esamas įvertis & Kritinė reikšmė \\ \hline
-			Šaltiniai & Prieinamų šaltinių skaičius & 10 & 30\\ \hline
-			Skelbimai & Gautų skelbimų skaičius vienam šaltiniui & 100 & 300\\ \hline
+			Vertinimo kriterijus & Vertinimo matas & Esamas įvertis & Kritinė reikšmė \\ \hline 
+			Šaltiniai & Prieinamų šaltinių skaičius & 5 & >40 \\ \hline
+			Skelbimai & \makecell{Gautų skelbimų skaičius \\ vienam šaltiniui} & $\approx$ 100 & >1000\\ \hline
 			Serveriai & Serverių skaičius & 1 & 3 \\ \hline
-			Elektros tiekėjas &  &  & \\ \hline
-			Interneto tiekėjas & Interneto greitis Gb/s & 1 & 10 \\ \hline
-			Programuotojai &  &  & \\ \hline
-			Patalpos &  &  & \\ \hline
+			Elektros tiekėjas & kWh kaina (€) & 0,060 & 0,044 \\ \hline
+			Interneto tiekėjas & Interneto greitis (Gb/s) & 0,3 & >1 \\ \hline
+			Programuotojai & Programuotojų skaičius & 3 & 4 \\ \hline
+			Patalpos & Mėnesio nuomos kaina (€) & $\approx$ 450 & $\approx$ 360 \\ \hline
 		\end{tabular}
 	\end{center}
 
 	\begin{itemize}
 	\item{\textbf{Išeiga:}}
 	\begin{enumerate}
-		\item{\textbf{Statistika} - analizuodami vartotojų srautą ir jo trigerius galime padidinti sistemos sistemos galimybes neatitrūkdami nuo vartotojų poreikių.}
-		\item{\textbf{Reklamų peržiūros} - efektyvus būdas pritraukti rėmėjų.}
+		\item{\textbf{Statistika} - analizuodami vartotojų srautą ir jo trigerius galime padidinti sistemos galimybes neatitrūkdami nuo vartotojų poreikių.}
+		\item{\textbf{Reklamų užsakymai} - sistemos pajamų šaltinis.}
 		\item{\textbf{Atlyginimai} - vidutiniški, didesnė jų dalis orientuota ne į sistemos prižiūrėtojus, o į atnaujinimų tiekėjus.}
 	\end{enumerate}
-	\pagebreak
 	\end{itemize}
+	
+	\begin{center}
+		\captionof{table}{Išeiga\label{Output}}
+		\begin{tabular}{ | c | c | c | c |}
+			\hline
+			Vertinimo kriterijus & Vertinimo matas & Esamas įvertis & Kritinė reikšmė \\ \hline 
+			Statistika & Sekami rodikliai & 3 & 10 \\ \hline
+			Reklamų užsakymai & Skirtingų užsakovų skaičius & 1 & >5 \\ \hline
+			Atlyginimai & \makecell{Atlyginimų, skirtų atnaujinimų \\ tiekėjams, dalis (\%)} & 40 & >60 \\ \hline
+		\end{tabular}
+	\end{center} 
 
 	\begin{itemize}
 	
@@ -1060,9 +1070,21 @@ PROGRAMŲ SISTEMŲ KATEDRA}
 	\begin{enumerate}
 		\item{\textbf{Vartotojų srautas} - tikėtinas vartotojų srautas - $\approx$ 400 per valandą. Sistema sugeba atlaikyti iki 1000 vartotojų per valandą srautą.}
 		\item{\textbf{Reklamų peržiūros} - atsižvelgiant į tikėtiną vartotojų srautą, reklamų peržiūrų skaičius per valandą yra $\approx$ 2000.}
-		\item{\textbf{Populiarumas} - tikėtinas atsiliepimų, komentarų ir įvertinimų koeficientas atžvilgiu „labai gera ir naudinga sistema“ (10) - „labai prasta, nenaudinga sistema“ (0) yra $\approx$ 7,4. Tikėtinas srauto prieaugis - $\approx$ 2000 per mėnesį.}
+		\item{\textbf{Populiarumas} - tikėtinas atsiliepimų, komentarų ir įvertinimų koeficientas atžvilgiu „labai gera ir naudinga sistema“ (10) - „labai prasta, nenaudinga sistema“ (0) yra $\approx$ 7,4.}
 	\end{enumerate}
 	\end{itemize}
+	
+	\begin{center}
+		\captionof{table}{Įvaizdis\label{Looks}}
+		\begin{tabular}{ | c | c | c | c |}
+			\hline
+			Vertinimo kriterijus & Vertinimo matas & Esamas įvertis & Kritinė reikšmė \\ \hline 
+			Vartotojų srautas & Apsilankymai per valandą & 400 & 1000 \\ \hline
+			Reklamų peržiūros & Peržiūrėtos reklamos per valandą & 2000 & 5000 \\ \hline
+			Populiarumas & \makecell{Teigiamų - neigiamų \\ įvertinimų santykis} & 7,4 & >9 \\ \hline
+		\end{tabular}
+	\end{center}
+	\pagebreak
 
 	\begin{itemize}
 
@@ -1072,6 +1094,16 @@ PROGRAMŲ SISTEMŲ KATEDRA}
 		\item{\textbf{Srauto} - užtikrinami tvirtos magistralės srauto palaikymui su jo didinimo galimybe.}
 	\end{enumerate}
 	\end{itemize}
+	
+	\begin{center}
+		\captionof{table}{Reguliavimas\label{Regul}}
+		\begin{tabular}{ | c | c | c | c |}
+			\hline
+			Vertinimo kriterijus & Vertinimo matas & Esamas įvertis & Kritinė reikšmė \\ \hline 
+			Darbuotojų & Nusižengusių darbuotojų skaičius & 2 & 0 \\ \hline
+			Srauto & Užklausos per minutę & 60 & >180 \\ \hline
+		\end{tabular}
+	\end{center}
 	\pagebreak
 
 	\section{Vidinė proceso analizė}
@@ -1084,15 +1116,13 @@ PROGRAMŲ SISTEMŲ KATEDRA}
 	
 	\begin{enumerate}
 		\item{\textbf{Dabuotojai} – žmonės, dirbantys įmonėje ir padedantys palaikyti sistemą.}
-		\item{\textbf{Diskusija} – forumo sudedamoji dalis, sukuriama vartotojų.}
 		\item{\textbf{Fizinė įranga} – sistemos darbui palaikyti ir plėtoti naudojama fizinį kūną turintys objektai.}
-		\item{\textbf{Forumas} – sistemos paslauga, kurioje vartotojai gali diskutuoti.}
 		\item{\textbf{Naujienlaiškis} – sistemos paslauga, suteikianti vartotojams priegą prie įvairių straipsnių.}
 		\item{\textbf{Paieška} – pagrindinė sistemos paslauga, suteikianti vartotojui galimybę ieškoti norimo skelbimo.}
 		\item{\textbf{Paslaugos} – sistemos galimi veiksmai vartotojo naudai.}
 		\item{\textbf{Poreikis} – priežastis, dėl kurios vartotojas naudojasi sistema.}
-		\item{\textbf{Reklama} – užsakovo užsakyta trumpa, dažniausiai animuota nuoroda į užsakovo nurodytą šaltinį.}
-		\item{\textbf{Sistema} – paieškos platforma.}
+		\item{\textbf{Reklama} – užsakovo užsakyta trumpa, dažniausiai animuota nuoroda į užsakovo nurodytą svetainę.}
+		\item{\textbf{Sistema} – paslaugų platforma.}
 		\item{\textbf{Skelbimas} – pardavinėjamos transporto priemonės informacija.}
 		\item{\textbf{Straipsnis} – naujienlaiškyje talpinamas tekstas, dažniausiai paremtas nuorodomis į mokslinius veikalus apie bet kurią aktualią temą.}
 		\item{\textbf{Transporto priemonė} – skelbime vaizduojamas parduodamas objektas.}
@@ -1110,7 +1140,7 @@ PROGRAMŲ SISTEMŲ KATEDRA}
 		\end{center}
 	\end{figure}
 
-	Vartotojas naudojasi sistema siekdamas patenkinti savo poreikius. Sistema teikia šias paslaugas: naujienlaiškis, forumas, paieška. Paieškos rezultatas yra skelbimai su kiekvieno jų transporto priemonėmis. Užsakovas gali užsakyti reklamą arba straipsnį, kuris bus išplatintas sistemos naujienlaiškyje. Sistemą įtakoja jos fizinė ir virtuali įranga bei darbuotojai.
+	Vartotojas naudojasi sistema siekdamas patenkinti savo poreikius. Sistema teikia šias paslaugas: naujienlaiškis ir paieška. Paieškos rezultatas yra skelbimai su kiekvieno jų transporto priemonėmis. Užsakovas gali užsakyti reklamą arba straipsnį, kuris bus išplatintas sistemos naujienlaiškyje. Sistemą įtakoja jos fizinė ir virtuali įranga bei darbuotojai.
 	\pagebreak
 	
 	\subsection{Užduotys}
@@ -1125,7 +1155,7 @@ PROGRAMŲ SISTEMŲ KATEDRA}
 		\end{center}
 	\end{figure}
 	
-	Vartotojas yra agentas, kuris naudodamasis sistemos teikiamomis paslaugomis dalyvauja forumo diskusijose, ieško skelbimų ir skaito straipsnius.
+	Vartotojas yra agentas, kuris naudodamasis sistemos teikiamomis paslaugomis ieško transporto priemonių skelbimų ir skaito straipsnius.
 	
 	Užsakovas yra agentas, kuris užsako reklamas ir rašo ar užsako straipsnius.
 	\pagebreak
@@ -1156,16 +1186,16 @@ PROGRAMŲ SISTEMŲ KATEDRA}
 	Užsakovas, įsijungęs naujienlaiškį, turi galimybę jame patalpinti naują straipsnį. Jam tai padarius, sistema straipsnį išsaugo ir jis dabar yra pasiekiamas visiems vartotojams. Vartotojas, atsidaręs naujienlaiškį, gali pamatyti šio straipsnio antraštę ir jį atidaryti.
 	\pagebreak
 	
-	Užduoties „Diskutavimas forume“ vykdymo scenarijus pateiktas \ref{ForumScenario} paveikslėlyje.
+	Reklamos užsakymo scenarijus pateiktas \ref{AdBuyScenario} paveikslėlyje.
 	
 	\begin{figure}[h]
 		\begin{center}
-			\includegraphics[width=0.8\textwidth]{Forumas.eps}
-			\caption{Užduoties „Diskutavimas forume“ vykdymo scenarijus\label{ForumScenario}}
+			\includegraphics[width=0.8\textwidth]{ReklamosSeka.eps}
+			\caption{Reklamos užsakymo scenarijus\label{AdBuyScenario}}
 		\end{center}
 	\end{figure}
 	
-	Vartotojas, įsijungęs forumą, gali sukurti naują diskusiją. Tada bet kuris vartotojas gali atsidaryti šią diskusiją ir patalpinti joje naują įrašą.
+	Užsakovas, norėdamas patalpinti reklamą, pirmiausią turi rezervuoti jai vietą. Gavęs ją, jis jau gali patalpinti norimą reklamą. Nuo tada bet koks vartotojas, vykdantis paiešką, gali tarp paieškos rezultatų rasti užsakovo patalpintą reklamą.
 	\pagebreak
 	
 	\subsection{Dalykinės srities dinaminė struktūra}
@@ -1179,7 +1209,7 @@ PROGRAMŲ SISTEMŲ KATEDRA}
 		\end{center}
 	\end{figure}
 	
-	Pradinė kiekvieno sistemos sekamo skelbimo būsena yra „Pasiekiamas“. Konkrečiam vartotojui vykdant skelbimų paiešką, skelbimas to vartotojo kontekste gali tapti „Atrastas“, jei jis atitiko vartotojo nurodytus paieškos kriterijus. Tam pačiam vartotojui pakartotinai atlikus paiešką, skelbimas gali vėl tapti „Pasiekiamas“, jei jis neatitiko vartotojo nurodytų kriterijų. Bet kokiu laiko momentu skelbimas gali tapti „Panaikintas“, jei jis bus ištrintas iš jo šaltinio, ir taip baigsis jo gyvavimo ciklas.
+	Pradinė kiekvieno sistemos sekamo skelbimo būsena yra „Pasiekiamas“. Konkrečiam vartotojui vykdant skelbimų paiešką, skelbimas to vartotojo kontekste gali tapti „Rastas“, jei jis atitiko vartotojo nurodytus paieškos kriterijus. Tam pačiam vartotojui pakartotinai atlikus paiešką, skelbimas gali vėl tapti „Pasiekiamas“, jei jis neatitiko vartotojo nurodytų kriterijų. Bet kokiu laiko momentu skelbimas gali tapti „Panaikintas“, jei jis bus ištrintas iš jo šaltinio, ir taip baigsis jo gyvavimo ciklas.
 	\pagebreak	
 	
 	Esybės „Reklama“ gyyvavimo ciklas pateiktas \ref{AdState} paveikslėlyje.
@@ -1191,7 +1221,7 @@ PROGRAMŲ SISTEMŲ KATEDRA}
 		\end{center}
 	\end{figure}
 	
-	Pradinė užsakovo užsakytos reklamos būsena yra „Rezervuota“. Kai jai atsiranda laisva vieta ir yra galima ją rodyti, ji tampa „Patalpinta“. Pasibaigus reklamos rezervavimo laikui užsakovas gali ją pakartotinai užsakyti ir reklama vėl taps „Rezervuota“. Priešingu atveju ji bus „Išimta“ ir jos gyvavimo ciklas baigsis.
+	Pradinė užsakovo užsakytos reklamos būsena yra „Rezervuota“. Kai jai atsiranda laisva vieta ir yra galima ją rodyti, ji tampa „Patalpinta“. Pasibaigus reklamos rezervavimo laikui užsakovas gali ją pakartotinai užsakyti ir reklama vėl taps „Rezervuota“. Priešingu atveju ji taps „Išimta“ ir jos gyvavimo ciklas baigsis.
 	\pagebreak	
 	
 	\section{Analizės rezultatai}
@@ -1203,16 +1233,20 @@ PROGRAMŲ SISTEMŲ KATEDRA}
 		\begin{tabular}{ | c | c | }
 			\hline
 			\textbf{Stiprybės} & \textbf{Silpnybės} \\ \hline 
-			\makecell{Unikalumas \\ Efektyvumas \\ Paprasta naudotis \\ Mažas darbuotojų skaičius \\ Paslaugos teikiamos 24/7 \\ Uždirbama tik iš reklamų} & \makecell{Priklausoma nuo kitų sistemų (šaltinių) \\ Pateikiama nedaug reikalingos informacijos \\ Uždirbama tik iš reklamų} \\ \hline
+			\makecell{Unikalumas \\ Efektyvumas \\ Paprasta naudotis \\ Mažas darbuotojų skaičius \\ Paslaugos teikiamos 24/7 \\ Uždirbama tik iš reklamų*} & \makecell{Priklausoma nuo kitų sistemų (šaltinių) \\ Pateikiama nedaug reikalingos informacijos \\ Uždirbama tik iš reklamų*} \\ \hline
 			\textbf{Galimybės} & \textbf{Grėsmės} \\ \hline
-			\makecell{Įtraukti daugiau šaltinių \\ Didinti reklamai skirtą vietą \\ Didinti sistemos funkcionalumą} & \makecell{Šaltiniai nesidalija skelbimais \\ Prastas balansas tarp turinio ir reklamos \\ Mažas vartotojų, susidomėjusių reklamomis, srautas} \\ \hline 
+			\makecell{Įtraukti daugiau šaltinių \\ Didinti reklamai skirtą vietą \\ Didinti sistemos funkcionalumą**} & \makecell{Šaltiniai nesidalija skelbimais \\ Prastas balansas tarp turinio ir reklamos \\ Mažas vartotojų, susidomėjusių reklamomis, srautas} \\ \hline 
 		\end{tabular}
 	\end{center}
+	
+	*Faktas, kad uždirbama tik iš reklamų, gali būti ir stiprybė (kadangi nėra jokių naudojimosi mokesčių, sistema tampa patrauklesnė vartotojui), ir silpnybė (mažesnės pajamos).
+	
+	**Galimas sistemos funkcionalumo didinimas aprašytas skyriuje „Verslo proceso tobulinimo strategija“.
 	\pagebreak
 	
 	\section{Verslo proceso tobulinimo strategija}
 	
-	Verslas bus tobulinamas įdiegiant naujas, vartotojams naudingas, funkcijas, kurios padarytų naujos transporto priemonės ieškojimą dar patogesnį (pvz., būtų galima lyginti 2 ar 3 transporto priemones). Taip pat bus bandoma gerinti paieškos algoritmus (vartotojui rekomenduoti skelbimus, panašius į jo dažnai lankomus). Tai padės padaryti kiekvieną vartotojo praleistą minutę ieškant transporto priemonės daug prasmingesnę ir efektyvesnę, todėl tai sutaupytų vartotojui laiko.
+	Verslas bus tobulinamas įdiegiant naujas, vartotojams naudingas funkcijas, kurios padarytų naujos transporto priemonės ieškojimą dar patogesnį (pvz., būtų galima lyginti 2 ar 3 transporto priemones). Taip pat bus bandoma gerinti paieškos algoritmus (vartotojui rekomenduoti skelbimus, panašius į jo dažnai lankomus). Tai padės padaryti kiekvieną vartotojo praleistą minutę ieškant transporto priemonės daug prasmingesnę ir efektyvesnę, todėl tai sutaupytų vartotojui laiko.
 	\bigskip	
 	
 	Siekiai:
@@ -1241,31 +1275,27 @@ PROGRAMŲ SISTEMŲ KATEDRA}
 	
 	\begin{figure}[h]
 		\begin{center}
-			\includegraphics[width=0.8\textwidth]{Scenarijus.eps}
+			\includegraphics[width=0.77\textwidth]{Scenarijus.eps}
 			\caption{Pagrindinis scenarijus\label{Scenario}}
 		\end{center}
 	\end{figure}
 	
-	\textbf{Įjungti aplikaciją} - vartotojas įsijungia aplikaciją, kuri teikia visas vartotojui prieinamas sistemos paslaugas.
-	
-	\textbf{Sistemos teikiamos paslaugos} - paslaugos, prieinamos vartotojui (skelbimų paieška, forumo diskusijos, naujienlaiškio straipsniai).
-	
-	\textbf{Atlikti skelbimų paiešką} - vartotojas pasirenka pagrindinę sistemos paslaugą (skelbimų paiešką).
-	
-	\textbf{Atlikti paiešką} - sistema pagal nustatytą algoritmą atrenka tik tuos skelbimus, kurie atitinka vartotojo nurodytus kriterijus.
-	
-	\textbf{Rasti skelbimai} - sistema vartotojui grąžina skelbimus, kurie patenkina jo nustatytus kriterijus.
-	
-	\textbf{Atidaryti skelbimą} - vartotojas, susidomėjęs skelbimu, gali jį  atidaryti. Tada sistema bando užmegzti ryšį su to skelbimo šaltiniu ir.
-	
-	\textbf{Skelbimas} - jei sistema užmezga ryšį su norimo skelbimo šaltiniu, ji nukreipia vartotoją į šaltinyje esantį (nebe šios sistemos) skelbimą.
+	\begin{enumerate}
+	\item{\textbf{Įjungti aplikaciją} - vartotojas įsijungia aplikaciją, kuri teikia visas vartotojui prieinamas sistemos paslaugas.}
+	\item{\textbf{Sistemos teikiamos paslaugos} - paslaugos, prieinamos vartotojui (skelbimų paieška, naujienlaiškio straipsniai).}
+	\item{\textbf{Atlikti skelbimų paiešką} - vartotojas pasirenka pagrindinę sistemos paslaugą (skelbimų paiešką).}
+	\item{\textbf{Atlikti paiešką} - sistema pagal nustatytą algoritmą atrenka tik tuos skelbimus, kurie atitinka vartotojo nurodytus kriterijus.}
+	\item{\textbf{Rasti skelbimai} - sistema vartotojui grąžina skelbimus, kurie patenkina jo nustatytus kriterijus.}
+	\item{\textbf{Atidaryti skelbimą} - vartotojas, susidomėjęs skelbimu, gali jį  atidaryti. Tada sistema bando užmegzti ryšį su to skelbimo šaltiniu ir.}
+	\item{\textbf{Skelbimas} - jei sistema užmezga ryšį su norimo skelbimo šaltiniu, ji nukreipia vartotoją į šaltinyje esantį (nebe šios sistemos) skelbimą.}
+	\end{enumerate}
 	
 	\subsection{Sistemos teikiama nauda}
-	\ref{Gain} paveikslėlyje pavaizduota sistemos teikiama nauda.
+	Sistemos vartotojui teikiama nauda pavaizduota \ref{Gain} paveikslėlyje.
 	
 	\begin{figure}[h]
 		\begin{center}
-			\includegraphics[width=0.9\textwidth]{Nauda.eps}
+			\includegraphics[width=0.75\textwidth]{Nauda.eps}
 			\caption{Sistemos teikiama nauda\label{Gain}}
 		\end{center}
 	\end{figure}
@@ -1275,7 +1305,7 @@ PROGRAMŲ SISTEMŲ KATEDRA}
 	Esama infrastruktūra:
 	\begin{enumerate}
 		\item{Kompiuteris,}
-		\item{Telefonas.}
+		\item{Mobilusis įrenginys.}
 	\end{enumerate}
 	
 	\subsection{Priemonės scenarijui įgyvendinti}
